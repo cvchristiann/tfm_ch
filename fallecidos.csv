@@ -1,0 +1,1540 @@
+,fecha,cod_ine,CCAA,total_fallecidos,total_fallecidos_acumulado,Province,Country
+0,2020-03-04,1,Andalucía,0,0,Andalucia,Spain
+1,2020-03-05,1,Andalucía,0,0,Andalucia,Spain
+2,2020-03-06,1,Andalucía,0,0,Andalucia,Spain
+3,2020-03-07,1,Andalucía,0,0,Andalucia,Spain
+4,2020-03-08,1,Andalucía,0,0,Andalucia,Spain
+5,2020-03-09,1,Andalucía,0,0,Andalucia,Spain
+6,2020-03-10,1,Andalucía,0,0,Andalucia,Spain
+7,2020-03-11,1,Andalucía,0,0,Andalucia,Spain
+8,2020-03-12,1,Andalucía,0,0,Andalucia,Spain
+9,2020-03-13,1,Andalucía,0,0,Andalucia,Spain
+10,2020-03-14,1,Andalucía,2,2,Andalucia,Spain
+11,2020-03-15,1,Andalucía,6,8,Andalucia,Spain
+12,2020-03-16,1,Andalucía,7,15,Andalucia,Spain
+13,2020-03-17,1,Andalucía,11,26,Andalucia,Spain
+14,2020-03-18,1,Andalucía,19,45,Andalucia,Spain
+15,2020-03-19,1,Andalucía,23,68,Andalucia,Spain
+16,2020-03-20,1,Andalucía,30,98,Andalucia,Spain
+17,2020-03-21,1,Andalucía,40,138,Andalucia,Spain
+18,2020-03-22,1,Andalucía,47,185,Andalucia,Spain
+19,2020-03-23,1,Andalucía,58,243,Andalucia,Spain
+20,2020-03-24,1,Andalucía,87,330,Andalucia,Spain
+21,2020-03-25,1,Andalucía,113,443,Andalucia,Spain
+22,2020-03-26,1,Andalucía,134,577,Andalucia,Spain
+23,2020-03-27,1,Andalucía,144,721,Andalucia,Spain
+24,2020-03-28,1,Andalucía,175,896,Andalucia,Spain
+25,2020-03-29,1,Andalucía,207,1103,Andalucia,Spain
+26,2020-03-30,1,Andalucía,236,1339,Andalucia,Spain
+27,2020-03-31,1,Andalucía,248,1587,Andalucia,Spain
+28,2020-04-01,1,Andalucía,308,1895,Andalucia,Spain
+29,2020-04-02,1,Andalucía,343,2238,Andalucia,Spain
+30,2020-04-03,1,Andalucía,376,2614,Andalucia,Spain
+31,2020-04-04,1,Andalucía,426,3040,Andalucia,Spain
+32,2020-04-05,1,Andalucía,470,3510,Andalucia,Spain
+33,2020-04-06,1,Andalucía,491,4001,Andalucia,Spain
+34,2020-04-07,1,Andalucía,528,4529,Andalucia,Spain
+35,2020-04-08,1,Andalucía,605,5134,Andalucia,Spain
+36,2020-04-09,1,Andalucía,652,5786,Andalucia,Spain
+37,2020-04-10,1,Andalucía,691,6477,Andalucia,Spain
+38,2020-04-11,1,Andalucía,737,7214,Andalucia,Spain
+39,2020-04-12,1,Andalucía,799,8013,Andalucia,Spain
+40,2020-04-13,1,Andalucía,815,8828,Andalucia,Spain
+41,2020-04-14,1,Andalucía,836,9664,Andalucia,Spain
+42,2020-04-15,1,Andalucía,865,10529,Andalucia,Spain
+43,2020-04-16,1,Andalucía,912,11441,Andalucia,Spain
+44,2020-04-17,1,Andalucía,940,12381,Andalucia,Spain
+45,2020-04-18,1,Andalucía,967,13348,Andalucia,Spain
+46,2020-04-19,1,Andalucía,993,14341,Andalucia,Spain
+47,2020-04-20,1,Andalucía,1013,15354,Andalucia,Spain
+48,2020-04-21,1,Andalucía,1017,16371,Andalucia,Spain
+49,2020-04-22,1,Andalucía,1050,17421,Andalucia,Spain
+50,2020-04-23,1,Andalucía,1079,18500,Andalucia,Spain
+51,2020-04-24,1,Andalucía,1107,19607,Andalucia,Spain
+52,2020-04-25,1,Andalucía,1131,20738,Andalucia,Spain
+53,2020-04-26,1,Andalucía,1145,21883,Andalucia,Spain
+54,2020-04-27,1,Andalucía,1157,23040,Andalucia,Spain
+55,2020-04-28,1,Andalucía,1168,24208,Andalucia,Spain
+56,2020-04-29,1,Andalucía,1188,25396,Andalucia,Spain
+57,2020-04-30,1,Andalucía,1207,26603,Andalucia,Spain
+58,2020-05-01,1,Andalucía,1238,27841,Andalucia,Spain
+59,2020-05-02,1,Andalucía,1253,29094,Andalucia,Spain
+60,2020-05-03,1,Andalucía,1256,30350,Andalucia,Spain
+61,2020-05-04,1,Andalucía,1263,31613,Andalucia,Spain
+62,2020-05-05,1,Andalucía,1267,32880,Andalucia,Spain
+63,2020-05-06,1,Andalucía,1281,34161,Andalucia,Spain
+64,2020-05-07,1,Andalucía,1294,35455,Andalucia,Spain
+65,2020-05-08,1,Andalucía,1301,36756,Andalucia,Spain
+66,2020-05-09,1,Andalucía,1317,38073,Andalucia,Spain
+67,2020-05-10,1,Andalucía,1320,39393,Andalucia,Spain
+68,2020-05-11,1,Andalucía,1322,40715,Andalucia,Spain
+69,2020-05-12,1,Andalucía,1326,42041,Andalucia,Spain
+70,2020-05-13,1,Andalucía,1332,43373,Andalucia,Spain
+71,2020-05-14,1,Andalucía,1336,44709,Andalucia,Spain
+72,2020-05-15,1,Andalucía,1344,46053,Andalucia,Spain
+73,2020-05-16,1,Andalucía,1355,47408,Andalucia,Spain
+74,2020-05-17,1,Andalucía,1358,48766,Andalucia,Spain
+75,2020-05-18,1,Andalucía,1358,50124,Andalucia,Spain
+76,2020-05-19,1,Andalucía,1367,51491,Andalucia,Spain
+77,2020-05-20,1,Andalucía,1371,52862,Andalucia,Spain
+78,2020-05-21,1,Andalucía,1375,54237,Andalucia,Spain
+79,2020-05-22,1,Andalucía,1377,55614,Andalucia,Spain
+80,2020-05-23,1,Andalucía,1389,57003,Andalucia,Spain
+81,2020-03-04,2,Aragón,0,0,Aragon,Spain
+82,2020-03-05,2,Aragón,0,0,Aragon,Spain
+83,2020-03-06,2,Aragón,1,1,Aragon,Spain
+84,2020-03-07,2,Aragón,1,2,Aragon,Spain
+85,2020-03-08,2,Aragón,2,4,Aragon,Spain
+86,2020-03-09,2,Aragón,3,7,Aragon,Spain
+87,2020-03-10,2,Aragón,4,11,Aragon,Spain
+88,2020-03-11,2,Aragón,4,15,Aragon,Spain
+89,2020-03-12,2,Aragón,6,21,Aragon,Spain
+90,2020-03-13,2,Aragón,7,28,Aragon,Spain
+91,2020-03-14,2,Aragón,7,35,Aragon,Spain
+92,2020-03-15,2,Aragón,7,42,Aragon,Spain
+93,2020-03-16,2,Aragón,11,53,Aragon,Spain
+94,2020-03-17,2,Aragón,12,65,Aragon,Spain
+95,2020-03-18,2,Aragón,13,78,Aragon,Spain
+96,2020-03-19,2,Aragón,15,93,Aragon,Spain
+97,2020-03-20,2,Aragón,17,110,Aragon,Spain
+98,2020-03-21,2,Aragón,22,132,Aragon,Spain
+99,2020-03-22,2,Aragón,24,156,Aragon,Spain
+100,2020-03-23,2,Aragón,32,188,Aragon,Spain
+101,2020-03-24,2,Aragón,37,225,Aragon,Spain
+102,2020-03-25,2,Aragón,40,265,Aragon,Spain
+103,2020-03-26,2,Aragón,48,313,Aragon,Spain
+104,2020-03-27,2,Aragón,58,371,Aragon,Spain
+105,2020-03-28,2,Aragón,93,464,Aragon,Spain
+106,2020-03-29,2,Aragón,104,568,Aragon,Spain
+107,2020-03-30,2,Aragón,106,674,Aragon,Spain
+108,2020-03-31,2,Aragón,138,812,Aragon,Spain
+109,2020-04-01,2,Aragón,169,981,Aragon,Spain
+110,2020-04-02,2,Aragón,200,1181,Aragon,Spain
+111,2020-04-03,2,Aragón,224,1405,Aragon,Spain
+112,2020-04-04,2,Aragón,251,1656,Aragon,Spain
+113,2020-04-05,2,Aragón,270,1926,Aragon,Spain
+114,2020-04-06,2,Aragón,284,2210,Aragon,Spain
+115,2020-04-07,2,Aragón,312,2522,Aragon,Spain
+116,2020-04-08,2,Aragón,349,2871,Aragon,Spain
+117,2020-04-09,2,Aragón,385,3256,Aragon,Spain
+118,2020-04-10,2,Aragón,409,3665,Aragon,Spain
+119,2020-04-11,2,Aragón,425,4090,Aragon,Spain
+120,2020-04-12,2,Aragón,450,4540,Aragon,Spain
+121,2020-04-13,2,Aragón,464,5004,Aragon,Spain
+122,2020-04-14,2,Aragón,492,5496,Aragon,Spain
+123,2020-04-15,2,Aragón,514,6010,Aragon,Spain
+124,2020-04-16,2,Aragón,543,6553,Aragon,Spain
+125,2020-04-17,2,Aragón,562,7115,Aragon,Spain
+126,2020-04-18,2,Aragón,601,7716,Aragon,Spain
+127,2020-04-19,2,Aragón,619,8335,Aragon,Spain
+128,2020-04-20,2,Aragón,637,8972,Aragon,Spain
+129,2020-04-21,2,Aragón,643,9615,Aragon,Spain
+130,2020-04-22,2,Aragón,656,10271,Aragon,Spain
+131,2020-04-23,2,Aragón,681,10952,Aragon,Spain
+132,2020-04-24,2,Aragón,695,11647,Aragon,Spain
+133,2020-04-25,2,Aragón,709,12356,Aragon,Spain
+134,2020-04-26,2,Aragón,712,13068,Aragon,Spain
+135,2020-04-27,2,Aragón,726,13794,Aragon,Spain
+136,2020-04-28,2,Aragón,735,14529,Aragon,Spain
+137,2020-04-29,2,Aragón,736,15265,Aragon,Spain
+138,2020-04-30,2,Aragón,739,16004,Aragon,Spain
+139,2020-05-01,2,Aragón,749,16753,Aragon,Spain
+140,2020-05-02,2,Aragón,761,17514,Aragon,Spain
+141,2020-05-03,2,Aragón,761,18275,Aragon,Spain
+142,2020-05-04,2,Aragón,762,19037,Aragon,Spain
+143,2020-05-05,2,Aragón,770,19807,Aragon,Spain
+144,2020-05-06,2,Aragón,788,20595,Aragon,Spain
+145,2020-05-07,2,Aragón,800,21395,Aragon,Spain
+146,2020-05-08,2,Aragón,815,22210,Aragon,Spain
+147,2020-05-09,2,Aragón,823,23033,Aragon,Spain
+148,2020-05-10,2,Aragón,824,23857,Aragon,Spain
+149,2020-05-11,2,Aragón,825,24682,Aragon,Spain
+150,2020-05-12,2,Aragón,828,25510,Aragon,Spain
+151,2020-05-13,2,Aragón,829,26339,Aragon,Spain
+152,2020-05-14,2,Aragón,836,27175,Aragon,Spain
+153,2020-05-15,2,Aragón,837,28012,Aragon,Spain
+154,2020-05-16,2,Aragón,838,28850,Aragon,Spain
+155,2020-05-17,2,Aragón,838,29688,Aragon,Spain
+156,2020-05-18,2,Aragón,838,30526,Aragon,Spain
+157,2020-05-19,2,Aragón,843,31369,Aragon,Spain
+158,2020-05-20,2,Aragón,847,32216,Aragon,Spain
+159,2020-05-21,2,Aragón,848,33064,Aragon,Spain
+160,2020-05-22,2,Aragón,858,33922,Aragon,Spain
+161,2020-05-23,2,Aragón,858,34780,Aragon,Spain
+162,2020-03-04,3,Asturias,0,0,Asturias,Spain
+163,2020-03-05,3,Asturias,0,0,Asturias,Spain
+164,2020-03-06,3,Asturias,0,0,Asturias,Spain
+165,2020-03-07,3,Asturias,0,0,Asturias,Spain
+166,2020-03-08,3,Asturias,0,0,Asturias,Spain
+167,2020-03-09,3,Asturias,0,0,Asturias,Spain
+168,2020-03-10,3,Asturias,0,0,Asturias,Spain
+169,2020-03-11,3,Asturias,0,0,Asturias,Spain
+170,2020-03-12,3,Asturias,0,0,Asturias,Spain
+171,2020-03-13,3,Asturias,1,1,Asturias,Spain
+172,2020-03-14,3,Asturias,2,3,Asturias,Spain
+173,2020-03-15,3,Asturias,2,5,Asturias,Spain
+174,2020-03-16,3,Asturias,2,7,Asturias,Spain
+175,2020-03-17,3,Asturias,2,9,Asturias,Spain
+176,2020-03-18,3,Asturias,2,11,Asturias,Spain
+177,2020-03-19,3,Asturias,2,13,Asturias,Spain
+178,2020-03-20,3,Asturias,4,17,Asturias,Spain
+179,2020-03-21,3,Asturias,7,24,Asturias,Spain
+180,2020-03-22,3,Asturias,12,36,Asturias,Spain
+181,2020-03-23,3,Asturias,22,58,Asturias,Spain
+182,2020-03-24,3,Asturias,26,84,Asturias,Spain
+183,2020-03-25,3,Asturias,29,113,Asturias,Spain
+184,2020-03-26,3,Asturias,29,142,Asturias,Spain
+185,2020-03-27,3,Asturias,39,181,Asturias,Spain
+186,2020-03-28,3,Asturias,44,225,Asturias,Spain
+187,2020-03-29,3,Asturias,47,272,Asturias,Spain
+188,2020-03-30,3,Asturias,59,331,Asturias,Spain
+189,2020-03-31,3,Asturias,66,397,Asturias,Spain
+190,2020-04-01,3,Asturias,75,472,Asturias,Spain
+191,2020-04-02,3,Asturias,76,548,Asturias,Spain
+192,2020-04-03,3,Asturias,80,628,Asturias,Spain
+193,2020-04-04,3,Asturias,83,711,Asturias,Spain
+194,2020-04-05,3,Asturias,87,798,Asturias,Spain
+195,2020-04-06,3,Asturias,93,891,Asturias,Spain
+196,2020-04-07,3,Asturias,101,992,Asturias,Spain
+197,2020-04-08,3,Asturias,107,1099,Asturias,Spain
+198,2020-04-09,3,Asturias,113,1212,Asturias,Spain
+199,2020-04-10,3,Asturias,129,1341,Asturias,Spain
+200,2020-04-11,3,Asturias,134,1475,Asturias,Spain
+201,2020-04-12,3,Asturias,150,1625,Asturias,Spain
+202,2020-04-13,3,Asturias,157,1782,Asturias,Spain
+203,2020-04-14,3,Asturias,165,1947,Asturias,Spain
+204,2020-04-15,3,Asturias,172,2119,Asturias,Spain
+205,2020-04-16,3,Asturias,176,2295,Asturias,Spain
+206,2020-04-17,3,Asturias,186,2481,Asturias,Spain
+207,2020-04-18,3,Asturias,190,2671,Asturias,Spain
+208,2020-04-19,3,Asturias,197,2868,Asturias,Spain
+209,2020-04-20,3,Asturias,199,3067,Asturias,Spain
+210,2020-04-21,3,Asturias,203,3270,Asturias,Spain
+211,2020-04-22,3,Asturias,211,3481,Asturias,Spain
+212,2020-04-23,3,Asturias,222,3703,Asturias,Spain
+213,2020-04-24,3,Asturias,228,3931,Asturias,Spain
+214,2020-04-25,3,Asturias,235,4166,Asturias,Spain
+215,2020-04-26,3,Asturias,243,4409,Asturias,Spain
+216,2020-04-27,3,Asturias,248,4657,Asturias,Spain
+217,2020-04-28,3,Asturias,252,4909,Asturias,Spain
+218,2020-04-29,3,Asturias,259,5168,Asturias,Spain
+219,2020-04-30,3,Asturias,263,5431,Asturias,Spain
+220,2020-05-01,3,Asturias,264,5695,Asturias,Spain
+221,2020-05-02,3,Asturias,270,5965,Asturias,Spain
+222,2020-05-03,3,Asturias,270,6235,Asturias,Spain
+223,2020-05-04,3,Asturias,274,6509,Asturias,Spain
+224,2020-05-05,3,Asturias,275,6784,Asturias,Spain
+225,2020-05-06,3,Asturias,278,7062,Asturias,Spain
+226,2020-05-07,3,Asturias,279,7341,Asturias,Spain
+227,2020-05-08,3,Asturias,280,7621,Asturias,Spain
+228,2020-05-09,3,Asturias,280,7901,Asturias,Spain
+229,2020-05-10,3,Asturias,283,8184,Asturias,Spain
+230,2020-05-11,3,Asturias,288,8472,Asturias,Spain
+231,2020-05-12,3,Asturias,290,8762,Asturias,Spain
+232,2020-05-13,3,Asturias,292,9054,Asturias,Spain
+233,2020-05-14,3,Asturias,293,9347,Asturias,Spain
+234,2020-05-15,3,Asturias,298,9645,Asturias,Spain
+235,2020-05-16,3,Asturias,299,9944,Asturias,Spain
+236,2020-05-17,3,Asturias,299,10243,Asturias,Spain
+237,2020-05-18,3,Asturias,301,10544,Asturias,Spain
+238,2020-05-19,3,Asturias,303,10847,Asturias,Spain
+239,2020-05-20,3,Asturias,304,11151,Asturias,Spain
+240,2020-05-21,3,Asturias,307,11458,Asturias,Spain
+241,2020-05-22,3,Asturias,307,11765,Asturias,Spain
+242,2020-05-23,3,Asturias,307,12072,Asturias,Spain
+243,2020-03-04,4,Baleares,0,0,Baleares,Spain
+244,2020-03-05,4,Baleares,0,0,Baleares,Spain
+245,2020-03-06,4,Baleares,0,0,Baleares,Spain
+246,2020-03-07,4,Baleares,0,0,Baleares,Spain
+247,2020-03-08,4,Baleares,0,0,Baleares,Spain
+248,2020-03-09,4,Baleares,0,0,Baleares,Spain
+249,2020-03-10,4,Baleares,0,0,Baleares,Spain
+250,2020-03-11,4,Baleares,0,0,Baleares,Spain
+251,2020-03-12,4,Baleares,1,1,Baleares,Spain
+252,2020-03-13,4,Baleares,1,2,Baleares,Spain
+253,2020-03-14,4,Baleares,1,3,Baleares,Spain
+254,2020-03-15,4,Baleares,1,4,Baleares,Spain
+255,2020-03-16,4,Baleares,1,5,Baleares,Spain
+256,2020-03-17,4,Baleares,1,6,Baleares,Spain
+257,2020-03-18,4,Baleares,1,7,Baleares,Spain
+258,2020-03-19,4,Baleares,2,9,Baleares,Spain
+259,2020-03-20,4,Baleares,2,11,Baleares,Spain
+260,2020-03-21,4,Baleares,4,15,Baleares,Spain
+261,2020-03-22,4,Baleares,4,19,Baleares,Spain
+262,2020-03-23,4,Baleares,10,29,Baleares,Spain
+263,2020-03-24,4,Baleares,10,39,Baleares,Spain
+264,2020-03-25,4,Baleares,13,52,Baleares,Spain
+265,2020-03-26,4,Baleares,17,69,Baleares,Spain
+266,2020-03-27,4,Baleares,22,91,Baleares,Spain
+267,2020-03-28,4,Baleares,26,117,Baleares,Spain
+268,2020-03-29,4,Baleares,29,146,Baleares,Spain
+269,2020-03-30,4,Baleares,37,183,Baleares,Spain
+270,2020-03-31,4,Baleares,42,225,Baleares,Spain
+271,2020-04-01,4,Baleares,46,271,Baleares,Spain
+272,2020-04-02,4,Baleares,58,329,Baleares,Spain
+273,2020-04-03,4,Baleares,69,398,Baleares,Spain
+274,2020-04-04,4,Baleares,71,469,Baleares,Spain
+275,2020-04-05,4,Baleares,75,544,Baleares,Spain
+276,2020-04-06,4,Baleares,81,625,Baleares,Spain
+277,2020-04-07,4,Baleares,84,709,Baleares,Spain
+278,2020-04-08,4,Baleares,89,798,Baleares,Spain
+279,2020-04-09,4,Baleares,89,887,Baleares,Spain
+280,2020-04-10,4,Baleares,97,984,Baleares,Spain
+281,2020-04-11,4,Baleares,102,1086,Baleares,Spain
+282,2020-04-12,4,Baleares,112,1198,Baleares,Spain
+283,2020-04-13,4,Baleares,117,1315,Baleares,Spain
+284,2020-04-14,4,Baleares,118,1433,Baleares,Spain
+285,2020-04-15,4,Baleares,125,1558,Baleares,Spain
+286,2020-04-16,4,Baleares,131,1689,Baleares,Spain
+287,2020-04-17,4,Baleares,134,1823,Baleares,Spain
+288,2020-04-18,4,Baleares,148,1971,Baleares,Spain
+289,2020-04-19,4,Baleares,155,2126,Baleares,Spain
+290,2020-04-20,4,Baleares,157,2283,Baleares,Spain
+291,2020-04-21,4,Baleares,161,2444,Baleares,Spain
+292,2020-04-22,4,Baleares,164,2608,Baleares,Spain
+293,2020-04-23,4,Baleares,168,2776,Baleares,Spain
+294,2020-04-24,4,Baleares,172,2948,Baleares,Spain
+295,2020-04-25,4,Baleares,174,3122,Baleares,Spain
+296,2020-04-26,4,Baleares,175,3297,Baleares,Spain
+297,2020-04-27,4,Baleares,179,3476,Baleares,Spain
+298,2020-04-28,4,Baleares,181,3657,Baleares,Spain
+299,2020-04-29,4,Baleares,185,3842,Baleares,Spain
+300,2020-04-30,4,Baleares,188,4030,Baleares,Spain
+301,2020-05-01,4,Baleares,193,4223,Baleares,Spain
+302,2020-05-02,4,Baleares,197,4420,Baleares,Spain
+303,2020-05-03,4,Baleares,197,4617,Baleares,Spain
+304,2020-05-04,4,Baleares,197,4814,Baleares,Spain
+305,2020-05-05,4,Baleares,198,5012,Baleares,Spain
+306,2020-05-06,4,Baleares,199,5211,Baleares,Spain
+307,2020-05-07,4,Baleares,201,5412,Baleares,Spain
+308,2020-05-08,4,Baleares,202,5614,Baleares,Spain
+309,2020-05-09,4,Baleares,207,5821,Baleares,Spain
+310,2020-05-10,4,Baleares,209,6030,Baleares,Spain
+311,2020-05-11,4,Baleares,209,6239,Baleares,Spain
+312,2020-05-12,4,Baleares,210,6449,Baleares,Spain
+313,2020-05-13,4,Baleares,215,6664,Baleares,Spain
+314,2020-05-14,4,Baleares,216,6880,Baleares,Spain
+315,2020-05-15,4,Baleares,216,7096,Baleares,Spain
+316,2020-05-16,4,Baleares,216,7312,Baleares,Spain
+317,2020-05-17,4,Baleares,218,7530,Baleares,Spain
+318,2020-05-18,4,Baleares,218,7748,Baleares,Spain
+319,2020-05-19,4,Baleares,219,7967,Baleares,Spain
+320,2020-05-20,4,Baleares,221,8188,Baleares,Spain
+321,2020-05-21,4,Baleares,221,8409,Baleares,Spain
+322,2020-05-22,4,Baleares,222,8631,Baleares,Spain
+323,2020-05-23,4,Baleares,222,8853,Baleares,Spain
+324,2020-03-04,5,Canarias,0,0,Canarias,Spain
+325,2020-03-05,5,Canarias,0,0,Canarias,Spain
+326,2020-03-06,5,Canarias,0,0,Canarias,Spain
+327,2020-03-07,5,Canarias,0,0,Canarias,Spain
+328,2020-03-08,5,Canarias,0,0,Canarias,Spain
+329,2020-03-09,5,Canarias,0,0,Canarias,Spain
+330,2020-03-10,5,Canarias,0,0,Canarias,Spain
+331,2020-03-11,5,Canarias,0,0,Canarias,Spain
+332,2020-03-12,5,Canarias,0,0,Canarias,Spain
+333,2020-03-13,5,Canarias,0,0,Canarias,Spain
+334,2020-03-14,5,Canarias,1,1,Canarias,Spain
+335,2020-03-15,5,Canarias,1,2,Canarias,Spain
+336,2020-03-16,5,Canarias,1,3,Canarias,Spain
+337,2020-03-17,5,Canarias,2,5,Canarias,Spain
+338,2020-03-18,5,Canarias,3,8,Canarias,Spain
+339,2020-03-19,5,Canarias,3,11,Canarias,Spain
+340,2020-03-20,5,Canarias,4,15,Canarias,Spain
+341,2020-03-21,5,Canarias,7,22,Canarias,Spain
+342,2020-03-22,5,Canarias,9,31,Canarias,Spain
+343,2020-03-23,5,Canarias,11,42,Canarias,Spain
+344,2020-03-24,5,Canarias,16,58,Canarias,Spain
+345,2020-03-25,5,Canarias,21,79,Canarias,Spain
+346,2020-03-26,5,Canarias,24,103,Canarias,Spain
+347,2020-03-27,5,Canarias,27,130,Canarias,Spain
+348,2020-03-28,5,Canarias,36,166,Canarias,Spain
+349,2020-03-29,5,Canarias,39,205,Canarias,Spain
+350,2020-03-30,5,Canarias,40,245,Canarias,Spain
+351,2020-03-31,5,Canarias,55,300,Canarias,Spain
+352,2020-04-01,5,Canarias,62,362,Canarias,Spain
+353,2020-04-02,5,Canarias,68,430,Canarias,Spain
+354,2020-04-03,5,Canarias,73,503,Canarias,Spain
+355,2020-04-04,5,Canarias,78,581,Canarias,Spain
+356,2020-04-05,5,Canarias,80,661,Canarias,Spain
+357,2020-04-06,5,Canarias,85,746,Canarias,Spain
+358,2020-04-07,5,Canarias,89,835,Canarias,Spain
+359,2020-04-08,5,Canarias,91,926,Canarias,Spain
+360,2020-04-09,5,Canarias,92,1018,Canarias,Spain
+361,2020-04-10,5,Canarias,94,1112,Canarias,Spain
+362,2020-04-11,5,Canarias,95,1207,Canarias,Spain
+363,2020-04-12,5,Canarias,95,1302,Canarias,Spain
+364,2020-04-13,5,Canarias,96,1398,Canarias,Spain
+365,2020-04-14,5,Canarias,102,1500,Canarias,Spain
+366,2020-04-15,5,Canarias,104,1604,Canarias,Spain
+367,2020-04-16,5,Canarias,107,1711,Canarias,Spain
+368,2020-04-17,5,Canarias,111,1822,Canarias,Spain
+369,2020-04-18,5,Canarias,115,1937,Canarias,Spain
+370,2020-04-19,5,Canarias,119,2056,Canarias,Spain
+371,2020-04-20,5,Canarias,119,2175,Canarias,Spain
+372,2020-04-21,5,Canarias,120,2295,Canarias,Spain
+373,2020-04-22,5,Canarias,121,2416,Canarias,Spain
+374,2020-04-23,5,Canarias,121,2537,Canarias,Spain
+375,2020-04-24,5,Canarias,128,2665,Canarias,Spain
+376,2020-04-25,5,Canarias,130,2795,Canarias,Spain
+377,2020-04-26,5,Canarias,131,2926,Canarias,Spain
+378,2020-04-27,5,Canarias,131,3057,Canarias,Spain
+379,2020-04-28,5,Canarias,133,3190,Canarias,Spain
+380,2020-04-29,5,Canarias,134,3324,Canarias,Spain
+381,2020-04-30,5,Canarias,135,3459,Canarias,Spain
+382,2020-05-01,5,Canarias,136,3595,Canarias,Spain
+383,2020-05-02,5,Canarias,140,3735,Canarias,Spain
+384,2020-05-03,5,Canarias,140,3875,Canarias,Spain
+385,2020-05-04,5,Canarias,141,4016,Canarias,Spain
+386,2020-05-05,5,Canarias,142,4158,Canarias,Spain
+387,2020-05-06,5,Canarias,143,4301,Canarias,Spain
+388,2020-05-07,5,Canarias,144,4445,Canarias,Spain
+389,2020-05-08,5,Canarias,148,4593,Canarias,Spain
+390,2020-05-09,5,Canarias,148,4741,Canarias,Spain
+391,2020-05-10,5,Canarias,148,4889,Canarias,Spain
+392,2020-05-11,5,Canarias,149,5038,Canarias,Spain
+393,2020-05-12,5,Canarias,151,5189,Canarias,Spain
+394,2020-05-13,5,Canarias,151,5340,Canarias,Spain
+395,2020-05-14,5,Canarias,151,5491,Canarias,Spain
+396,2020-05-15,5,Canarias,151,5642,Canarias,Spain
+397,2020-05-16,5,Canarias,151,5793,Canarias,Spain
+398,2020-05-17,5,Canarias,151,5944,Canarias,Spain
+399,2020-05-18,5,Canarias,153,6097,Canarias,Spain
+400,2020-05-19,5,Canarias,155,6252,Canarias,Spain
+401,2020-05-20,5,Canarias,155,6407,Canarias,Spain
+402,2020-05-21,5,Canarias,155,6562,Canarias,Spain
+403,2020-05-22,5,Canarias,155,6717,Canarias,Spain
+404,2020-05-23,5,Canarias,157,6874,Canarias,Spain
+405,2020-03-04,6,Cantabria,0,0,Cantabria,Spain
+406,2020-03-05,6,Cantabria,0,0,Cantabria,Spain
+407,2020-03-06,6,Cantabria,0,0,Cantabria,Spain
+408,2020-03-07,6,Cantabria,0,0,Cantabria,Spain
+409,2020-03-08,6,Cantabria,0,0,Cantabria,Spain
+410,2020-03-09,6,Cantabria,0,0,Cantabria,Spain
+411,2020-03-10,6,Cantabria,0,0,Cantabria,Spain
+412,2020-03-11,6,Cantabria,0,0,Cantabria,Spain
+413,2020-03-12,6,Cantabria,0,0,Cantabria,Spain
+414,2020-03-13,6,Cantabria,0,0,Cantabria,Spain
+415,2020-03-14,6,Cantabria,0,0,Cantabria,Spain
+416,2020-03-15,6,Cantabria,0,0,Cantabria,Spain
+417,2020-03-16,6,Cantabria,0,0,Cantabria,Spain
+418,2020-03-17,6,Cantabria,0,0,Cantabria,Spain
+419,2020-03-18,6,Cantabria,1,1,Cantabria,Spain
+420,2020-03-19,6,Cantabria,1,2,Cantabria,Spain
+421,2020-03-20,6,Cantabria,1,3,Cantabria,Spain
+422,2020-03-21,6,Cantabria,2,5,Cantabria,Spain
+423,2020-03-22,6,Cantabria,5,10,Cantabria,Spain
+424,2020-03-23,6,Cantabria,6,16,Cantabria,Spain
+425,2020-03-24,6,Cantabria,9,25,Cantabria,Spain
+426,2020-03-25,6,Cantabria,14,39,Cantabria,Spain
+427,2020-03-26,6,Cantabria,17,56,Cantabria,Spain
+428,2020-03-27,6,Cantabria,21,77,Cantabria,Spain
+429,2020-03-28,6,Cantabria,22,99,Cantabria,Spain
+430,2020-03-29,6,Cantabria,26,125,Cantabria,Spain
+431,2020-03-30,6,Cantabria,27,152,Cantabria,Spain
+432,2020-03-31,6,Cantabria,37,189,Cantabria,Spain
+433,2020-04-01,6,Cantabria,54,243,Cantabria,Spain
+434,2020-04-02,6,Cantabria,60,303,Cantabria,Spain
+435,2020-04-03,6,Cantabria,64,367,Cantabria,Spain
+436,2020-04-04,6,Cantabria,68,435,Cantabria,Spain
+437,2020-04-05,6,Cantabria,68,503,Cantabria,Spain
+438,2020-04-06,6,Cantabria,77,580,Cantabria,Spain
+439,2020-04-07,6,Cantabria,85,665,Cantabria,Spain
+440,2020-04-08,6,Cantabria,92,757,Cantabria,Spain
+441,2020-04-09,6,Cantabria,98,855,Cantabria,Spain
+442,2020-04-10,6,Cantabria,102,957,Cantabria,Spain
+443,2020-04-11,6,Cantabria,107,1064,Cantabria,Spain
+444,2020-04-12,6,Cantabria,110,1174,Cantabria,Spain
+445,2020-04-13,6,Cantabria,117,1291,Cantabria,Spain
+446,2020-04-14,6,Cantabria,120,1411,Cantabria,Spain
+447,2020-04-15,6,Cantabria,132,1543,Cantabria,Spain
+448,2020-04-16,6,Cantabria,137,1680,Cantabria,Spain
+449,2020-04-17,6,Cantabria,144,1824,Cantabria,Spain
+450,2020-04-18,6,Cantabria,149,1973,Cantabria,Spain
+451,2020-04-19,6,Cantabria,153,2126,Cantabria,Spain
+452,2020-04-20,6,Cantabria,158,2284,Cantabria,Spain
+453,2020-04-21,6,Cantabria,165,2449,Cantabria,Spain
+454,2020-04-22,6,Cantabria,167,2616,Cantabria,Spain
+455,2020-04-23,6,Cantabria,173,2789,Cantabria,Spain
+456,2020-04-24,6,Cantabria,178,2967,Cantabria,Spain
+457,2020-04-25,6,Cantabria,182,3149,Cantabria,Spain
+458,2020-04-26,6,Cantabria,183,3332,Cantabria,Spain
+459,2020-04-27,6,Cantabria,186,3518,Cantabria,Spain
+460,2020-04-28,6,Cantabria,188,3706,Cantabria,Spain
+461,2020-04-29,6,Cantabria,191,3897,Cantabria,Spain
+462,2020-04-30,6,Cantabria,191,4088,Cantabria,Spain
+463,2020-05-01,6,Cantabria,192,4280,Cantabria,Spain
+464,2020-05-02,6,Cantabria,193,4473,Cantabria,Spain
+465,2020-05-03,6,Cantabria,195,4668,Cantabria,Spain
+466,2020-05-04,6,Cantabria,197,4865,Cantabria,Spain
+467,2020-05-05,6,Cantabria,198,5063,Cantabria,Spain
+468,2020-05-06,6,Cantabria,199,5262,Cantabria,Spain
+469,2020-05-07,6,Cantabria,200,5462,Cantabria,Spain
+470,2020-05-08,6,Cantabria,201,5663,Cantabria,Spain
+471,2020-05-09,6,Cantabria,201,5864,Cantabria,Spain
+472,2020-05-10,6,Cantabria,201,6065,Cantabria,Spain
+473,2020-05-11,6,Cantabria,201,6266,Cantabria,Spain
+474,2020-05-12,6,Cantabria,203,6469,Cantabria,Spain
+475,2020-05-13,6,Cantabria,205,6674,Cantabria,Spain
+476,2020-05-14,6,Cantabria,205,6879,Cantabria,Spain
+477,2020-05-15,6,Cantabria,206,7085,Cantabria,Spain
+478,2020-05-16,6,Cantabria,206,7291,Cantabria,Spain
+479,2020-05-17,6,Cantabria,207,7498,Cantabria,Spain
+480,2020-05-18,6,Cantabria,207,7705,Cantabria,Spain
+481,2020-05-19,6,Cantabria,208,7913,Cantabria,Spain
+482,2020-05-20,6,Cantabria,209,8122,Cantabria,Spain
+483,2020-05-21,6,Cantabria,209,8331,Cantabria,Spain
+484,2020-05-22,6,Cantabria,209,8540,Cantabria,Spain
+485,2020-05-23,6,Cantabria,209,8749,Cantabria,Spain
+486,2020-03-04,8,Castilla La Mancha,0,0,Castilla La Mancha,Spain
+487,2020-03-05,8,Castilla La Mancha,0,0,Castilla La Mancha,Spain
+488,2020-03-06,8,Castilla La Mancha,0,0,Castilla La Mancha,Spain
+489,2020-03-07,8,Castilla La Mancha,0,0,Castilla La Mancha,Spain
+490,2020-03-08,8,Castilla La Mancha,0,0,Castilla La Mancha,Spain
+491,2020-03-09,8,Castilla La Mancha,0,0,Castilla La Mancha,Spain
+492,2020-03-10,8,Castilla La Mancha,0,0,Castilla La Mancha,Spain
+493,2020-03-11,8,Castilla La Mancha,0,0,Castilla La Mancha,Spain
+494,2020-03-12,8,Castilla La Mancha,1,1,Castilla La Mancha,Spain
+495,2020-03-13,8,Castilla La Mancha,5,6,Castilla La Mancha,Spain
+496,2020-03-14,8,Castilla La Mancha,6,12,Castilla La Mancha,Spain
+497,2020-03-15,8,Castilla La Mancha,10,22,Castilla La Mancha,Spain
+498,2020-03-16,8,Castilla La Mancha,17,39,Castilla La Mancha,Spain
+499,2020-03-17,8,Castilla La Mancha,17,56,Castilla La Mancha,Spain
+500,2020-03-18,8,Castilla La Mancha,28,84,Castilla La Mancha,Spain
+501,2020-03-19,8,Castilla La Mancha,42,126,Castilla La Mancha,Spain
+502,2020-03-20,8,Castilla La Mancha,42,168,Castilla La Mancha,Spain
+503,2020-03-21,8,Castilla La Mancha,84,252,Castilla La Mancha,Spain
+504,2020-03-22,8,Castilla La Mancha,112,364,Castilla La Mancha,Spain
+505,2020-03-23,8,Castilla La Mancha,145,509,Castilla La Mancha,Spain
+506,2020-03-24,8,Castilla La Mancha,216,725,Castilla La Mancha,Spain
+507,2020-03-25,8,Castilla La Mancha,263,988,Castilla La Mancha,Spain
+508,2020-03-26,8,Castilla La Mancha,316,1304,Castilla La Mancha,Spain
+509,2020-03-27,8,Castilla La Mancha,367,1671,Castilla La Mancha,Spain
+510,2020-03-28,8,Castilla La Mancha,448,2119,Castilla La Mancha,Spain
+511,2020-03-29,8,Castilla La Mancha,539,2658,Castilla La Mancha,Spain
+512,2020-03-30,8,Castilla La Mancha,622,3280,Castilla La Mancha,Spain
+513,2020-03-31,8,Castilla La Mancha,708,3988,Castilla La Mancha,Spain
+514,2020-04-01,8,Castilla La Mancha,774,4762,Castilla La Mancha,Spain
+515,2020-04-02,8,Castilla La Mancha,854,5616,Castilla La Mancha,Spain
+516,2020-04-03,8,Castilla La Mancha,916,6532,Castilla La Mancha,Spain
+517,2020-04-04,8,Castilla La Mancha,989,7521,Castilla La Mancha,Spain
+518,2020-04-05,8,Castilla La Mancha,1055,8576,Castilla La Mancha,Spain
+519,2020-04-06,8,Castilla La Mancha,1132,9708,Castilla La Mancha,Spain
+520,2020-04-07,8,Castilla La Mancha,1177,10885,Castilla La Mancha,Spain
+521,2020-04-08,8,Castilla La Mancha,1255,12140,Castilla La Mancha,Spain
+522,2020-04-09,8,Castilla La Mancha,1322,13462,Castilla La Mancha,Spain
+523,2020-04-10,8,Castilla La Mancha,1431,14893,Castilla La Mancha,Spain
+524,2020-04-11,8,Castilla La Mancha,1483,16376,Castilla La Mancha,Spain
+525,2020-04-12,8,Castilla La Mancha,1543,17919,Castilla La Mancha,Spain
+526,2020-04-13,8,Castilla La Mancha,1626,19545,Castilla La Mancha,Spain
+527,2020-04-14,8,Castilla La Mancha,1714,21259,Castilla La Mancha,Spain
+528,2020-04-15,8,Castilla La Mancha,1755,23014,Castilla La Mancha,Spain
+529,2020-04-16,8,Castilla La Mancha,1796,24810,Castilla La Mancha,Spain
+530,2020-04-17,8,Castilla La Mancha,1852,26662,Castilla La Mancha,Spain
+531,2020-04-18,8,Castilla La Mancha,1913,28575,Castilla La Mancha,Spain
+532,2020-04-19,8,Castilla La Mancha,1963,30538,Castilla La Mancha,Spain
+533,2020-04-20,8,Castilla La Mancha,2021,32559,Castilla La Mancha,Spain
+534,2020-04-21,8,Castilla La Mancha,2075,34634,Castilla La Mancha,Spain
+535,2020-04-22,8,Castilla La Mancha,2140,36774,Castilla La Mancha,Spain
+536,2020-04-23,8,Castilla La Mancha,2188,38962,Castilla La Mancha,Spain
+537,2020-04-24,8,Castilla La Mancha,2255,41217,Castilla La Mancha,Spain
+538,2020-04-25,8,Castilla La Mancha,2292,43509,Castilla La Mancha,Spain
+539,2020-04-26,8,Castilla La Mancha,2330,45839,Castilla La Mancha,Spain
+540,2020-04-27,8,Castilla La Mancha,2365,48204,Castilla La Mancha,Spain
+541,2020-04-28,8,Castilla La Mancha,2396,50600,Castilla La Mancha,Spain
+542,2020-04-29,8,Castilla La Mancha,2436,53036,Castilla La Mancha,Spain
+543,2020-04-30,8,Castilla La Mancha,2463,55499,Castilla La Mancha,Spain
+544,2020-05-01,8,Castilla La Mancha,2498,57997,Castilla La Mancha,Spain
+545,2020-05-02,8,Castilla La Mancha,2534,60531,Castilla La Mancha,Spain
+546,2020-05-03,8,Castilla La Mancha,2565,63096,Castilla La Mancha,Spain
+547,2020-05-04,8,Castilla La Mancha,2590,65686,Castilla La Mancha,Spain
+548,2020-05-05,8,Castilla La Mancha,2616,68302,Castilla La Mancha,Spain
+549,2020-05-06,8,Castilla La Mancha,2647,70949,Castilla La Mancha,Spain
+550,2020-05-07,8,Castilla La Mancha,2677,73626,Castilla La Mancha,Spain
+551,2020-05-08,8,Castilla La Mancha,2713,76339,Castilla La Mancha,Spain
+552,2020-05-09,8,Castilla La Mancha,2738,79077,Castilla La Mancha,Spain
+553,2020-05-10,8,Castilla La Mancha,2759,81836,Castilla La Mancha,Spain
+554,2020-05-11,8,Castilla La Mancha,2786,84622,Castilla La Mancha,Spain
+555,2020-05-12,8,Castilla La Mancha,2811,87433,Castilla La Mancha,Spain
+556,2020-05-13,8,Castilla La Mancha,2835,90268,Castilla La Mancha,Spain
+557,2020-05-14,8,Castilla La Mancha,2852,93120,Castilla La Mancha,Spain
+558,2020-05-15,8,Castilla La Mancha,2870,95990,Castilla La Mancha,Spain
+559,2020-05-16,8,Castilla La Mancha,2883,98873,Castilla La Mancha,Spain
+560,2020-05-17,8,Castilla La Mancha,2893,101766,Castilla La Mancha,Spain
+561,2020-05-18,8,Castilla La Mancha,2898,104664,Castilla La Mancha,Spain
+562,2020-05-19,8,Castilla La Mancha,2900,107564,Castilla La Mancha,Spain
+563,2020-05-20,8,Castilla La Mancha,2913,110477,Castilla La Mancha,Spain
+564,2020-05-21,8,Castilla La Mancha,2919,113396,Castilla La Mancha,Spain
+565,2020-05-22,8,Castilla La Mancha,2929,116325,Castilla La Mancha,Spain
+566,2020-05-23,8,Castilla La Mancha,2934,119259,Castilla La Mancha,Spain
+567,2020-03-04,7,Castilla y León,0,0,Castilla y Leon,Spain
+568,2020-03-05,7,Castilla y León,0,0,Castilla y Leon,Spain
+569,2020-03-06,7,Castilla y León,0,0,Castilla y Leon,Spain
+570,2020-03-07,7,Castilla y León,0,0,Castilla y Leon,Spain
+571,2020-03-08,7,Castilla y León,0,0,Castilla y Leon,Spain
+572,2020-03-09,7,Castilla y León,0,0,Castilla y Leon,Spain
+573,2020-03-10,7,Castilla y León,0,0,Castilla y Leon,Spain
+574,2020-03-11,7,Castilla y León,0,0,Castilla y Leon,Spain
+575,2020-03-12,7,Castilla y León,0,0,Castilla y Leon,Spain
+576,2020-03-13,7,Castilla y León,1,1,Castilla y Leon,Spain
+577,2020-03-14,7,Castilla y León,3,4,Castilla y Leon,Spain
+578,2020-03-15,7,Castilla y León,6,10,Castilla y Leon,Spain
+579,2020-03-16,7,Castilla y León,9,19,Castilla y Leon,Spain
+580,2020-03-17,7,Castilla y León,12,31,Castilla y Leon,Spain
+581,2020-03-18,7,Castilla y León,22,53,Castilla y Leon,Spain
+582,2020-03-19,7,Castilla y León,29,82,Castilla y Leon,Spain
+583,2020-03-20,7,Castilla y León,43,125,Castilla y Leon,Spain
+584,2020-03-21,7,Castilla y León,55,180,Castilla y Leon,Spain
+585,2020-03-22,7,Castilla y León,74,254,Castilla y Leon,Spain
+586,2020-03-23,7,Castilla y León,102,356,Castilla y Leon,Spain
+587,2020-03-24,7,Castilla y León,124,480,Castilla y Leon,Spain
+588,2020-03-25,7,Castilla y León,165,645,Castilla y Leon,Spain
+589,2020-03-26,7,Castilla y León,206,851,Castilla y Leon,Spain
+590,2020-03-27,7,Castilla y León,252,1103,Castilla y Leon,Spain
+591,2020-03-28,7,Castilla y León,321,1424,Castilla y Leon,Spain
+592,2020-03-29,7,Castilla y León,380,1804,Castilla y Leon,Spain
+593,2020-03-30,7,Castilla y León,442,2246,Castilla y Leon,Spain
+594,2020-03-31,7,Castilla y León,516,2762,Castilla y Leon,Spain
+595,2020-04-01,7,Castilla y León,585,3347,Castilla y Leon,Spain
+596,2020-04-02,7,Castilla y León,641,3988,Castilla y Leon,Spain
+597,2020-04-03,7,Castilla y León,723,4711,Castilla y Leon,Spain
+598,2020-04-04,7,Castilla y León,786,5497,Castilla y Leon,Spain
+599,2020-04-05,7,Castilla y León,847,6344,Castilla y Leon,Spain
+600,2020-04-06,7,Castilla y León,919,7263,Castilla y Leon,Spain
+601,2020-04-07,7,Castilla y León,982,8245,Castilla y Leon,Spain
+602,2020-04-08,7,Castilla y León,1028,9273,Castilla y Leon,Spain
+603,2020-04-09,7,Castilla y León,1082,10355,Castilla y Leon,Spain
+604,2020-04-10,7,Castilla y León,1129,11484,Castilla y Leon,Spain
+605,2020-04-11,7,Castilla y León,1180,12664,Castilla y Leon,Spain
+606,2020-04-12,7,Castilla y León,1221,13885,Castilla y Leon,Spain
+607,2020-04-13,7,Castilla y León,1263,15148,Castilla y Leon,Spain
+608,2020-04-14,7,Castilla y León,1299,16447,Castilla y Leon,Spain
+609,2020-04-15,7,Castilla y León,1337,17784,Castilla y Leon,Spain
+610,2020-04-16,7,Castilla y León,1372,19156,Castilla y Leon,Spain
+611,2020-04-17,7,Castilla y León,1401,20557,Castilla y Leon,Spain
+612,2020-04-18,7,Castilla y León,1429,21986,Castilla y Leon,Spain
+613,2020-04-19,7,Castilla y León,1458,23444,Castilla y Leon,Spain
+614,2020-04-20,7,Castilla y León,1493,24937,Castilla y Leon,Spain
+615,2020-04-21,7,Castilla y León,1521,26458,Castilla y Leon,Spain
+616,2020-04-22,7,Castilla y León,1554,28012,Castilla y Leon,Spain
+617,2020-04-23,7,Castilla y León,1582,29594,Castilla y Leon,Spain
+618,2020-04-24,7,Castilla y León,1612,31206,Castilla y Leon,Spain
+619,2020-04-25,7,Castilla y León,1639,32845,Castilla y Leon,Spain
+620,2020-04-26,7,Castilla y León,1666,34511,Castilla y Leon,Spain
+621,2020-04-27,7,Castilla y León,1690,36201,Castilla y Leon,Spain
+622,2020-04-28,7,Castilla y León,1710,37911,Castilla y Leon,Spain
+623,2020-04-29,7,Castilla y León,1736,39647,Castilla y Leon,Spain
+624,2020-04-30,7,Castilla y León,1752,41399,Castilla y Leon,Spain
+625,2020-05-01,7,Castilla y León,1770,43169,Castilla y Leon,Spain
+626,2020-05-02,7,Castilla y León,1788,44957,Castilla y Leon,Spain
+627,2020-05-03,7,Castilla y León,1800,46757,Castilla y Leon,Spain
+628,2020-05-04,7,Castilla y León,1818,48575,Castilla y Leon,Spain
+629,2020-05-05,7,Castilla y León,1832,50407,Castilla y Leon,Spain
+630,2020-05-06,7,Castilla y León,1847,52254,Castilla y Leon,Spain
+631,2020-05-07,7,Castilla y León,1864,54118,Castilla y Leon,Spain
+632,2020-05-08,7,Castilla y León,1876,55994,Castilla y Leon,Spain
+633,2020-05-09,7,Castilla y León,1885,57879,Castilla y Leon,Spain
+634,2020-05-10,7,Castilla y León,1897,59776,Castilla y Leon,Spain
+635,2020-05-11,7,Castilla y León,1905,61681,Castilla y Leon,Spain
+636,2020-05-12,7,Castilla y León,1914,63595,Castilla y Leon,Spain
+637,2020-05-13,7,Castilla y León,1919,65514,Castilla y Leon,Spain
+638,2020-05-14,7,Castilla y León,1925,67439,Castilla y Leon,Spain
+639,2020-05-15,7,Castilla y León,1930,69369,Castilla y Leon,Spain
+640,2020-05-16,7,Castilla y León,1940,71309,Castilla y Leon,Spain
+641,2020-05-17,7,Castilla y León,1946,73255,Castilla y Leon,Spain
+642,2020-05-18,7,Castilla y León,1953,75208,Castilla y Leon,Spain
+643,2020-05-19,7,Castilla y León,1960,77168,Castilla y Leon,Spain
+644,2020-05-20,7,Castilla y León,1960,79128,Castilla y Leon,Spain
+645,2020-05-21,7,Castilla y León,1960,81088,Castilla y Leon,Spain
+646,2020-05-22,7,Castilla y León,1961,83049,Castilla y Leon,Spain
+647,2020-05-23,7,Castilla y León,1961,85010,Castilla y Leon,Spain
+648,2020-03-04,9,Cataluña,0,0,Cataluña,Spain
+649,2020-03-05,9,Cataluña,0,0,Cataluña,Spain
+650,2020-03-06,9,Cataluña,0,0,Cataluña,Spain
+651,2020-03-07,9,Cataluña,1,1,Cataluña,Spain
+652,2020-03-08,9,Cataluña,1,2,Cataluña,Spain
+653,2020-03-09,9,Cataluña,2,4,Cataluña,Spain
+654,2020-03-10,9,Cataluña,2,6,Cataluña,Spain
+655,2020-03-11,9,Cataluña,3,9,Cataluña,Spain
+656,2020-03-12,9,Cataluña,6,15,Cataluña,Spain
+657,2020-03-13,9,Cataluña,9,24,Cataluña,Spain
+658,2020-03-14,9,Cataluña,13,37,Cataluña,Spain
+659,2020-03-15,9,Cataluña,15,52,Cataluña,Spain
+660,2020-03-16,9,Cataluña,20,72,Cataluña,Spain
+661,2020-03-17,9,Cataluña,23,95,Cataluña,Spain
+662,2020-03-18,9,Cataluña,33,128,Cataluña,Spain
+663,2020-03-19,9,Cataluña,53,181,Cataluña,Spain
+664,2020-03-20,9,Cataluña,93,274,Cataluña,Spain
+665,2020-03-21,9,Cataluña,143,417,Cataluña,Spain
+666,2020-03-22,9,Cataluña,182,599,Cataluña,Spain
+667,2020-03-23,9,Cataluña,199,798,Cataluña,Spain
+668,2020-03-24,9,Cataluña,293,1091,Cataluña,Spain
+669,2020-03-25,9,Cataluña,385,1476,Cataluña,Spain
+670,2020-03-26,9,Cataluña,501,1977,Cataluña,Spain
+671,2020-03-27,9,Cataluña,685,2662,Cataluña,Spain
+672,2020-03-28,9,Cataluña,827,3489,Cataluña,Spain
+673,2020-03-29,9,Cataluña,904,4393,Cataluña,Spain
+674,2020-03-30,9,Cataluña,983,5376,Cataluña,Spain
+675,2020-03-31,9,Cataluña,1216,6592,Cataluña,Spain
+676,2020-04-01,9,Cataluña,1458,8050,Cataluña,Spain
+677,2020-04-02,9,Cataluña,1629,9679,Cataluña,Spain
+678,2020-04-03,9,Cataluña,1784,11463,Cataluña,Spain
+679,2020-04-04,9,Cataluña,1928,13391,Cataluña,Spain
+680,2020-04-05,9,Cataluña,2053,15444,Cataluña,Spain
+681,2020-04-06,9,Cataluña,2167,17611,Cataluña,Spain
+682,2020-04-07,9,Cataluña,2329,19940,Cataluña,Spain
+683,2020-04-08,9,Cataluña,2462,22402,Cataluña,Spain
+684,2020-04-09,9,Cataluña,2667,25069,Cataluña,Spain
+685,2020-04-10,9,Cataluña,2787,27856,Cataluña,Spain
+686,2020-04-11,9,Cataluña,2877,30733,Cataluña,Spain
+687,2020-04-12,9,Cataluña,2975,33708,Cataluña,Spain
+688,2020-04-13,9,Cataluña,3105,36813,Cataluña,Spain
+689,2020-04-14,9,Cataluña,3201,40014,Cataluña,Spain
+690,2020-04-15,9,Cataluña,3453,43467,Cataluña,Spain
+691,2020-04-16,9,Cataluña,3618,47085,Cataluña,Spain
+692,2020-04-17,9,Cataluña,3752,50837,Cataluña,Spain
+693,2020-04-18,9,Cataluña,3879,54716,Cataluña,Spain
+694,2020-04-19,9,Cataluña,3933,58649,Cataluña,Spain
+695,2020-04-20,9,Cataluña,4009,62658,Cataluña,Spain
+696,2020-04-21,9,Cataluña,4152,66810,Cataluña,Spain
+697,2020-04-22,9,Cataluña,4247,71057,Cataluña,Spain
+698,2020-04-23,9,Cataluña,4343,75400,Cataluña,Spain
+699,2020-04-24,9,Cataluña,4393,79793,Cataluña,Spain
+700,2020-04-25,9,Cataluña,4498,84291,Cataluña,Spain
+701,2020-04-26,9,Cataluña,4566,88857,Cataluña,Spain
+702,2020-04-27,9,Cataluña,4699,93556,Cataluña,Spain
+703,2020-04-28,9,Cataluña,4808,98364,Cataluña,Spain
+704,2020-04-29,9,Cataluña,4905,103269,Cataluña,Spain
+705,2020-04-30,9,Cataluña,4975,108244,Cataluña,Spain
+706,2020-05-01,9,Cataluña,5061,113305,Cataluña,Spain
+707,2020-05-02,9,Cataluña,5137,118442,Cataluña,Spain
+708,2020-05-03,9,Cataluña,5185,123627,Cataluña,Spain
+709,2020-05-04,9,Cataluña,5220,128847,Cataluña,Spain
+710,2020-05-05,9,Cataluña,5270,134117,Cataluña,Spain
+711,2020-05-06,9,Cataluña,5345,139462,Cataluña,Spain
+712,2020-05-07,9,Cataluña,5394,144856,Cataluña,Spain
+713,2020-05-08,9,Cataluña,5471,150327,Cataluña,Spain
+714,2020-05-09,9,Cataluña,5507,155834,Cataluña,Spain
+715,2020-05-10,9,Cataluña,5532,161366,Cataluña,Spain
+716,2020-05-11,9,Cataluña,5555,166921,Cataluña,Spain
+717,2020-05-12,9,Cataluña,5621,172542,Cataluña,Spain
+718,2020-05-13,9,Cataluña,5692,178234,Cataluña,Spain
+719,2020-05-14,9,Cataluña,5823,184057,Cataluña,Spain
+720,2020-05-15,9,Cataluña,5882,189939,Cataluña,Spain
+721,2020-05-16,9,Cataluña,5915,195854,Cataluña,Spain
+722,2020-05-17,9,Cataluña,5944,201798,Cataluña,Spain
+723,2020-05-18,9,Cataluña,5956,207754,Cataluña,Spain
+724,2020-05-19,9,Cataluña,5981,213735,Cataluña,Spain
+725,2020-05-20,9,Cataluña,6021,219756,Cataluña,Spain
+726,2020-05-21,9,Cataluña,6021,225777,Cataluña,Spain
+727,2020-05-22,9,Cataluña,6656,232433,Cataluña,Spain
+728,2020-05-23,9,Cataluña,6663,239096,Cataluña,Spain
+729,2020-03-04,18,Ceuta,0,0,Ceuta,Spain
+730,2020-03-05,18,Ceuta,0,0,Ceuta,Spain
+731,2020-03-06,18,Ceuta,0,0,Ceuta,Spain
+732,2020-03-07,18,Ceuta,0,0,Ceuta,Spain
+733,2020-03-08,18,Ceuta,0,0,Ceuta,Spain
+734,2020-03-09,18,Ceuta,0,0,Ceuta,Spain
+735,2020-03-10,18,Ceuta,0,0,Ceuta,Spain
+736,2020-03-11,18,Ceuta,0,0,Ceuta,Spain
+737,2020-03-12,18,Ceuta,0,0,Ceuta,Spain
+738,2020-03-13,18,Ceuta,0,0,Ceuta,Spain
+739,2020-03-14,18,Ceuta,0,0,Ceuta,Spain
+740,2020-03-15,18,Ceuta,0,0,Ceuta,Spain
+741,2020-03-16,18,Ceuta,0,0,Ceuta,Spain
+742,2020-03-17,18,Ceuta,0,0,Ceuta,Spain
+743,2020-03-18,18,Ceuta,0,0,Ceuta,Spain
+744,2020-03-19,18,Ceuta,0,0,Ceuta,Spain
+745,2020-03-20,18,Ceuta,0,0,Ceuta,Spain
+746,2020-03-21,18,Ceuta,0,0,Ceuta,Spain
+747,2020-03-22,18,Ceuta,0,0,Ceuta,Spain
+748,2020-03-23,18,Ceuta,0,0,Ceuta,Spain
+749,2020-03-24,18,Ceuta,0,0,Ceuta,Spain
+750,2020-03-25,18,Ceuta,0,0,Ceuta,Spain
+751,2020-03-26,18,Ceuta,0,0,Ceuta,Spain
+752,2020-03-27,18,Ceuta,0,0,Ceuta,Spain
+753,2020-03-28,18,Ceuta,1,1,Ceuta,Spain
+754,2020-03-29,18,Ceuta,1,2,Ceuta,Spain
+755,2020-03-30,18,Ceuta,1,3,Ceuta,Spain
+756,2020-03-31,18,Ceuta,1,4,Ceuta,Spain
+757,2020-04-01,18,Ceuta,1,5,Ceuta,Spain
+758,2020-04-02,18,Ceuta,1,6,Ceuta,Spain
+759,2020-04-03,18,Ceuta,1,7,Ceuta,Spain
+760,2020-04-04,18,Ceuta,1,8,Ceuta,Spain
+761,2020-04-05,18,Ceuta,2,10,Ceuta,Spain
+762,2020-04-06,18,Ceuta,3,13,Ceuta,Spain
+763,2020-04-07,18,Ceuta,4,17,Ceuta,Spain
+764,2020-04-08,18,Ceuta,4,21,Ceuta,Spain
+765,2020-04-09,18,Ceuta,4,25,Ceuta,Spain
+766,2020-04-10,18,Ceuta,4,29,Ceuta,Spain
+767,2020-04-11,18,Ceuta,4,33,Ceuta,Spain
+768,2020-04-12,18,Ceuta,4,37,Ceuta,Spain
+769,2020-04-13,18,Ceuta,4,41,Ceuta,Spain
+770,2020-04-14,18,Ceuta,4,45,Ceuta,Spain
+771,2020-04-15,18,Ceuta,4,49,Ceuta,Spain
+772,2020-04-16,18,Ceuta,4,53,Ceuta,Spain
+773,2020-04-17,18,Ceuta,4,57,Ceuta,Spain
+774,2020-04-18,18,Ceuta,4,61,Ceuta,Spain
+775,2020-04-19,18,Ceuta,4,65,Ceuta,Spain
+776,2020-04-20,18,Ceuta,4,69,Ceuta,Spain
+777,2020-04-21,18,Ceuta,4,73,Ceuta,Spain
+778,2020-04-22,18,Ceuta,4,77,Ceuta,Spain
+779,2020-04-23,18,Ceuta,4,81,Ceuta,Spain
+780,2020-04-24,18,Ceuta,4,85,Ceuta,Spain
+781,2020-04-25,18,Ceuta,4,89,Ceuta,Spain
+782,2020-04-26,18,Ceuta,4,93,Ceuta,Spain
+783,2020-04-27,18,Ceuta,4,97,Ceuta,Spain
+784,2020-04-28,18,Ceuta,4,101,Ceuta,Spain
+785,2020-04-29,18,Ceuta,4,105,Ceuta,Spain
+786,2020-04-30,18,Ceuta,4,109,Ceuta,Spain
+787,2020-05-01,18,Ceuta,4,113,Ceuta,Spain
+788,2020-05-02,18,Ceuta,4,117,Ceuta,Spain
+789,2020-05-03,18,Ceuta,4,121,Ceuta,Spain
+790,2020-05-04,18,Ceuta,4,125,Ceuta,Spain
+791,2020-05-05,18,Ceuta,4,129,Ceuta,Spain
+792,2020-05-06,18,Ceuta,4,133,Ceuta,Spain
+793,2020-05-07,18,Ceuta,4,137,Ceuta,Spain
+794,2020-05-08,18,Ceuta,4,141,Ceuta,Spain
+795,2020-05-09,18,Ceuta,4,145,Ceuta,Spain
+796,2020-05-10,18,Ceuta,4,149,Ceuta,Spain
+797,2020-05-11,18,Ceuta,4,153,Ceuta,Spain
+798,2020-05-12,18,Ceuta,4,157,Ceuta,Spain
+799,2020-05-13,18,Ceuta,4,161,Ceuta,Spain
+800,2020-05-14,18,Ceuta,4,165,Ceuta,Spain
+801,2020-05-15,18,Ceuta,4,169,Ceuta,Spain
+802,2020-05-16,18,Ceuta,4,173,Ceuta,Spain
+803,2020-05-17,18,Ceuta,4,177,Ceuta,Spain
+804,2020-05-18,18,Ceuta,4,181,Ceuta,Spain
+805,2020-05-19,18,Ceuta,4,185,Ceuta,Spain
+806,2020-05-20,18,Ceuta,4,189,Ceuta,Spain
+807,2020-05-21,18,Ceuta,4,193,Ceuta,Spain
+808,2020-05-22,18,Ceuta,4,197,Ceuta,Spain
+809,2020-05-23,18,Ceuta,4,201,Ceuta,Spain
+810,2020-03-04,10,C. Valenciana,1,1,Valencia,Spain
+811,2020-03-05,10,C. Valenciana,1,2,Valencia,Spain
+812,2020-03-06,10,C. Valenciana,1,3,Valencia,Spain
+813,2020-03-07,10,C. Valenciana,1,4,Valencia,Spain
+814,2020-03-08,10,C. Valenciana,1,5,Valencia,Spain
+815,2020-03-09,10,C. Valenciana,1,6,Valencia,Spain
+816,2020-03-10,10,C. Valenciana,1,7,Valencia,Spain
+817,2020-03-11,10,C. Valenciana,1,8,Valencia,Spain
+818,2020-03-12,10,C. Valenciana,1,9,Valencia,Spain
+819,2020-03-13,10,C. Valenciana,1,10,Valencia,Spain
+820,2020-03-14,10,C. Valenciana,4,14,Valencia,Spain
+821,2020-03-15,10,C. Valenciana,5,19,Valencia,Spain
+822,2020-03-16,10,C. Valenciana,5,24,Valencia,Spain
+823,2020-03-17,10,C. Valenciana,13,37,Valencia,Spain
+824,2020-03-18,10,C. Valenciana,22,59,Valencia,Spain
+825,2020-03-19,10,C. Valenciana,24,83,Valencia,Spain
+826,2020-03-20,10,C. Valenciana,33,116,Valencia,Spain
+827,2020-03-21,10,C. Valenciana,50,166,Valencia,Spain
+828,2020-03-22,10,C. Valenciana,69,235,Valencia,Spain
+829,2020-03-23,10,C. Valenciana,94,329,Valencia,Spain
+830,2020-03-24,10,C. Valenciana,115,444,Valencia,Spain
+831,2020-03-25,10,C. Valenciana,143,587,Valencia,Spain
+832,2020-03-26,10,C. Valenciana,167,754,Valencia,Spain
+833,2020-03-27,10,C. Valenciana,198,952,Valencia,Spain
+834,2020-03-28,10,C. Valenciana,234,1186,Valencia,Spain
+835,2020-03-29,10,C. Valenciana,267,1453,Valencia,Spain
+836,2020-03-30,10,C. Valenciana,310,1763,Valencia,Spain
+837,2020-03-31,10,C. Valenciana,339,2102,Valencia,Spain
+838,2020-04-01,10,C. Valenciana,395,2497,Valencia,Spain
+839,2020-04-02,10,C. Valenciana,443,2940,Valencia,Spain
+840,2020-04-03,10,C. Valenciana,511,3451,Valencia,Spain
+841,2020-04-04,10,C. Valenciana,571,4022,Valencia,Spain
+842,2020-04-05,10,C. Valenciana,613,4635,Valencia,Spain
+843,2020-04-06,10,C. Valenciana,637,5272,Valencia,Spain
+844,2020-04-07,10,C. Valenciana,672,5944,Valencia,Spain
+845,2020-04-08,10,C. Valenciana,724,6668,Valencia,Spain
+846,2020-04-09,10,C. Valenciana,767,7435,Valencia,Spain
+847,2020-04-10,10,C. Valenciana,796,8231,Valencia,Spain
+848,2020-04-11,10,C. Valenciana,818,9049,Valencia,Spain
+849,2020-04-12,10,C. Valenciana,838,9887,Valencia,Spain
+850,2020-04-13,10,C. Valenciana,876,10763,Valencia,Spain
+851,2020-04-14,10,C. Valenciana,907,11670,Valencia,Spain
+852,2020-04-15,10,C. Valenciana,945,12615,Valencia,Spain
+853,2020-04-16,10,C. Valenciana,972,13587,Valencia,Spain
+854,2020-04-17,10,C. Valenciana,999,14586,Valencia,Spain
+855,2020-04-18,10,C. Valenciana,1042,15628,Valencia,Spain
+856,2020-04-19,10,C. Valenciana,1065,16693,Valencia,Spain
+857,2020-04-20,10,C. Valenciana,1079,17772,Valencia,Spain
+858,2020-04-21,10,C. Valenciana,1089,18861,Valencia,Spain
+859,2020-04-22,10,C. Valenciana,1106,19967,Valencia,Spain
+860,2020-04-23,10,C. Valenciana,1124,21091,Valencia,Spain
+861,2020-04-24,10,C. Valenciana,1147,22238,Valencia,Spain
+862,2020-04-25,10,C. Valenciana,1172,23410,Valencia,Spain
+863,2020-04-26,10,C. Valenciana,1186,24596,Valencia,Spain
+864,2020-04-27,10,C. Valenciana,1189,25785,Valencia,Spain
+865,2020-04-28,10,C. Valenciana,1200,26985,Valencia,Spain
+866,2020-04-29,10,C. Valenciana,1218,28203,Valencia,Spain
+867,2020-04-30,10,C. Valenciana,1236,29439,Valencia,Spain
+868,2020-05-01,10,C. Valenciana,1245,30684,Valencia,Spain
+869,2020-05-02,10,C. Valenciana,1258,31942,Valencia,Spain
+870,2020-05-03,10,C. Valenciana,1264,33206,Valencia,Spain
+871,2020-05-04,10,C. Valenciana,1269,34475,Valencia,Spain
+872,2020-05-05,10,C. Valenciana,1279,35754,Valencia,Spain
+873,2020-05-06,10,C. Valenciana,1291,37045,Valencia,Spain
+874,2020-05-07,10,C. Valenciana,1303,38348,Valencia,Spain
+875,2020-05-08,10,C. Valenciana,1309,39657,Valencia,Spain
+876,2020-05-09,10,C. Valenciana,1315,40972,Valencia,Spain
+877,2020-05-10,10,C. Valenciana,1323,42295,Valencia,Spain
+878,2020-05-11,10,C. Valenciana,1330,43625,Valencia,Spain
+879,2020-05-12,10,C. Valenciana,1336,44961,Valencia,Spain
+880,2020-05-13,10,C. Valenciana,1341,46302,Valencia,Spain
+881,2020-05-14,10,C. Valenciana,1349,47651,Valencia,Spain
+882,2020-05-15,10,C. Valenciana,1358,49009,Valencia,Spain
+883,2020-05-16,10,C. Valenciana,1365,50374,Valencia,Spain
+884,2020-05-17,10,C. Valenciana,1366,51740,Valencia,Spain
+885,2020-05-18,10,C. Valenciana,1370,53110,Valencia,Spain
+886,2020-05-19,10,C. Valenciana,1376,54486,Valencia,Spain
+887,2020-05-20,10,C. Valenciana,1378,55864,Valencia,Spain
+888,2020-05-21,10,C. Valenciana,1383,57247,Valencia,Spain
+889,2020-05-22,10,C. Valenciana,1389,58636,Valencia,Spain
+890,2020-05-23,10,C. Valenciana,1390,60026,Valencia,Spain
+891,2020-03-04,11,Extremadura,0,0,Extremadura,Spain
+892,2020-03-05,11,Extremadura,0,0,Extremadura,Spain
+893,2020-03-06,11,Extremadura,0,0,Extremadura,Spain
+894,2020-03-07,11,Extremadura,0,0,Extremadura,Spain
+895,2020-03-08,11,Extremadura,1,1,Extremadura,Spain
+896,2020-03-09,11,Extremadura,0,1,Extremadura,Spain
+897,2020-03-10,11,Extremadura,0,1,Extremadura,Spain
+898,2020-03-11,11,Extremadura,1,2,Extremadura,Spain
+899,2020-03-12,11,Extremadura,1,3,Extremadura,Spain
+900,2020-03-13,11,Extremadura,1,4,Extremadura,Spain
+901,2020-03-14,11,Extremadura,2,6,Extremadura,Spain
+902,2020-03-15,11,Extremadura,2,8,Extremadura,Spain
+903,2020-03-16,11,Extremadura,2,10,Extremadura,Spain
+904,2020-03-17,11,Extremadura,3,13,Extremadura,Spain
+905,2020-03-18,11,Extremadura,6,19,Extremadura,Spain
+906,2020-03-19,11,Extremadura,8,27,Extremadura,Spain
+907,2020-03-20,11,Extremadura,10,37,Extremadura,Spain
+908,2020-03-21,11,Extremadura,12,49,Extremadura,Spain
+909,2020-03-22,11,Extremadura,14,63,Extremadura,Spain
+910,2020-03-23,11,Extremadura,18,81,Extremadura,Spain
+911,2020-03-24,11,Extremadura,26,107,Extremadura,Spain
+912,2020-03-25,11,Extremadura,39,146,Extremadura,Spain
+913,2020-03-26,11,Extremadura,58,204,Extremadura,Spain
+914,2020-03-27,11,Extremadura,69,273,Extremadura,Spain
+915,2020-03-28,11,Extremadura,88,361,Extremadura,Spain
+916,2020-03-29,11,Extremadura,100,461,Extremadura,Spain
+917,2020-03-30,11,Extremadura,106,567,Extremadura,Spain
+918,2020-03-31,11,Extremadura,133,700,Extremadura,Spain
+919,2020-04-01,11,Extremadura,152,852,Extremadura,Spain
+920,2020-04-02,11,Extremadura,181,1033,Extremadura,Spain
+921,2020-04-03,11,Extremadura,200,1233,Extremadura,Spain
+922,2020-04-04,11,Extremadura,208,1441,Extremadura,Spain
+923,2020-04-05,11,Extremadura,218,1659,Extremadura,Spain
+924,2020-04-06,11,Extremadura,228,1887,Extremadura,Spain
+925,2020-04-07,11,Extremadura,258,2145,Extremadura,Spain
+926,2020-04-08,11,Extremadura,271,2416,Extremadura,Spain
+927,2020-04-09,11,Extremadura,283,2699,Extremadura,Spain
+928,2020-04-10,11,Extremadura,288,2987,Extremadura,Spain
+929,2020-04-11,11,Extremadura,303,3290,Extremadura,Spain
+930,2020-04-12,11,Extremadura,312,3602,Extremadura,Spain
+931,2020-04-13,11,Extremadura,321,3923,Extremadura,Spain
+932,2020-04-14,11,Extremadura,334,4257,Extremadura,Spain
+933,2020-04-15,11,Extremadura,342,4599,Extremadura,Spain
+934,2020-04-16,11,Extremadura,359,4958,Extremadura,Spain
+935,2020-04-17,11,Extremadura,372,5330,Extremadura,Spain
+936,2020-04-18,11,Extremadura,380,5710,Extremadura,Spain
+937,2020-04-19,11,Extremadura,384,6094,Extremadura,Spain
+938,2020-04-20,11,Extremadura,389,6483,Extremadura,Spain
+939,2020-04-21,11,Extremadura,397,6880,Extremadura,Spain
+940,2020-04-22,11,Extremadura,404,7284,Extremadura,Spain
+941,2020-04-23,11,Extremadura,407,7691,Extremadura,Spain
+942,2020-04-24,11,Extremadura,411,8102,Extremadura,Spain
+943,2020-04-25,11,Extremadura,416,8518,Extremadura,Spain
+944,2020-04-26,11,Extremadura,422,8940,Extremadura,Spain
+945,2020-04-27,11,Extremadura,428,9368,Extremadura,Spain
+946,2020-04-28,11,Extremadura,433,9801,Extremadura,Spain
+947,2020-04-29,11,Extremadura,440,10241,Extremadura,Spain
+948,2020-04-30,11,Extremadura,446,10687,Extremadura,Spain
+949,2020-05-01,11,Extremadura,451,11138,Extremadura,Spain
+950,2020-05-02,11,Extremadura,458,11596,Extremadura,Spain
+951,2020-05-03,11,Extremadura,460,12056,Extremadura,Spain
+952,2020-05-04,11,Extremadura,460,12516,Extremadura,Spain
+953,2020-05-05,11,Extremadura,462,12978,Extremadura,Spain
+954,2020-05-06,11,Extremadura,463,13441,Extremadura,Spain
+955,2020-05-07,11,Extremadura,467,13908,Extremadura,Spain
+956,2020-05-08,11,Extremadura,472,14380,Extremadura,Spain
+957,2020-05-09,11,Extremadura,477,14857,Extremadura,Spain
+958,2020-05-10,11,Extremadura,480,15337,Extremadura,Spain
+959,2020-05-11,11,Extremadura,483,15820,Extremadura,Spain
+960,2020-05-12,11,Extremadura,487,16307,Extremadura,Spain
+961,2020-05-13,11,Extremadura,489,16796,Extremadura,Spain
+962,2020-05-14,11,Extremadura,492,17288,Extremadura,Spain
+963,2020-05-15,11,Extremadura,494,17782,Extremadura,Spain
+964,2020-05-16,11,Extremadura,497,18279,Extremadura,Spain
+965,2020-05-17,11,Extremadura,500,18779,Extremadura,Spain
+966,2020-05-18,11,Extremadura,500,19279,Extremadura,Spain
+967,2020-05-19,11,Extremadura,504,19783,Extremadura,Spain
+968,2020-05-20,11,Extremadura,504,20287,Extremadura,Spain
+969,2020-05-21,11,Extremadura,505,20792,Extremadura,Spain
+970,2020-05-22,11,Extremadura,506,21298,Extremadura,Spain
+971,2020-05-23,11,Extremadura,507,21805,Extremadura,Spain
+972,2020-03-04,12,Galicia,0,0,Galicia,Spain
+973,2020-03-05,12,Galicia,0,0,Galicia,Spain
+974,2020-03-06,12,Galicia,0,0,Galicia,Spain
+975,2020-03-07,12,Galicia,0,0,Galicia,Spain
+976,2020-03-08,12,Galicia,0,0,Galicia,Spain
+977,2020-03-09,12,Galicia,0,0,Galicia,Spain
+978,2020-03-10,12,Galicia,0,0,Galicia,Spain
+979,2020-03-11,12,Galicia,0,0,Galicia,Spain
+980,2020-03-12,12,Galicia,0,0,Galicia,Spain
+981,2020-03-13,12,Galicia,0,0,Galicia,Spain
+982,2020-03-14,12,Galicia,0,0,Galicia,Spain
+983,2020-03-15,12,Galicia,2,2,Galicia,Spain
+984,2020-03-16,12,Galicia,2,4,Galicia,Spain
+985,2020-03-17,12,Galicia,3,7,Galicia,Spain
+986,2020-03-18,12,Galicia,3,10,Galicia,Spain
+987,2020-03-19,12,Galicia,4,14,Galicia,Spain
+988,2020-03-20,12,Galicia,5,19,Galicia,Spain
+989,2020-03-21,12,Galicia,9,28,Galicia,Spain
+990,2020-03-22,12,Galicia,12,40,Galicia,Spain
+991,2020-03-23,12,Galicia,18,58,Galicia,Spain
+992,2020-03-24,12,Galicia,20,78,Galicia,Spain
+993,2020-03-25,12,Galicia,27,105,Galicia,Spain
+994,2020-03-26,12,Galicia,32,137,Galicia,Spain
+995,2020-03-27,12,Galicia,43,180,Galicia,Spain
+996,2020-03-28,12,Galicia,47,227,Galicia,Spain
+997,2020-03-29,12,Galicia,60,287,Galicia,Spain
+998,2020-03-30,12,Galicia,66,353,Galicia,Spain
+999,2020-03-31,12,Galicia,84,437,Galicia,Spain
+1000,2020-04-01,12,Galicia,103,540,Galicia,Spain
+1001,2020-04-02,12,Galicia,120,660,Galicia,Spain
+1002,2020-04-03,12,Galicia,138,798,Galicia,Spain
+1003,2020-04-04,12,Galicia,159,957,Galicia,Spain
+1004,2020-04-05,12,Galicia,174,1131,Galicia,Spain
+1005,2020-04-06,12,Galicia,190,1321,Galicia,Spain
+1006,2020-04-07,12,Galicia,204,1525,Galicia,Spain
+1007,2020-04-08,12,Galicia,213,1738,Galicia,Spain
+1008,2020-04-09,12,Galicia,231,1969,Galicia,Spain
+1009,2020-04-10,12,Galicia,243,2212,Galicia,Spain
+1010,2020-04-11,12,Galicia,261,2473,Galicia,Spain
+1011,2020-04-12,12,Galicia,274,2747,Galicia,Spain
+1012,2020-04-13,12,Galicia,284,3031,Galicia,Spain
+1013,2020-04-14,12,Galicia,290,3321,Galicia,Spain
+1014,2020-04-15,12,Galicia,299,3620,Galicia,Spain
+1015,2020-04-16,12,Galicia,310,3930,Galicia,Spain
+1016,2020-04-17,12,Galicia,320,4250,Galicia,Spain
+1017,2020-04-18,12,Galicia,334,4584,Galicia,Spain
+1018,2020-04-19,12,Galicia,346,4930,Galicia,Spain
+1019,2020-04-20,12,Galicia,352,5282,Galicia,Spain
+1020,2020-04-21,12,Galicia,360,5642,Galicia,Spain
+1021,2020-04-22,12,Galicia,368,6010,Galicia,Spain
+1022,2020-04-23,12,Galicia,375,6385,Galicia,Spain
+1023,2020-04-24,12,Galicia,382,6767,Galicia,Spain
+1024,2020-04-25,12,Galicia,388,7155,Galicia,Spain
+1025,2020-04-26,12,Galicia,394,7549,Galicia,Spain
+1026,2020-04-27,12,Galicia,405,7954,Galicia,Spain
+1027,2020-04-28,12,Galicia,412,8366,Galicia,Spain
+1028,2020-04-29,12,Galicia,551,8917,Galicia,Spain
+1029,2020-04-30,12,Galicia,551,9468,Galicia,Spain
+1030,2020-05-01,12,Galicia,558,10026,Galicia,Spain
+1031,2020-05-02,12,Galicia,563,10589,Galicia,Spain
+1032,2020-05-03,12,Galicia,569,11158,Galicia,Spain
+1033,2020-05-04,12,Galicia,575,11733,Galicia,Spain
+1034,2020-05-05,12,Galicia,579,12312,Galicia,Spain
+1035,2020-05-06,12,Galicia,588,12900,Galicia,Spain
+1036,2020-05-07,12,Galicia,591,13491,Galicia,Spain
+1037,2020-05-08,12,Galicia,592,14083,Galicia,Spain
+1038,2020-05-09,12,Galicia,595,14678,Galicia,Spain
+1039,2020-05-10,12,Galicia,596,15274,Galicia,Spain
+1040,2020-05-11,12,Galicia,597,15871,Galicia,Spain
+1041,2020-05-12,12,Galicia,598,16469,Galicia,Spain
+1042,2020-05-13,12,Galicia,599,17068,Galicia,Spain
+1043,2020-05-14,12,Galicia,603,17671,Galicia,Spain
+1044,2020-05-15,12,Galicia,603,18274,Galicia,Spain
+1045,2020-05-16,12,Galicia,604,18878,Galicia,Spain
+1046,2020-05-17,12,Galicia,606,19484,Galicia,Spain
+1047,2020-05-18,12,Galicia,607,20091,Galicia,Spain
+1048,2020-05-19,12,Galicia,607,20698,Galicia,Spain
+1049,2020-05-20,12,Galicia,607,21305,Galicia,Spain
+1050,2020-05-21,12,Galicia,608,21913,Galicia,Spain
+1051,2020-05-22,12,Galicia,609,22522,Galicia,Spain
+1052,2020-05-23,12,Galicia,610,23132,Galicia,Spain
+1053,2020-03-04,13,Madrid,0,0,Madrid,Spain
+1054,2020-03-05,13,Madrid,1,1,Madrid,Spain
+1055,2020-03-06,13,Madrid,2,3,Madrid,Spain
+1056,2020-03-07,13,Madrid,4,7,Madrid,Spain
+1057,2020-03-08,13,Madrid,8,15,Madrid,Spain
+1058,2020-03-09,13,Madrid,16,31,Madrid,Spain
+1059,2020-03-10,13,Madrid,21,52,Madrid,Spain
+1060,2020-03-11,13,Madrid,31,83,Madrid,Spain
+1061,2020-03-12,13,Madrid,56,139,Madrid,Spain
+1062,2020-03-13,13,Madrid,81,220,Madrid,Spain
+1063,2020-03-14,13,Madrid,86,306,Madrid,Spain
+1064,2020-03-15,13,Madrid,213,519,Madrid,Spain
+1065,2020-03-16,13,Madrid,213,732,Madrid,Spain
+1066,2020-03-17,13,Madrid,355,1087,Madrid,Spain
+1067,2020-03-18,13,Madrid,390,1477,Madrid,Spain
+1068,2020-03-19,13,Madrid,498,1975,Madrid,Spain
+1069,2020-03-20,13,Madrid,628,2603,Madrid,Spain
+1070,2020-03-21,13,Madrid,804,3407,Madrid,Spain
+1071,2020-03-22,13,Madrid,1021,4428,Madrid,Spain
+1072,2020-03-23,13,Madrid,1263,5691,Madrid,Spain
+1073,2020-03-24,13,Madrid,1535,7226,Madrid,Spain
+1074,2020-03-25,13,Madrid,1825,9051,Madrid,Spain
+1075,2020-03-26,13,Madrid,2090,11141,Madrid,Spain
+1076,2020-03-27,13,Madrid,2412,13553,Madrid,Spain
+1077,2020-03-28,13,Madrid,2757,16310,Madrid,Spain
+1078,2020-03-29,13,Madrid,3082,19392,Madrid,Spain
+1079,2020-03-30,13,Madrid,3392,22784,Madrid,Spain
+1080,2020-03-31,13,Madrid,3603,26387,Madrid,Spain
+1081,2020-04-01,13,Madrid,3865,30252,Madrid,Spain
+1082,2020-04-02,13,Madrid,4175,34427,Madrid,Spain
+1083,2020-04-03,13,Madrid,4483,38910,Madrid,Spain
+1084,2020-04-04,13,Madrid,4723,43633,Madrid,Spain
+1085,2020-04-05,13,Madrid,4941,48574,Madrid,Spain
+1086,2020-04-06,13,Madrid,5136,53710,Madrid,Spain
+1087,2020-04-07,13,Madrid,5371,59081,Madrid,Spain
+1088,2020-04-08,13,Madrid,5586,64667,Madrid,Spain
+1089,2020-04-09,13,Madrid,5800,70467,Madrid,Spain
+1090,2020-04-10,13,Madrid,5972,76439,Madrid,Spain
+1091,2020-04-11,13,Madrid,6084,82523,Madrid,Spain
+1092,2020-04-12,13,Madrid,6278,88801,Madrid,Spain
+1093,2020-04-13,13,Madrid,6423,95224,Madrid,Spain
+1094,2020-04-14,13,Madrid,6568,101792,Madrid,Spain
+1095,2020-04-15,13,Madrid,6724,108516,Madrid,Spain
+1096,2020-04-16,13,Madrid,6877,115393,Madrid,Spain
+1097,2020-04-17,13,Madrid,7007,122400,Madrid,Spain
+1098,2020-04-18,13,Madrid,7132,129532,Madrid,Spain
+1099,2020-04-19,13,Madrid,7239,136771,Madrid,Spain
+1100,2020-04-20,13,Madrid,7351,144122,Madrid,Spain
+1101,2020-04-21,13,Madrid,7460,151582,Madrid,Spain
+1102,2020-04-22,13,Madrid,7577,159159,Madrid,Spain
+1103,2020-04-23,13,Madrid,7684,166843,Madrid,Spain
+1104,2020-04-24,13,Madrid,7765,174608,Madrid,Spain
+1105,2020-04-25,13,Madrid,7848,182456,Madrid,Spain
+1106,2020-04-26,13,Madrid,7922,190378,Madrid,Spain
+1107,2020-04-27,13,Madrid,7986,198364,Madrid,Spain
+1108,2020-04-28,13,Madrid,8048,206412,Madrid,Spain
+1109,2020-04-29,13,Madrid,8105,214517,Madrid,Spain
+1110,2020-04-30,13,Madrid,8176,222693,Madrid,Spain
+1111,2020-05-01,13,Madrid,8222,230915,Madrid,Spain
+1112,2020-05-02,13,Madrid,8292,239207,Madrid,Spain
+1113,2020-05-03,13,Madrid,8332,247539,Madrid,Spain
+1114,2020-05-04,13,Madrid,8376,255915,Madrid,Spain
+1115,2020-05-05,13,Madrid,8420,264335,Madrid,Spain
+1116,2020-05-06,13,Madrid,8466,272801,Madrid,Spain
+1117,2020-05-07,13,Madrid,8504,281305,Madrid,Spain
+1118,2020-05-08,13,Madrid,8552,289857,Madrid,Spain
+1119,2020-05-09,13,Madrid,8598,298455,Madrid,Spain
+1120,2020-05-10,13,Madrid,8644,307099,Madrid,Spain
+1121,2020-05-11,13,Madrid,8683,315782,Madrid,Spain
+1122,2020-05-12,13,Madrid,8720,324502,Madrid,Spain
+1123,2020-05-13,13,Madrid,8760,333262,Madrid,Spain
+1124,2020-05-14,13,Madrid,8779,342041,Madrid,Spain
+1125,2020-05-15,13,Madrid,8809,350850,Madrid,Spain
+1126,2020-05-16,13,Madrid,8826,359676,Madrid,Spain
+1127,2020-05-17,13,Madrid,8847,368523,Madrid,Spain
+1128,2020-05-18,13,Madrid,8863,377386,Madrid,Spain
+1129,2020-05-19,13,Madrid,8894,386280,Madrid,Spain
+1130,2020-05-20,13,Madrid,8912,395192,Madrid,Spain
+1131,2020-05-21,13,Madrid,8931,404123,Madrid,Spain
+1132,2020-05-22,13,Madrid,8944,413067,Madrid,Spain
+1133,2020-05-23,13,Madrid,8956,422023,Madrid,Spain
+1134,2020-03-04,19,Melilla,0,0,Melilla,Spain
+1135,2020-03-05,19,Melilla,0,0,Melilla,Spain
+1136,2020-03-06,19,Melilla,0,0,Melilla,Spain
+1137,2020-03-07,19,Melilla,0,0,Melilla,Spain
+1138,2020-03-08,19,Melilla,0,0,Melilla,Spain
+1139,2020-03-09,19,Melilla,0,0,Melilla,Spain
+1140,2020-03-10,19,Melilla,0,0,Melilla,Spain
+1141,2020-03-11,19,Melilla,0,0,Melilla,Spain
+1142,2020-03-12,19,Melilla,0,0,Melilla,Spain
+1143,2020-03-13,19,Melilla,0,0,Melilla,Spain
+1144,2020-03-14,19,Melilla,0,0,Melilla,Spain
+1145,2020-03-15,19,Melilla,0,0,Melilla,Spain
+1146,2020-03-16,19,Melilla,0,0,Melilla,Spain
+1147,2020-03-17,19,Melilla,0,0,Melilla,Spain
+1148,2020-03-18,19,Melilla,0,0,Melilla,Spain
+1149,2020-03-19,19,Melilla,0,0,Melilla,Spain
+1150,2020-03-20,19,Melilla,0,0,Melilla,Spain
+1151,2020-03-21,19,Melilla,0,0,Melilla,Spain
+1152,2020-03-22,19,Melilla,0,0,Melilla,Spain
+1153,2020-03-23,19,Melilla,0,0,Melilla,Spain
+1154,2020-03-24,19,Melilla,0,0,Melilla,Spain
+1155,2020-03-25,19,Melilla,0,0,Melilla,Spain
+1156,2020-03-26,19,Melilla,1,1,Melilla,Spain
+1157,2020-03-27,19,Melilla,1,2,Melilla,Spain
+1158,2020-03-28,19,Melilla,1,3,Melilla,Spain
+1159,2020-03-29,19,Melilla,1,4,Melilla,Spain
+1160,2020-03-30,19,Melilla,1,5,Melilla,Spain
+1161,2020-03-31,19,Melilla,1,6,Melilla,Spain
+1162,2020-04-01,19,Melilla,1,7,Melilla,Spain
+1163,2020-04-02,19,Melilla,1,8,Melilla,Spain
+1164,2020-04-03,19,Melilla,2,10,Melilla,Spain
+1165,2020-04-04,19,Melilla,2,12,Melilla,Spain
+1166,2020-04-05,19,Melilla,2,14,Melilla,Spain
+1167,2020-04-06,19,Melilla,2,16,Melilla,Spain
+1168,2020-04-07,19,Melilla,2,18,Melilla,Spain
+1169,2020-04-08,19,Melilla,2,20,Melilla,Spain
+1170,2020-04-09,19,Melilla,2,22,Melilla,Spain
+1171,2020-04-10,19,Melilla,2,24,Melilla,Spain
+1172,2020-04-11,19,Melilla,2,26,Melilla,Spain
+1173,2020-04-12,19,Melilla,2,28,Melilla,Spain
+1174,2020-04-13,19,Melilla,2,30,Melilla,Spain
+1175,2020-04-14,19,Melilla,2,32,Melilla,Spain
+1176,2020-04-15,19,Melilla,2,34,Melilla,Spain
+1177,2020-04-16,19,Melilla,2,36,Melilla,Spain
+1178,2020-04-17,19,Melilla,2,38,Melilla,Spain
+1179,2020-04-18,19,Melilla,2,40,Melilla,Spain
+1180,2020-04-19,19,Melilla,2,42,Melilla,Spain
+1181,2020-04-20,19,Melilla,2,44,Melilla,Spain
+1182,2020-04-21,19,Melilla,2,46,Melilla,Spain
+1183,2020-04-22,19,Melilla,2,48,Melilla,Spain
+1184,2020-04-23,19,Melilla,2,50,Melilla,Spain
+1185,2020-04-24,19,Melilla,2,52,Melilla,Spain
+1186,2020-04-25,19,Melilla,2,54,Melilla,Spain
+1187,2020-04-26,19,Melilla,2,56,Melilla,Spain
+1188,2020-04-27,19,Melilla,2,58,Melilla,Spain
+1189,2020-04-28,19,Melilla,2,60,Melilla,Spain
+1190,2020-04-29,19,Melilla,2,62,Melilla,Spain
+1191,2020-04-30,19,Melilla,2,64,Melilla,Spain
+1192,2020-05-01,19,Melilla,2,66,Melilla,Spain
+1193,2020-05-02,19,Melilla,2,68,Melilla,Spain
+1194,2020-05-03,19,Melilla,2,70,Melilla,Spain
+1195,2020-05-04,19,Melilla,2,72,Melilla,Spain
+1196,2020-05-05,19,Melilla,2,74,Melilla,Spain
+1197,2020-05-06,19,Melilla,2,76,Melilla,Spain
+1198,2020-05-07,19,Melilla,2,78,Melilla,Spain
+1199,2020-05-08,19,Melilla,2,80,Melilla,Spain
+1200,2020-05-09,19,Melilla,2,82,Melilla,Spain
+1201,2020-05-10,19,Melilla,2,84,Melilla,Spain
+1202,2020-05-11,19,Melilla,2,86,Melilla,Spain
+1203,2020-05-12,19,Melilla,2,88,Melilla,Spain
+1204,2020-05-13,19,Melilla,2,90,Melilla,Spain
+1205,2020-05-14,19,Melilla,2,92,Melilla,Spain
+1206,2020-05-15,19,Melilla,2,94,Melilla,Spain
+1207,2020-05-16,19,Melilla,2,96,Melilla,Spain
+1208,2020-05-17,19,Melilla,2,98,Melilla,Spain
+1209,2020-05-18,19,Melilla,2,100,Melilla,Spain
+1210,2020-05-19,19,Melilla,2,102,Melilla,Spain
+1211,2020-05-20,19,Melilla,2,104,Melilla,Spain
+1212,2020-05-21,19,Melilla,2,106,Melilla,Spain
+1213,2020-05-22,19,Melilla,2,108,Melilla,Spain
+1214,2020-05-23,19,Melilla,2,110,Melilla,Spain
+1215,2020-03-04,14,Murcia,0,0,Murcia,Spain
+1216,2020-03-05,14,Murcia,0,0,Murcia,Spain
+1217,2020-03-06,14,Murcia,0,0,Murcia,Spain
+1218,2020-03-07,14,Murcia,0,0,Murcia,Spain
+1219,2020-03-08,14,Murcia,0,0,Murcia,Spain
+1220,2020-03-09,14,Murcia,0,0,Murcia,Spain
+1221,2020-03-10,14,Murcia,0,0,Murcia,Spain
+1222,2020-03-11,14,Murcia,0,0,Murcia,Spain
+1223,2020-03-12,14,Murcia,0,0,Murcia,Spain
+1224,2020-03-13,14,Murcia,0,0,Murcia,Spain
+1225,2020-03-14,14,Murcia,0,0,Murcia,Spain
+1226,2020-03-15,14,Murcia,0,0,Murcia,Spain
+1227,2020-03-16,14,Murcia,0,0,Murcia,Spain
+1228,2020-03-17,14,Murcia,0,0,Murcia,Spain
+1229,2020-03-18,14,Murcia,0,0,Murcia,Spain
+1230,2020-03-19,14,Murcia,0,0,Murcia,Spain
+1231,2020-03-20,14,Murcia,0,0,Murcia,Spain
+1232,2020-03-21,14,Murcia,1,1,Murcia,Spain
+1233,2020-03-22,14,Murcia,1,2,Murcia,Spain
+1234,2020-03-23,14,Murcia,2,4,Murcia,Spain
+1235,2020-03-24,14,Murcia,3,7,Murcia,Spain
+1236,2020-03-25,14,Murcia,5,12,Murcia,Spain
+1237,2020-03-26,14,Murcia,8,20,Murcia,Spain
+1238,2020-03-27,14,Murcia,15,35,Murcia,Spain
+1239,2020-03-28,14,Murcia,17,52,Murcia,Spain
+1240,2020-03-29,14,Murcia,20,72,Murcia,Spain
+1241,2020-03-30,14,Murcia,25,97,Murcia,Spain
+1242,2020-03-31,14,Murcia,34,131,Murcia,Spain
+1243,2020-04-01,14,Murcia,37,168,Murcia,Spain
+1244,2020-04-02,14,Murcia,42,210,Murcia,Spain
+1245,2020-04-03,14,Murcia,46,256,Murcia,Spain
+1246,2020-04-04,14,Murcia,51,307,Murcia,Spain
+1247,2020-04-05,14,Murcia,59,366,Murcia,Spain
+1248,2020-04-06,14,Murcia,68,434,Murcia,Spain
+1249,2020-04-07,14,Murcia,78,512,Murcia,Spain
+1250,2020-04-08,14,Murcia,85,597,Murcia,Spain
+1251,2020-04-09,14,Murcia,88,685,Murcia,Spain
+1252,2020-04-10,14,Murcia,90,775,Murcia,Spain
+1253,2020-04-11,14,Murcia,94,869,Murcia,Spain
+1254,2020-04-12,14,Murcia,97,966,Murcia,Spain
+1255,2020-04-13,14,Murcia,101,1067,Murcia,Spain
+1256,2020-04-14,14,Murcia,106,1173,Murcia,Spain
+1257,2020-04-15,14,Murcia,109,1282,Murcia,Spain
+1258,2020-04-16,14,Murcia,111,1393,Murcia,Spain
+1259,2020-04-17,14,Murcia,112,1505,Murcia,Spain
+1260,2020-04-18,14,Murcia,115,1620,Murcia,Spain
+1261,2020-04-19,14,Murcia,116,1736,Murcia,Spain
+1262,2020-04-20,14,Murcia,117,1853,Murcia,Spain
+1263,2020-04-21,14,Murcia,120,1973,Murcia,Spain
+1264,2020-04-22,14,Murcia,123,2096,Murcia,Spain
+1265,2020-04-23,14,Murcia,124,2220,Murcia,Spain
+1266,2020-04-24,14,Murcia,125,2345,Murcia,Spain
+1267,2020-04-25,14,Murcia,126,2471,Murcia,Spain
+1268,2020-04-26,14,Murcia,127,2598,Murcia,Spain
+1269,2020-04-27,14,Murcia,128,2726,Murcia,Spain
+1270,2020-04-28,14,Murcia,130,2856,Murcia,Spain
+1271,2020-04-29,14,Murcia,130,2986,Murcia,Spain
+1272,2020-04-30,14,Murcia,130,3116,Murcia,Spain
+1273,2020-05-01,14,Murcia,132,3248,Murcia,Spain
+1274,2020-05-02,14,Murcia,132,3380,Murcia,Spain
+1275,2020-05-03,14,Murcia,134,3514,Murcia,Spain
+1276,2020-05-04,14,Murcia,134,3648,Murcia,Spain
+1277,2020-05-05,14,Murcia,136,3784,Murcia,Spain
+1278,2020-05-06,14,Murcia,136,3920,Murcia,Spain
+1279,2020-05-07,14,Murcia,137,4057,Murcia,Spain
+1280,2020-05-08,14,Murcia,137,4194,Murcia,Spain
+1281,2020-05-09,14,Murcia,138,4332,Murcia,Spain
+1282,2020-05-10,14,Murcia,139,4471,Murcia,Spain
+1283,2020-05-11,14,Murcia,139,4610,Murcia,Spain
+1284,2020-05-12,14,Murcia,139,4749,Murcia,Spain
+1285,2020-05-13,14,Murcia,142,4891,Murcia,Spain
+1286,2020-05-14,14,Murcia,142,5033,Murcia,Spain
+1287,2020-05-15,14,Murcia,143,5176,Murcia,Spain
+1288,2020-05-16,14,Murcia,144,5320,Murcia,Spain
+1289,2020-05-17,14,Murcia,144,5464,Murcia,Spain
+1290,2020-05-18,14,Murcia,145,5609,Murcia,Spain
+1291,2020-05-19,14,Murcia,145,5754,Murcia,Spain
+1292,2020-05-20,14,Murcia,148,5902,Murcia,Spain
+1293,2020-05-21,14,Murcia,149,6051,Murcia,Spain
+1294,2020-05-22,14,Murcia,149,6200,Murcia,Spain
+1295,2020-05-23,14,Murcia,149,6349,Murcia,Spain
+1296,2020-03-04,15,Navarra,0,0,Navarra,Spain
+1297,2020-03-05,15,Navarra,0,0,Navarra,Spain
+1298,2020-03-06,15,Navarra,0,0,Navarra,Spain
+1299,2020-03-07,15,Navarra,0,0,Navarra,Spain
+1300,2020-03-08,15,Navarra,0,0,Navarra,Spain
+1301,2020-03-09,15,Navarra,0,0,Navarra,Spain
+1302,2020-03-10,15,Navarra,0,0,Navarra,Spain
+1303,2020-03-11,15,Navarra,0,0,Navarra,Spain
+1304,2020-03-12,15,Navarra,0,0,Navarra,Spain
+1305,2020-03-13,15,Navarra,0,0,Navarra,Spain
+1306,2020-03-14,15,Navarra,0,0,Navarra,Spain
+1307,2020-03-15,15,Navarra,0,0,Navarra,Spain
+1308,2020-03-16,15,Navarra,1,1,Navarra,Spain
+1309,2020-03-17,15,Navarra,2,3,Navarra,Spain
+1310,2020-03-18,15,Navarra,3,6,Navarra,Spain
+1311,2020-03-19,15,Navarra,4,10,Navarra,Spain
+1312,2020-03-20,15,Navarra,5,15,Navarra,Spain
+1313,2020-03-21,15,Navarra,9,24,Navarra,Spain
+1314,2020-03-22,15,Navarra,14,38,Navarra,Spain
+1315,2020-03-23,15,Navarra,24,62,Navarra,Spain
+1316,2020-03-24,15,Navarra,31,93,Navarra,Spain
+1317,2020-03-25,15,Navarra,33,126,Navarra,Spain
+1318,2020-03-26,15,Navarra,49,175,Navarra,Spain
+1319,2020-03-27,15,Navarra,58,233,Navarra,Spain
+1320,2020-03-28,15,Navarra,70,303,Navarra,Spain
+1321,2020-03-29,15,Navarra,84,387,Navarra,Spain
+1322,2020-03-30,15,Navarra,102,489,Navarra,Spain
+1323,2020-03-31,15,Navarra,113,602,Navarra,Spain
+1324,2020-04-01,15,Navarra,130,732,Navarra,Spain
+1325,2020-04-02,15,Navarra,141,873,Navarra,Spain
+1326,2020-04-03,15,Navarra,151,1024,Navarra,Spain
+1327,2020-04-04,15,Navarra,171,1195,Navarra,Spain
+1328,2020-04-05,15,Navarra,178,1373,Navarra,Spain
+1329,2020-04-06,15,Navarra,187,1560,Navarra,Spain
+1330,2020-04-07,15,Navarra,202,1762,Navarra,Spain
+1331,2020-04-08,15,Navarra,206,1968,Navarra,Spain
+1332,2020-04-09,15,Navarra,214,2182,Navarra,Spain
+1333,2020-04-10,15,Navarra,218,2400,Navarra,Spain
+1334,2020-04-11,15,Navarra,227,2627,Navarra,Spain
+1335,2020-04-12,15,Navarra,232,2859,Navarra,Spain
+1336,2020-04-13,15,Navarra,239,3098,Navarra,Spain
+1337,2020-04-14,15,Navarra,249,3347,Navarra,Spain
+1338,2020-04-15,15,Navarra,252,3599,Navarra,Spain
+1339,2020-04-16,15,Navarra,261,3860,Navarra,Spain
+1340,2020-04-17,15,Navarra,338,4198,Navarra,Spain
+1341,2020-04-18,15,Navarra,354,4552,Navarra,Spain
+1342,2020-04-19,15,Navarra,369,4921,Navarra,Spain
+1343,2020-04-20,15,Navarra,385,5306,Navarra,Spain
+1344,2020-04-21,15,Navarra,397,5703,Navarra,Spain
+1345,2020-04-22,15,Navarra,401,6104,Navarra,Spain
+1346,2020-04-23,15,Navarra,409,6513,Navarra,Spain
+1347,2020-04-24,15,Navarra,417,6930,Navarra,Spain
+1348,2020-04-25,15,Navarra,429,7359,Navarra,Spain
+1349,2020-04-26,15,Navarra,431,7790,Navarra,Spain
+1350,2020-04-27,15,Navarra,432,8222,Navarra,Spain
+1351,2020-04-28,15,Navarra,432,8654,Navarra,Spain
+1352,2020-04-29,15,Navarra,448,9102,Navarra,Spain
+1353,2020-04-30,15,Navarra,451,9553,Navarra,Spain
+1354,2020-05-01,15,Navarra,458,10011,Navarra,Spain
+1355,2020-05-02,15,Navarra,460,10471,Navarra,Spain
+1356,2020-05-03,15,Navarra,462,10933,Navarra,Spain
+1357,2020-05-04,15,Navarra,466,11399,Navarra,Spain
+1358,2020-05-05,15,Navarra,471,11870,Navarra,Spain
+1359,2020-05-06,15,Navarra,476,12346,Navarra,Spain
+1360,2020-05-07,15,Navarra,480,12826,Navarra,Spain
+1361,2020-05-08,15,Navarra,484,13310,Navarra,Spain
+1362,2020-05-09,15,Navarra,487,13797,Navarra,Spain
+1363,2020-05-10,15,Navarra,488,14285,Navarra,Spain
+1364,2020-05-11,15,Navarra,490,14775,Navarra,Spain
+1365,2020-05-12,15,Navarra,493,15268,Navarra,Spain
+1366,2020-05-13,15,Navarra,494,15762,Navarra,Spain
+1367,2020-05-14,15,Navarra,498,16260,Navarra,Spain
+1368,2020-05-15,15,Navarra,500,16760,Navarra,Spain
+1369,2020-05-16,15,Navarra,501,17261,Navarra,Spain
+1370,2020-05-17,15,Navarra,503,17764,Navarra,Spain
+1371,2020-05-18,15,Navarra,503,18267,Navarra,Spain
+1372,2020-05-19,15,Navarra,503,18770,Navarra,Spain
+1373,2020-05-20,15,Navarra,503,19273,Navarra,Spain
+1374,2020-05-21,15,Navarra,506,19779,Navarra,Spain
+1375,2020-05-22,15,Navarra,508,20287,Navarra,Spain
+1376,2020-05-23,15,Navarra,509,20796,Navarra,Spain
+1377,2020-03-04,16,País Vasco,0,0,País Vasco,Spain
+1378,2020-03-05,16,País Vasco,1,1,País Vasco,Spain
+1379,2020-03-06,16,País Vasco,1,2,País Vasco,Spain
+1380,2020-03-07,16,País Vasco,1,3,País Vasco,Spain
+1381,2020-03-08,16,País Vasco,5,8,País Vasco,Spain
+1382,2020-03-09,16,País Vasco,6,14,País Vasco,Spain
+1383,2020-03-10,16,País Vasco,6,20,País Vasco,Spain
+1384,2020-03-11,16,País Vasco,6,26,País Vasco,Spain
+1385,2020-03-12,16,País Vasco,11,37,País Vasco,Spain
+1386,2020-03-13,16,País Vasco,14,51,País Vasco,Spain
+1387,2020-03-14,16,País Vasco,14,65,País Vasco,Spain
+1388,2020-03-15,16,País Vasco,23,88,País Vasco,Spain
+1389,2020-03-16,16,País Vasco,23,111,País Vasco,Spain
+1390,2020-03-17,16,País Vasco,36,147,País Vasco,Spain
+1391,2020-03-18,16,País Vasco,40,187,País Vasco,Spain
+1392,2020-03-19,16,País Vasco,53,240,País Vasco,Spain
+1393,2020-03-20,16,País Vasco,71,311,País Vasco,Spain
+1394,2020-03-21,16,País Vasco,85,396,País Vasco,Spain
+1395,2020-03-22,16,País Vasco,97,493,País Vasco,Spain
+1396,2020-03-23,16,País Vasco,120,613,País Vasco,Spain
+1397,2020-03-24,16,País Vasco,133,746,País Vasco,Spain
+1398,2020-03-25,16,País Vasco,155,901,País Vasco,Spain
+1399,2020-03-26,16,País Vasco,180,1081,País Vasco,Spain
+1400,2020-03-27,16,País Vasco,207,1288,País Vasco,Spain
+1401,2020-03-28,16,País Vasco,241,1529,País Vasco,Spain
+1402,2020-03-29,16,País Vasco,265,1794,País Vasco,Spain
+1403,2020-03-30,16,País Vasco,297,2091,País Vasco,Spain
+1404,2020-03-31,16,País Vasco,325,2416,País Vasco,Spain
+1405,2020-04-01,16,País Vasco,369,2785,País Vasco,Spain
+1406,2020-04-02,16,País Vasco,412,3197,País Vasco,Spain
+1407,2020-04-03,16,País Vasco,444,3641,País Vasco,Spain
+1408,2020-04-04,16,País Vasco,477,4118,País Vasco,Spain
+1409,2020-04-05,16,País Vasco,515,4633,País Vasco,Spain
+1410,2020-04-06,16,País Vasco,548,5181,País Vasco,Spain
+1411,2020-04-07,16,País Vasco,586,5767,País Vasco,Spain
+1412,2020-04-08,16,País Vasco,635,6402,País Vasco,Spain
+1413,2020-04-09,16,País Vasco,689,7091,País Vasco,Spain
+1414,2020-04-10,16,País Vasco,729,7820,País Vasco,Spain
+1415,2020-04-11,16,País Vasco,765,8585,País Vasco,Spain
+1416,2020-04-12,16,País Vasco,804,9389,País Vasco,Spain
+1417,2020-04-13,16,País Vasco,831,10220,País Vasco,Spain
+1418,2020-04-14,16,País Vasco,859,11079,País Vasco,Spain
+1419,2020-04-15,16,País Vasco,902,11981,País Vasco,Spain
+1420,2020-04-16,16,País Vasco,956,12937,País Vasco,Spain
+1421,2020-04-17,16,País Vasco,992,13929,País Vasco,Spain
+1422,2020-04-18,16,País Vasco,1020,14949,País Vasco,Spain
+1423,2020-04-19,16,País Vasco,1062,16011,País Vasco,Spain
+1424,2020-04-20,16,País Vasco,1081,17092,País Vasco,Spain
+1425,2020-04-21,16,País Vasco,1103,18195,País Vasco,Spain
+1426,2020-04-22,16,País Vasco,1124,19319,País Vasco,Spain
+1427,2020-04-23,16,País Vasco,1167,20486,País Vasco,Spain
+1428,2020-04-24,16,País Vasco,1193,21679,País Vasco,Spain
+1429,2020-04-25,16,País Vasco,1212,22891,País Vasco,Spain
+1430,2020-04-26,16,País Vasco,1230,24121,País Vasco,Spain
+1431,2020-04-27,16,País Vasco,1241,25362,País Vasco,Spain
+1432,2020-04-28,16,País Vasco,1255,26617,País Vasco,Spain
+1433,2020-04-29,16,País Vasco,1274,27891,País Vasco,Spain
+1434,2020-04-30,16,País Vasco,1296,29187,País Vasco,Spain
+1435,2020-05-01,16,País Vasco,1312,30499,País Vasco,Spain
+1436,2020-05-02,16,País Vasco,1321,31820,País Vasco,Spain
+1437,2020-05-03,16,País Vasco,1329,33149,País Vasco,Spain
+1438,2020-05-04,16,País Vasco,1341,34490,País Vasco,Spain
+1439,2020-05-05,16,País Vasco,1353,35843,País Vasco,Spain
+1440,2020-05-06,16,País Vasco,1364,37207,País Vasco,Spain
+1441,2020-05-07,16,País Vasco,1383,38590,País Vasco,Spain
+1442,2020-05-08,16,País Vasco,1390,39980,País Vasco,Spain
+1443,2020-05-09,16,País Vasco,1403,41383,País Vasco,Spain
+1444,2020-05-10,16,País Vasco,1418,42801,País Vasco,Spain
+1445,2020-05-11,16,País Vasco,1423,44224,País Vasco,Spain
+1446,2020-05-12,16,País Vasco,1429,45653,País Vasco,Spain
+1447,2020-05-13,16,País Vasco,1442,47095,País Vasco,Spain
+1448,2020-05-14,16,País Vasco,1454,48549,País Vasco,Spain
+1449,2020-05-15,16,País Vasco,1454,50003,País Vasco,Spain
+1450,2020-05-16,16,País Vasco,1455,51458,País Vasco,Spain
+1451,2020-05-17,16,País Vasco,1459,52917,País Vasco,Spain
+1452,2020-05-18,16,País Vasco,1466,54383,País Vasco,Spain
+1453,2020-05-19,16,País Vasco,1470,55853,País Vasco,Spain
+1454,2020-05-20,16,País Vasco,1480,57333,País Vasco,Spain
+1455,2020-05-21,16,País Vasco,1483,58816,País Vasco,Spain
+1456,2020-05-22,16,País Vasco,1487,60303,País Vasco,Spain
+1457,2020-05-23,16,País Vasco,1494,61797,País Vasco,Spain
+1458,2020-03-04,17,La Rioja,0,0,La Rioja,Spain
+1459,2020-03-05,17,La Rioja,0,0,La Rioja,Spain
+1460,2020-03-06,17,La Rioja,0,0,La Rioja,Spain
+1461,2020-03-07,17,La Rioja,0,0,La Rioja,Spain
+1462,2020-03-08,17,La Rioja,0,0,La Rioja,Spain
+1463,2020-03-09,17,La Rioja,0,0,La Rioja,Spain
+1464,2020-03-10,17,La Rioja,1,1,La Rioja,Spain
+1465,2020-03-11,17,La Rioja,2,3,La Rioja,Spain
+1466,2020-03-12,17,La Rioja,2,5,La Rioja,Spain
+1467,2020-03-13,17,La Rioja,3,8,La Rioja,Spain
+1468,2020-03-14,17,La Rioja,3,11,La Rioja,Spain
+1469,2020-03-15,17,La Rioja,3,14,La Rioja,Spain
+1470,2020-03-16,17,La Rioja,4,18,La Rioja,Spain
+1471,2020-03-17,17,La Rioja,5,23,La Rioja,Spain
+1472,2020-03-18,17,La Rioja,5,28,La Rioja,Spain
+1473,2020-03-19,17,La Rioja,5,33,La Rioja,Spain
+1474,2020-03-20,17,La Rioja,7,40,La Rioja,Spain
+1475,2020-03-21,17,La Rioja,15,55,La Rioja,Spain
+1476,2020-03-22,17,La Rioja,18,73,La Rioja,Spain
+1477,2020-03-23,17,La Rioja,22,95,La Rioja,Spain
+1478,2020-03-24,17,La Rioja,30,125,La Rioja,Spain
+1479,2020-03-25,17,La Rioja,37,162,La Rioja,Spain
+1480,2020-03-26,17,La Rioja,43,205,La Rioja,Spain
+1481,2020-03-27,17,La Rioja,55,260,La Rioja,Spain
+1482,2020-03-28,17,La Rioja,65,325,La Rioja,Spain
+1483,2020-03-29,17,La Rioja,68,393,La Rioja,Spain
+1484,2020-03-30,17,La Rioja,71,464,La Rioja,Spain
+1485,2020-03-31,17,La Rioja,85,549,La Rioja,Spain
+1486,2020-04-01,17,La Rioja,90,639,La Rioja,Spain
+1487,2020-04-02,17,La Rioja,101,740,La Rioja,Spain
+1488,2020-04-03,17,La Rioja,109,849,La Rioja,Spain
+1489,2020-04-04,17,La Rioja,128,977,La Rioja,Spain
+1490,2020-04-05,17,La Rioja,134,1111,La Rioja,Spain
+1491,2020-04-06,17,La Rioja,141,1252,La Rioja,Spain
+1492,2020-04-07,17,La Rioja,160,1412,La Rioja,Spain
+1493,2020-04-08,17,La Rioja,177,1589,La Rioja,Spain
+1494,2020-04-09,17,La Rioja,182,1771,La Rioja,Spain
+1495,2020-04-10,17,La Rioja,196,1967,La Rioja,Spain
+1496,2020-04-11,17,La Rioja,207,2174,La Rioja,Spain
+1497,2020-04-12,17,La Rioja,219,2393,La Rioja,Spain
+1498,2020-04-13,17,La Rioja,223,2616,La Rioja,Spain
+1499,2020-04-14,17,La Rioja,234,2850,La Rioja,Spain
+1500,2020-04-15,17,La Rioja,246,3096,La Rioja,Spain
+1501,2020-04-16,17,La Rioja,257,3353,La Rioja,Spain
+1502,2020-04-17,17,La Rioja,262,3615,La Rioja,Spain
+1503,2020-04-18,17,La Rioja,272,3887,La Rioja,Spain
+1504,2020-04-19,17,La Rioja,277,4164,La Rioja,Spain
+1505,2020-04-20,17,La Rioja,285,4449,La Rioja,Spain
+1506,2020-04-21,17,La Rioja,294,4743,La Rioja,Spain
+1507,2020-04-22,17,La Rioja,298,5041,La Rioja,Spain
+1508,2020-04-23,17,La Rioja,303,5344,La Rioja,Spain
+1509,2020-04-24,17,La Rioja,307,5651,La Rioja,Spain
+1510,2020-04-25,17,La Rioja,311,5962,La Rioja,Spain
+1511,2020-04-26,17,La Rioja,315,6277,La Rioja,Spain
+1512,2020-04-27,17,La Rioja,320,6597,La Rioja,Spain
+1513,2020-04-28,17,La Rioja,326,6923,La Rioja,Spain
+1514,2020-04-29,17,La Rioja,330,7253,La Rioja,Spain
+1515,2020-04-30,17,La Rioja,332,7585,La Rioja,Spain
+1516,2020-05-01,17,La Rioja,333,7918,La Rioja,Spain
+1517,2020-05-02,17,La Rioja,334,8252,La Rioja,Spain
+1518,2020-05-03,17,La Rioja,335,8587,La Rioja,Spain
+1519,2020-05-04,17,La Rioja,335,8922,La Rioja,Spain
+1520,2020-05-05,17,La Rioja,336,9258,La Rioja,Spain
+1521,2020-05-06,17,La Rioja,337,9595,La Rioja,Spain
+1522,2020-05-07,17,La Rioja,338,9933,La Rioja,Spain
+1523,2020-05-08,17,La Rioja,342,10275,La Rioja,Spain
+1524,2020-05-09,17,La Rioja,344,10619,La Rioja,Spain
+1525,2020-05-10,17,La Rioja,346,10965,La Rioja,Spain
+1526,2020-05-11,17,La Rioja,346,11311,La Rioja,Spain
+1527,2020-05-12,17,La Rioja,347,11658,La Rioja,Spain
+1528,2020-05-13,17,La Rioja,348,12006,La Rioja,Spain
+1529,2020-05-14,17,La Rioja,348,12354,La Rioja,Spain
+1530,2020-05-15,17,La Rioja,348,12702,La Rioja,Spain
+1531,2020-05-16,17,La Rioja,348,13050,La Rioja,Spain
+1532,2020-05-17,17,La Rioja,349,13399,La Rioja,Spain
+1533,2020-05-18,17,La Rioja,351,13750,La Rioja,Spain
+1534,2020-05-19,17,La Rioja,352,14102,La Rioja,Spain
+1535,2020-05-20,17,La Rioja,353,14455,La Rioja,Spain
+1536,2020-05-21,17,La Rioja,354,14809,La Rioja,Spain
+1537,2020-05-22,17,La Rioja,356,15165,La Rioja,Spain
+1538,2020-05-23,17,La Rioja,357,15522,La Rioja,Spain
