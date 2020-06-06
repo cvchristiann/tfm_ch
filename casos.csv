@@ -1,1730 +1,1730 @@
-;fecha;total_casos;Full Location
-0;2020-02-21;0;Andalucia, Spain
-1;2020-02-22;0;Andalucia, Spain
-2;2020-02-23;0;Andalucia, Spain
-3;2020-02-24;0;Andalucia, Spain
-4;2020-02-25;0;Andalucia, Spain
-5;2020-02-26;0;Andalucia, Spain
-6;2020-02-27;1;Andalucia, Spain
-7;2020-02-28;6;Andalucia, Spain
-8;2020-02-29;8;Andalucia, Spain
-9;2020-03-01;12;Andalucia, Spain
-10;2020-03-02;12;Andalucia, Spain
-11;2020-03-03;12;Andalucia, Spain
-12;2020-03-04;12;Andalucia, Spain
-13;2020-03-05;12;Andalucia, Spain
-14;2020-03-06;21;Andalucia, Spain
-15;2020-03-07;27;Andalucia, Spain
-16;2020-03-08;34;Andalucia, Spain
-17;2020-03-09;54;Andalucia, Spain
-18;2020-03-10;71;Andalucia, Spain
-19;2020-03-11;90;Andalucia, Spain
-20;2020-03-12;115;Andalucia, Spain
-21;2020-03-13;219;Andalucia, Spain
-22;2020-03-14;269;Andalucia, Spain
-23;2020-03-15;437;Andalucia, Spain
-24;2020-03-16;554;Andalucia, Spain
-25;2020-03-17;683;Andalucia, Spain
-26;2020-03-18;859;Andalucia, Spain
-27;2020-03-19;1008;Andalucia, Spain
-28;2020-03-20;1287;Andalucia, Spain
-29;2020-03-21;1515;Andalucia, Spain
-30;2020-03-22;1725;Andalucia, Spain
-31;2020-03-23;1961;Andalucia, Spain
-32;2020-03-24;2470;Andalucia, Spain
-33;2020-03-25;3008;Andalucia, Spain
-34;2020-03-26;3404;Andalucia, Spain
-35;2020-03-27;3790;Andalucia, Spain
-36;2020-03-28;4271;Andalucia, Spain
-37;2020-03-29;4676;Andalucia, Spain
-38;2020-03-30;5398;Andalucia, Spain
-39;2020-03-31;5809;Andalucia, Spain
-40;2020-04-01;6379;Andalucia, Spain
-41;2020-04-02;6957;Andalucia, Spain
-42;2020-04-03;7353;Andalucia, Spain
-43;2020-04-04;7847;Andalucia, Spain
-44;2020-04-05;8279;Andalucia, Spain
-45;2020-04-06;8559;Andalucia, Spain
-46;2020-04-07;8743;Andalucia, Spain
-47;2020-04-08;8973;Andalucia, Spain
-48;2020-04-09;9234;Andalucia, Spain
-49;2020-04-10;9482;Andalucia, Spain
-50;2020-04-11;9682;Andalucia, Spain
-51;2020-04-12;9976;Andalucia, Spain
-52;2020-04-13;10062;Andalucia, Spain
-53;2020-04-14;10283;Andalucia, Spain
-54;2020-04-15;10561;Andalucia, Spain
-55;2020-04-16;10773;Andalucia, Spain
-56;2020-04-17;11018;Andalucia, Spain
-57;2020-04-18;11168;Andalucia, Spain
-58;2020-04-19;11389;Andalucia, Spain
-59;2020-04-20;11518;Andalucia, Spain
-60;2020-04-21;11648;Andalucia, Spain
-61;2020-04-22;11879;Andalucia, Spain
-62;2020-04-23;12195;Andalucia, Spain
-63;2020-04-24;12449;Andalucia, Spain
-64;2020-04-25;12774;Andalucia, Spain
-65;2020-04-26;12972;Andalucia, Spain
-66;2020-04-27;13108;Andalucia, Spain
-67;2020-04-28;13195;Andalucia, Spain
-68;2020-04-29;13445;Andalucia, Spain
-69;2020-04-30;13624;Andalucia, Spain
-70;2020-05-01;13881;Andalucia, Spain
-71;2020-05-02;14128;Andalucia, Spain
-72;2020-05-03;14251;Andalucia, Spain
-73;2020-05-04;14311;Andalucia, Spain
-74;2020-05-05;14351;Andalucia, Spain
-75;2020-05-06;14593;Andalucia, Spain
-76;2020-05-07;14824;Andalucia, Spain
-77;2020-05-08;15002;Andalucia, Spain
-78;2020-05-09;15180;Andalucia, Spain
-79;2020-05-10;15355;Andalucia, Spain
-80;2020-05-11;15422;Andalucia, Spain
-81;2020-05-12;15522;Andalucia, Spain
-82;2020-05-13;15629;Andalucia, Spain
-83;2020-05-14;15823;Andalucia, Spain
-84;2020-05-15;16068;Andalucia, Spain
-85;2020-05-16;16263;Andalucia, Spain
-86;2020-05-17;16432;Andalucia, Spain
-87;2020-05-18;16457;Andalucia, Spain
-88;2020-05-19;16488;Andalucia, Spain
-89;2020-05-20;16501;Andalucia, Spain
-90;2020-05-21;16546;Andalucia, Spain
-91;2020-02-21;0;Aragon, Spain
-92;2020-02-22;0;Aragon, Spain
-93;2020-02-23;0;Aragon, Spain
-94;2020-02-24;0;Aragon, Spain
-95;2020-02-25;0;Aragon, Spain
-96;2020-02-26;0;Aragon, Spain
-97;2020-02-27;0;Aragon, Spain
-98;2020-02-28;0;Aragon, Spain
-99;2020-02-29;0;Aragon, Spain
-100;2020-03-01;0;Aragon, Spain
-101;2020-03-02;0;Aragon, Spain
-102;2020-03-03;0;Aragon, Spain
-103;2020-03-04;0;Aragon, Spain
-104;2020-03-05;1;Aragon, Spain
-105;2020-03-06;1;Aragon, Spain
-106;2020-03-07;5;Aragon, Spain
-107;2020-03-08;5;Aragon, Spain
-108;2020-03-09;7;Aragon, Spain
-109;2020-03-10;30;Aragon, Spain
-110;2020-03-11;38;Aragon, Spain
-111;2020-03-12;45;Aragon, Spain
-112;2020-03-13;64;Aragon, Spain
-113;2020-03-14;80;Aragon, Spain
-114;2020-03-15;121;Aragon, Spain
-115;2020-03-16;147;Aragon, Spain
-116;2020-03-17;207;Aragon, Spain
-117;2020-03-18;226;Aragon, Spain
-118;2020-03-19;281;Aragon, Spain
-119;2020-03-20;360;Aragon, Spain
-120;2020-03-21;424;Aragon, Spain
-121;2020-03-22;532;Aragon, Spain
-122;2020-03-23;638;Aragon, Spain
-123;2020-03-24;758;Aragon, Spain
-124;2020-03-25;907;Aragon, Spain
-125;2020-03-26;1116;Aragon, Spain
-126;2020-03-27;1338;Aragon, Spain
-127;2020-03-28;1592;Aragon, Spain
-128;2020-03-29;1858;Aragon, Spain
-129;2020-03-30;2078;Aragon, Spain
-130;2020-03-31;2272;Aragon, Spain
-131;2020-04-01;2491;Aragon, Spain
-132;2020-04-02;2700;Aragon, Spain
-133;2020-04-03;2889;Aragon, Spain
-134;2020-04-04;3078;Aragon, Spain
-135;2020-04-05;3232;Aragon, Spain
-136;2020-04-06;3347;Aragon, Spain
-137;2020-04-07;3449;Aragon, Spain
-138;2020-04-08;3549;Aragon, Spain
-139;2020-04-09;3685;Aragon, Spain
-140;2020-04-10;3831;Aragon, Spain
-141;2020-04-11;3998;Aragon, Spain
-142;2020-04-12;4125;Aragon, Spain
-143;2020-04-13;4248;Aragon, Spain
-144;2020-04-14;4332;Aragon, Spain
-145;2020-04-15;4450;Aragon, Spain
-146;2020-04-16;4566;Aragon, Spain
-147;2020-04-17;4664;Aragon, Spain
-148;2020-04-18;4761;Aragon, Spain
-149;2020-04-19;4831;Aragon, Spain
-150;2020-04-20;4886;Aragon, Spain
-151;2020-04-21;4938;Aragon, Spain
-152;2020-04-22;5054;Aragon, Spain
-153;2020-04-23;5237;Aragon, Spain
-154;2020-04-24;5295;Aragon, Spain
-155;2020-04-25;5382;Aragon, Spain
-156;2020-04-26;5456;Aragon, Spain
-157;2020-04-27;5504;Aragon, Spain
-158;2020-04-28;5557;Aragon, Spain
-159;2020-04-29;5652;Aragon, Spain
-160;2020-04-30;5971;Aragon, Spain
-161;2020-05-01;6103;Aragon, Spain
-162;2020-05-02;6164;Aragon, Spain
-163;2020-05-03;6208;Aragon, Spain
-164;2020-05-04;6239;Aragon, Spain
-165;2020-05-05;6282;Aragon, Spain
-166;2020-05-06;6382;Aragon, Spain
-167;2020-05-07;6516;Aragon, Spain
-168;2020-05-08;6575;Aragon, Spain
-169;2020-05-09;6656;Aragon, Spain
-170;2020-05-10;6702;Aragon, Spain
-171;2020-05-11;6731;Aragon, Spain
-172;2020-05-12;6797;Aragon, Spain
-173;2020-05-13;6856;Aragon, Spain
-174;2020-05-14;6943;Aragon, Spain
-175;2020-05-15;7015;Aragon, Spain
-176;2020-05-16;7125;Aragon, Spain
-177;2020-05-17;7177;Aragon, Spain
-178;2020-05-18;7201;Aragon, Spain
-179;2020-05-19;7271;Aragon, Spain
-180;2020-05-20;7302;Aragon, Spain
-181;2020-05-21;7339;Aragon, Spain
-182;2020-02-21;0;Asturias, Spain
-183;2020-02-22;0;Asturias, Spain
-184;2020-02-23;0;Asturias, Spain
-185;2020-02-24;0;Asturias, Spain
-186;2020-02-25;0;Asturias, Spain
-187;2020-02-26;0;Asturias, Spain
-188;2020-02-27;0;Asturias, Spain
-189;2020-02-28;0;Asturias, Spain
-190;2020-02-29;0;Asturias, Spain
-191;2020-03-01;1;Asturias, Spain
-192;2020-03-02;1;Asturias, Spain
-193;2020-03-03;1;Asturias, Spain
-194;2020-03-04;2;Asturias, Spain
-195;2020-03-05;4;Asturias, Spain
-196;2020-03-06;4;Asturias, Spain
-197;2020-03-07;7;Asturias, Spain
-198;2020-03-08;8;Asturias, Spain
-199;2020-03-09;10;Asturias, Spain
-200;2020-03-10;15;Asturias, Spain
-201;2020-03-11;32;Asturias, Spain
-202;2020-03-12;37;Asturias, Spain
-203;2020-03-13;40;Asturias, Spain
-204;2020-03-14;86;Asturias, Spain
-205;2020-03-15;123;Asturias, Spain
-206;2020-03-16;160;Asturias, Spain
-207;2020-03-17;224;Asturias, Spain
-208;2020-03-18;269;Asturias, Spain
-209;2020-03-19;310;Asturias, Spain
-210;2020-03-20;429;Asturias, Spain
-211;2020-03-21;524;Asturias, Spain
-212;2020-03-22;569;Asturias, Spain
-213;2020-03-23;621;Asturias, Spain
-214;2020-03-24;754;Asturias, Spain
-215;2020-03-25;812;Asturias, Spain
-216;2020-03-26;891;Asturias, Spain
-217;2020-03-27;960;Asturias, Spain
-218;2020-03-28;1037;Asturias, Spain
-219;2020-03-29;1143;Asturias, Spain
-220;2020-03-30;1206;Asturias, Spain
-221;2020-03-31;1295;Asturias, Spain
-222;2020-04-01;1367;Asturias, Spain
-223;2020-04-02;1435;Asturias, Spain
-224;2020-04-03;1504;Asturias, Spain
-225;2020-04-04;1585;Asturias, Spain
-226;2020-04-05;1640;Asturias, Spain
-227;2020-04-06;1695;Asturias, Spain
-228;2020-04-07;1718;Asturias, Spain
-229;2020-04-08;1751;Asturias, Spain
-230;2020-04-09;1831;Asturias, Spain
-231;2020-04-10;1889;Asturias, Spain
-232;2020-04-11;1943;Asturias, Spain
-233;2020-04-12;2030;Asturias, Spain
-234;2020-04-13;2084;Asturias, Spain
-235;2020-04-14;2119;Asturias, Spain
-236;2020-04-15;2194;Asturias, Spain
-237;2020-04-16;2247;Asturias, Spain
-238;2020-04-17;2319;Asturias, Spain
-239;2020-04-18;2366;Asturias, Spain
-240;2020-04-19;2391;Asturias, Spain
-241;2020-04-20;2407;Asturias, Spain
-242;2020-04-21;2449;Asturias, Spain
-243;2020-04-22;2507;Asturias, Spain
-244;2020-04-23;2559;Asturias, Spain
-245;2020-04-24;2599;Asturias, Spain
-246;2020-04-25;2642;Asturias, Spain
-247;2020-04-26;2702;Asturias, Spain
-248;2020-04-27;2735;Asturias, Spain
-249;2020-04-28;2806;Asturias, Spain
-250;2020-04-29;2871;Asturias, Spain
-251;2020-04-30;2922;Asturias, Spain
-252;2020-05-01;2973;Asturias, Spain
-253;2020-05-02;2997;Asturias, Spain
-254;2020-05-03;3019;Asturias, Spain
-255;2020-05-04;3031;Asturias, Spain
-256;2020-05-05;3059;Asturias, Spain
-257;2020-05-06;3090;Asturias, Spain
-258;2020-05-07;3103;Asturias, Spain
-259;2020-05-08;3159;Asturias, Spain
-260;2020-05-09;3185;Asturias, Spain
-261;2020-05-10;3200;Asturias, Spain
-262;2020-05-11;3216;Asturias, Spain
-263;2020-05-12;3227;Asturias, Spain
-264;2020-05-13;3252;Asturias, Spain
-265;2020-05-14;3267;Asturias, Spain
-266;2020-05-15;3300;Asturias, Spain
-267;2020-05-16;3327;Asturias, Spain
-268;2020-05-17;3344;Asturias, Spain
-269;2020-05-18;3355;Asturias, Spain
-270;2020-05-19;3358;Asturias, Spain
-271;2020-05-20;3359;Asturias, Spain
-272;2020-05-21;3359;Asturias, Spain
-273;2020-02-21;1;Baleares, Spain
-274;2020-02-22;1;Baleares, Spain
-275;2020-02-23;1;Baleares, Spain
-276;2020-02-24;1;Baleares, Spain
-277;2020-02-25;1;Baleares, Spain
-278;2020-02-26;1;Baleares, Spain
-279;2020-02-27;1;Baleares, Spain
-280;2020-02-28;1;Baleares, Spain
-281;2020-02-29;2;Baleares, Spain
-282;2020-03-01;2;Baleares, Spain
-283;2020-03-02;2;Baleares, Spain
-284;2020-03-03;2;Baleares, Spain
-285;2020-03-04;5;Baleares, Spain
-286;2020-03-05;6;Baleares, Spain
-287;2020-03-06;6;Baleares, Spain
-288;2020-03-07;6;Baleares, Spain
-289;2020-03-08;8;Baleares, Spain
-290;2020-03-09;11;Baleares, Spain
-291;2020-03-10;13;Baleares, Spain
-292;2020-03-11;16;Baleares, Spain
-293;2020-03-12;22;Baleares, Spain
-294;2020-03-13;28;Baleares, Spain
-295;2020-03-14;28;Baleares, Spain
-296;2020-03-15;42;Baleares, Spain
-297;2020-03-16;73;Baleares, Spain
-298;2020-03-17;92;Baleares, Spain
-299;2020-03-18;112;Baleares, Spain
-300;2020-03-19;169;Baleares, Spain
-301;2020-03-20;203;Baleares, Spain
-302;2020-03-21;246;Baleares, Spain
-303;2020-03-22;331;Baleares, Spain
-304;2020-03-23;400;Baleares, Spain
-305;2020-03-24;478;Baleares, Spain
-306;2020-03-25;562;Baleares, Spain
-307;2020-03-26;660;Baleares, Spain
-308;2020-03-27;755;Baleares, Spain
-309;2020-03-28;862;Baleares, Spain
-310;2020-03-29;958;Baleares, Spain
-311;2020-03-30;1000;Baleares, Spain
-312;2020-03-31;1069;Baleares, Spain
-313;2020-04-01;1131;Baleares, Spain
-314;2020-04-02;1204;Baleares, Spain
-315;2020-04-03;1257;Baleares, Spain
-316;2020-04-04;1271;Baleares, Spain
-317;2020-04-05;1293;Baleares, Spain
-318;2020-04-06;1320;Baleares, Spain
-319;2020-04-07;1369;Baleares, Spain
-320;2020-04-08;1412;Baleares, Spain
-321;2020-04-09;1448;Baleares, Spain
-322;2020-04-10;1488;Baleares, Spain
-323;2020-04-11;1507;Baleares, Spain
-324;2020-04-12;1534;Baleares, Spain
-325;2020-04-13;1550;Baleares, Spain
-326;2020-04-14;1571;Baleares, Spain
-327;2020-04-15;1605;Baleares, Spain
-328;2020-04-16;1636;Baleares, Spain
-329;2020-04-17;1667;Baleares, Spain
-330;2020-04-18;1747;Baleares, Spain
-331;2020-04-19;1772;Baleares, Spain
-332;2020-04-20;1787;Baleares, Spain
-333;2020-04-21;1807;Baleares, Spain
-334;2020-04-22;1834;Baleares, Spain
-335;2020-04-23;1859;Baleares, Spain
-336;2020-04-24;1876;Baleares, Spain
-337;2020-04-25;1905;Baleares, Spain
-338;2020-04-26;1915;Baleares, Spain
-339;2020-04-27;1920;Baleares, Spain
-340;2020-04-28;1938;Baleares, Spain
-341;2020-04-29;1948;Baleares, Spain
-342;2020-04-30;1953;Baleares, Spain
-343;2020-05-01;1968;Baleares, Spain
-344;2020-05-02;1980;Baleares, Spain
-345;2020-05-03;1986;Baleares, Spain
-346;2020-05-04;1987;Baleares, Spain
-347;2020-05-05;1993;Baleares, Spain
-348;2020-05-06;2009;Baleares, Spain
-349;2020-05-07;2019;Baleares, Spain
-350;2020-05-08;2025;Baleares, Spain
-351;2020-05-09;2038;Baleares, Spain
-352;2020-05-10;2051;Baleares, Spain
-353;2020-05-11;2054;Baleares, Spain
-354;2020-05-12;2054;Baleares, Spain
-355;2020-05-13;2059;Baleares, Spain
-356;2020-05-14;2060;Baleares, Spain
-357;2020-05-15;2069;Baleares, Spain
-358;2020-05-16;2085;Baleares, Spain
-359;2020-05-17;2094;Baleares, Spain
-360;2020-05-18;2096;Baleares, Spain
-361;2020-05-19;2109;Baleares, Spain
-362;2020-05-20;2122;Baleares, Spain
-363;2020-05-21;2131;Baleares, Spain
-364;2020-02-21;1;Canarias, Spain
-365;2020-02-22;1;Canarias, Spain
-366;2020-02-23;1;Canarias, Spain
-367;2020-02-24;1;Canarias, Spain
-368;2020-02-25;2;Canarias, Spain
-369;2020-02-26;5;Canarias, Spain
-370;2020-02-27;6;Canarias, Spain
-371;2020-02-28;6;Canarias, Spain
-372;2020-02-29;6;Canarias, Spain
-373;2020-03-01;7;Canarias, Spain
-374;2020-03-02;7;Canarias, Spain
-375;2020-03-03;7;Canarias, Spain
-376;2020-03-04;7;Canarias, Spain
-377;2020-03-05;8;Canarias, Spain
-378;2020-03-06;11;Canarias, Spain
-379;2020-03-07;11;Canarias, Spain
-380;2020-03-08;17;Canarias, Spain
-381;2020-03-09;22;Canarias, Spain
-382;2020-03-10;25;Canarias, Spain
-383;2020-03-11;37;Canarias, Spain
-384;2020-03-12;51;Canarias, Spain
-385;2020-03-13;70;Canarias, Spain
-386;2020-03-14;90;Canarias, Spain
-387;2020-03-15;109;Canarias, Spain
-388;2020-03-16;119;Canarias, Spain
-389;2020-03-17;148;Canarias, Spain
-390;2020-03-18;181;Canarias, Spain
-391;2020-03-19;220;Canarias, Spain
-392;2020-03-20;287;Canarias, Spain
-393;2020-03-21;348;Canarias, Spain
-394;2020-03-22;414;Canarias, Spain
-395;2020-03-23;481;Canarias, Spain
-396;2020-03-24;557;Canarias, Spain
-397;2020-03-25;657;Canarias, Spain
-398;2020-03-26;784;Canarias, Spain
-399;2020-03-27;878;Canarias, Spain
-400;2020-03-28;1025;Canarias, Spain
-401;2020-03-29;1125;Canarias, Spain
-402;2020-03-30;1204;Canarias, Spain
-403;2020-03-31;1262;Canarias, Spain
-404;2020-04-01;1380;Canarias, Spain
-405;2020-04-02;1444;Canarias, Spain
-406;2020-04-03;1490;Canarias, Spain
-407;2020-04-04;1564;Canarias, Spain
-408;2020-04-05;1622;Canarias, Spain
-409;2020-04-06;1649;Canarias, Spain
-410;2020-04-07;1725;Canarias, Spain
-411;2020-04-08;1762;Canarias, Spain
-412;2020-04-09;1834;Canarias, Spain
-413;2020-04-10;1858;Canarias, Spain
-414;2020-04-11;1887;Canarias, Spain
-415;2020-04-12;1918;Canarias, Spain
-416;2020-04-13;1944;Canarias, Spain
-417;2020-04-14;1958;Canarias, Spain
-418;2020-04-15;1975;Canarias, Spain
-419;2020-04-16;1988;Canarias, Spain
-420;2020-04-17;2009;Canarias, Spain
-421;2020-04-18;2035;Canarias, Spain
-422;2020-04-19;2047;Canarias, Spain
-423;2020-04-20;2067;Canarias, Spain
-424;2020-04-21;2085;Canarias, Spain
-425;2020-04-22;2094;Canarias, Spain
-426;2020-04-23;2113;Canarias, Spain
-427;2020-04-24;2140;Canarias, Spain
-428;2020-04-25;2155;Canarias, Spain
-429;2020-04-26;2167;Canarias, Spain
-430;2020-04-27;2178;Canarias, Spain
-431;2020-04-28;2187;Canarias, Spain
-432;2020-04-29;2202;Canarias, Spain
-433;2020-04-30;2205;Canarias, Spain
-434;2020-05-01;2206;Canarias, Spain
-435;2020-05-02;2212;Canarias, Spain
-436;2020-05-03;2221;Canarias, Spain
-437;2020-05-04;2225;Canarias, Spain
-438;2020-05-05;2231;Canarias, Spain
-439;2020-05-06;2231;Canarias, Spain
-440;2020-05-07;2235;Canarias, Spain
-441;2020-05-08;2240;Canarias, Spain
-442;2020-05-09;2250;Canarias, Spain
-443;2020-05-10;2258;Canarias, Spain
-444;2020-05-11;2260;Canarias, Spain
-445;2020-05-12;2268;Canarias, Spain
-446;2020-05-13;2271;Canarias, Spain
-447;2020-05-14;2275;Canarias, Spain
-448;2020-05-15;2280;Canarias, Spain
-449;2020-05-16;2284;Canarias, Spain
-450;2020-05-17;2289;Canarias, Spain
-451;2020-05-18;2294;Canarias, Spain
-452;2020-05-19;2294;Canarias, Spain
-453;2020-05-20;2300;Canarias, Spain
-454;2020-05-21;2307;Canarias, Spain
-455;2020-02-21;0;Cantabria, Spain
-456;2020-02-22;0;Cantabria, Spain
-457;2020-02-23;0;Cantabria, Spain
-458;2020-02-24;0;Cantabria, Spain
-459;2020-02-25;0;Cantabria, Spain
-460;2020-02-26;0;Cantabria, Spain
-461;2020-02-27;0;Cantabria, Spain
-462;2020-02-28;0;Cantabria, Spain
-463;2020-02-29;0;Cantabria, Spain
-464;2020-03-01;1;Cantabria, Spain
-465;2020-03-02;10;Cantabria, Spain
-466;2020-03-03;10;Cantabria, Spain
-467;2020-03-04;10;Cantabria, Spain
-468;2020-03-05;10;Cantabria, Spain
-469;2020-03-06;10;Cantabria, Spain
-470;2020-03-07;10;Cantabria, Spain
-471;2020-03-08;12;Cantabria, Spain
-472;2020-03-09;12;Cantabria, Spain
-473;2020-03-10;12;Cantabria, Spain
-474;2020-03-11;12;Cantabria, Spain
-475;2020-03-12;16;Cantabria, Spain
-476;2020-03-13;29;Cantabria, Spain
-477;2020-03-14;31;Cantabria, Spain
-478;2020-03-15;51;Cantabria, Spain
-479;2020-03-16;58;Cantabria, Spain
-480;2020-03-17;58;Cantabria, Spain
-481;2020-03-18;68;Cantabria, Spain
-482;2020-03-19;83;Cantabria, Spain
-483;2020-03-20;144;Cantabria, Spain
-484;2020-03-21;215;Cantabria, Spain
-485;2020-03-22;282;Cantabria, Spain
-486;2020-03-23;347;Cantabria, Spain
-487;2020-03-24;425;Cantabria, Spain
-488;2020-03-25;510;Cantabria, Spain
-489;2020-03-26;671;Cantabria, Spain
-490;2020-03-27;810;Cantabria, Spain
-491;2020-03-28;937;Cantabria, Spain
-492;2020-03-29;1023;Cantabria, Spain
-493;2020-03-30;1100;Cantabria, Spain
-494;2020-03-31;1171;Cantabria, Spain
-495;2020-04-01;1213;Cantabria, Spain
-496;2020-04-02;1268;Cantabria, Spain
-497;2020-04-03;1321;Cantabria, Spain
-498;2020-04-04;1384;Cantabria, Spain
-499;2020-04-05;1441;Cantabria, Spain
-500;2020-04-06;1483;Cantabria, Spain
-501;2020-04-07;1501;Cantabria, Spain
-502;2020-04-08;1572;Cantabria, Spain
-503;2020-04-09;1619;Cantabria, Spain
-504;2020-04-10;1659;Cantabria, Spain
-505;2020-04-11;1719;Cantabria, Spain
-506;2020-04-12;1752;Cantabria, Spain
-507;2020-04-13;1777;Cantabria, Spain
-508;2020-04-14;1796;Cantabria, Spain
-509;2020-04-15;1823;Cantabria, Spain
-510;2020-04-16;1845;Cantabria, Spain
-511;2020-04-17;1884;Cantabria, Spain
-512;2020-04-18;1990;Cantabria, Spain
-513;2020-04-19;2050;Cantabria, Spain
-514;2020-04-20;2083;Cantabria, Spain
-515;2020-04-21;2108;Cantabria, Spain
-516;2020-04-22;2160;Cantabria, Spain
-517;2020-04-23;2206;Cantabria, Spain
-518;2020-04-24;2273;Cantabria, Spain
-519;2020-04-25;2315;Cantabria, Spain
-520;2020-04-26;2330;Cantabria, Spain
-521;2020-04-27;2350;Cantabria, Spain
-522;2020-04-28;2386;Cantabria, Spain
-523;2020-04-29;2439;Cantabria, Spain
-524;2020-04-30;2505;Cantabria, Spain
-525;2020-05-01;2547;Cantabria, Spain
-526;2020-05-02;2577;Cantabria, Spain
-527;2020-05-03;2589;Cantabria, Spain
-528;2020-05-04;2596;Cantabria, Spain
-529;2020-05-05;2607;Cantabria, Spain
-530;2020-05-06;2626;Cantabria, Spain
-531;2020-05-07;2642;Cantabria, Spain
-532;2020-05-08;2665;Cantabria, Spain
-533;2020-05-09;2681;Cantabria, Spain
-534;2020-05-10;2684;Cantabria, Spain
-535;2020-05-11;2685;Cantabria, Spain
-536;2020-05-12;2691;Cantabria, Spain
-537;2020-05-13;2733;Cantabria, Spain
-538;2020-05-14;2739;Cantabria, Spain
-539;2020-05-15;2761;Cantabria, Spain
-540;2020-05-16;2770;Cantabria, Spain
-541;2020-05-17;2773;Cantabria, Spain
-542;2020-05-18;2774;Cantabria, Spain
-543;2020-05-19;2782;Cantabria, Spain
-544;2020-05-20;2787;Cantabria, Spain
-545;2020-05-21;2798;Cantabria, Spain
-546;2020-02-21;0;Castilla La Mancha, Spain
-547;2020-02-22;0;Castilla La Mancha, Spain
-548;2020-02-23;0;Castilla La Mancha, Spain
-549;2020-02-24;0;Castilla La Mancha, Spain
-550;2020-02-25;0;Castilla La Mancha, Spain
-551;2020-02-26;0;Castilla La Mancha, Spain
-552;2020-02-27;0;Castilla La Mancha, Spain
-553;2020-02-28;0;Castilla La Mancha, Spain
-554;2020-02-29;0;Castilla La Mancha, Spain
-555;2020-03-01;1;Castilla La Mancha, Spain
-556;2020-03-02;3;Castilla La Mancha, Spain
-557;2020-03-03;7;Castilla La Mancha, Spain
-558;2020-03-04;12;Castilla La Mancha, Spain
-559;2020-03-05;13;Castilla La Mancha, Spain
-560;2020-03-06;15;Castilla La Mancha, Spain
-561;2020-03-07;15;Castilla La Mancha, Spain
-562;2020-03-08;15;Castilla La Mancha, Spain
-563;2020-03-09;26;Castilla La Mancha, Spain
-564;2020-03-10;39;Castilla La Mancha, Spain
-565;2020-03-11;71;Castilla La Mancha, Spain
-566;2020-03-12;115;Castilla La Mancha, Spain
-567;2020-03-13;194;Castilla La Mancha, Spain
-568;2020-03-14;289;Castilla La Mancha, Spain
-569;2020-03-15;401;Castilla La Mancha, Spain
-570;2020-03-16;567;Castilla La Mancha, Spain
-571;2020-03-17;567;Castilla La Mancha, Spain
-572;2020-03-18;675;Castilla La Mancha, Spain
-573;2020-03-19;801;Castilla La Mancha, Spain
-574;2020-03-20;1044;Castilla La Mancha, Spain
-575;2020-03-21;1423;Castilla La Mancha, Spain
-576;2020-03-22;1819;Castilla La Mancha, Spain
-577;2020-03-23;2078;Castilla La Mancha, Spain
-578;2020-03-24;2465;Castilla La Mancha, Spain
-579;2020-03-25;2780;Castilla La Mancha, Spain
-580;2020-03-26;3383;Castilla La Mancha, Spain
-581;2020-03-27;3934;Castilla La Mancha, Spain
-582;2020-03-28;4512;Castilla La Mancha, Spain
-583;2020-03-29;5246;Castilla La Mancha, Spain
-584;2020-03-30;5858;Castilla La Mancha, Spain
-585;2020-03-31;6424;Castilla La Mancha, Spain
-586;2020-04-01;7047;Castilla La Mancha, Spain
-587;2020-04-02;7682;Castilla La Mancha, Spain
-588;2020-04-03;8523;Castilla La Mancha, Spain
-589;2020-04-04;9324;Castilla La Mancha, Spain
-590;2020-04-05;10031;Castilla La Mancha, Spain
-591;2020-04-06;10602;Castilla La Mancha, Spain
-592;2020-04-07;11077;Castilla La Mancha, Spain
-593;2020-04-08;11788;Castilla La Mancha, Spain
-594;2020-04-09;12489;Castilla La Mancha, Spain
-595;2020-04-10;13063;Castilla La Mancha, Spain
-596;2020-04-11;13456;Castilla La Mancha, Spain
-597;2020-04-12;13698;Castilla La Mancha, Spain
-598;2020-04-13;14054;Castilla La Mancha, Spain
-599;2020-04-14;14329;Castilla La Mancha, Spain
-600;2020-04-15;14680;Castilla La Mancha, Spain
-601;2020-04-16;15151;Castilla La Mancha, Spain
-602;2020-04-17;15997;Castilla La Mancha, Spain
-603;2020-04-18;16349;Castilla La Mancha, Spain
-604;2020-04-19;16625;Castilla La Mancha, Spain
-605;2020-04-20;16796;Castilla La Mancha, Spain
-606;2020-04-21;17045;Castilla La Mancha, Spain
-607;2020-04-22;17321;Castilla La Mancha, Spain
-608;2020-04-23;17557;Castilla La Mancha, Spain
-609;2020-04-24;18053;Castilla La Mancha, Spain
-610;2020-04-25;18525;Castilla La Mancha, Spain
-611;2020-04-26;18995;Castilla La Mancha, Spain
-612;2020-04-27;19286;Castilla La Mancha, Spain
-613;2020-04-28;19518;Castilla La Mancha, Spain
-614;2020-04-29;19795;Castilla La Mancha, Spain
-615;2020-04-30;20071;Castilla La Mancha, Spain
-616;2020-05-01;20516;Castilla La Mancha, Spain
-617;2020-05-02;21023;Castilla La Mancha, Spain
-618;2020-05-03;21290;Castilla La Mancha, Spain
-619;2020-05-04;21511;Castilla La Mancha, Spain
-620;2020-05-05;21656;Castilla La Mancha, Spain
-621;2020-05-06;22166;Castilla La Mancha, Spain
-622;2020-05-07;22567;Castilla La Mancha, Spain
-623;2020-05-08;22908;Castilla La Mancha, Spain
-624;2020-05-09;23293;Castilla La Mancha, Spain
-625;2020-05-10;23662;Castilla La Mancha, Spain
-626;2020-05-11;23869;Castilla La Mancha, Spain
-627;2020-05-12;24051;Castilla La Mancha, Spain
-628;2020-05-13;24185;Castilla La Mancha, Spain
-629;2020-05-14;24331;Castilla La Mancha, Spain
-630;2020-05-15;24527;Castilla La Mancha, Spain
-631;2020-05-16;24776;Castilla La Mancha, Spain
-632;2020-05-17;24908;Castilla La Mancha, Spain
-633;2020-05-18;25014;Castilla La Mancha, Spain
-634;2020-05-19;25074;Castilla La Mancha, Spain
-635;2020-05-20;25285;Castilla La Mancha, Spain
-636;2020-05-21;25423;Castilla La Mancha, Spain
-637;2020-02-21;0;Castilla y Leon, Spain
-638;2020-02-22;0;Castilla y Leon, Spain
-639;2020-02-23;0;Castilla y Leon, Spain
-640;2020-02-24;0;Castilla y Leon, Spain
-641;2020-02-25;0;Castilla y Leon, Spain
-642;2020-02-26;0;Castilla y Leon, Spain
-643;2020-02-27;0;Castilla y Leon, Spain
-644;2020-02-28;2;Castilla y Leon, Spain
-645;2020-02-29;2;Castilla y Leon, Spain
-646;2020-03-01;3;Castilla y Leon, Spain
-647;2020-03-02;3;Castilla y Leon, Spain
-648;2020-03-03;8;Castilla y Leon, Spain
-649;2020-03-04;11;Castilla y Leon, Spain
-650;2020-03-05;11;Castilla y Leon, Spain
-651;2020-03-06;14;Castilla y Leon, Spain
-652;2020-03-07;14;Castilla y Leon, Spain
-653;2020-03-08;22;Castilla y Leon, Spain
-654;2020-03-09;23;Castilla y Leon, Spain
-655;2020-03-10;56;Castilla y Leon, Spain
-656;2020-03-11;71;Castilla y Leon, Spain
-657;2020-03-12;92;Castilla y Leon, Spain
-658;2020-03-13;169;Castilla y Leon, Spain
-659;2020-03-14;223;Castilla y Leon, Spain
-660;2020-03-15;292;Castilla y Leon, Spain
-661;2020-03-16;334;Castilla y Leon, Spain
-662;2020-03-17;431;Castilla y Leon, Spain
-663;2020-03-18;668;Castilla y Leon, Spain
-664;2020-03-19;868;Castilla y Leon, Spain
-665;2020-03-20;1147;Castilla y Leon, Spain
-666;2020-03-21;1466;Castilla y Leon, Spain
-667;2020-03-22;1744;Castilla y Leon, Spain
-668;2020-03-23;2055;Castilla y Leon, Spain
-669;2020-03-24;2460;Castilla y Leon, Spain
-670;2020-03-25;2940;Castilla y Leon, Spain
-671;2020-03-26;3488;Castilla y Leon, Spain
-672;2020-03-27;4132;Castilla y Leon, Spain
-673;2020-03-28;4791;Castilla y Leon, Spain
-674;2020-03-29;5414;Castilla y Leon, Spain
-675;2020-03-30;5801;Castilla y Leon, Spain
-676;2020-03-31;6211;Castilla y Leon, Spain
-677;2020-04-01;6847;Castilla y Leon, Spain
-678;2020-04-02;7355;Castilla y Leon, Spain
-679;2020-04-03;7875;Castilla y Leon, Spain
-680;2020-04-04;8332;Castilla y Leon, Spain
-681;2020-04-05;8749;Castilla y Leon, Spain
-682;2020-04-06;9116;Castilla y Leon, Spain
-683;2020-04-07;9581;Castilla y Leon, Spain
-684;2020-04-08;10058;Castilla y Leon, Spain
-685;2020-04-09;10518;Castilla y Leon, Spain
-686;2020-04-10;11102;Castilla y Leon, Spain
-687;2020-04-11;11543;Castilla y Leon, Spain
-688;2020-04-12;12118;Castilla y Leon, Spain
-689;2020-04-13;12628;Castilla y Leon, Spain
-690;2020-04-14;13180;Castilla y Leon, Spain
-691;2020-04-15;13697;Castilla y Leon, Spain
-692;2020-04-16;14380;Castilla y Leon, Spain
-693;2020-04-17;14903;Castilla y Leon, Spain
-694;2020-04-18;15293;Castilla y Leon, Spain
-695;2020-04-19;15621;Castilla y Leon, Spain
-696;2020-04-20;15857;Castilla y Leon, Spain
-697;2020-04-21;16259;Castilla y Leon, Spain
-698;2020-04-22;16839;Castilla y Leon, Spain
-699;2020-04-23;17402;Castilla y Leon, Spain
-700;2020-04-24;17776;Castilla y Leon, Spain
-701;2020-04-25;18259;Castilla y Leon, Spain
-702;2020-04-26;18684;Castilla y Leon, Spain
-703;2020-04-27;19028;Castilla y Leon, Spain
-704;2020-04-28;19372;Castilla y Leon, Spain
-705;2020-04-29;19851;Castilla y Leon, Spain
-706;2020-04-30;20312;Castilla y Leon, Spain
-707;2020-05-01;20739;Castilla y Leon, Spain
-708;2020-05-02;20999;Castilla y Leon, Spain
-709;2020-05-03;21229;Castilla y Leon, Spain
-710;2020-05-04;21379;Castilla y Leon, Spain
-711;2020-05-05;21719;Castilla y Leon, Spain
-712;2020-05-06;22156;Castilla y Leon, Spain
-713;2020-05-07;22537;Castilla y Leon, Spain
-714;2020-05-08;22926;Castilla y Leon, Spain
-715;2020-05-09;23452;Castilla y Leon, Spain
-716;2020-05-10;23821;Castilla y Leon, Spain
-717;2020-05-11;23991;Castilla y Leon, Spain
-718;2020-05-12;24170;Castilla y Leon, Spain
-719;2020-05-13;24262;Castilla y Leon, Spain
-720;2020-05-14;24379;Castilla y Leon, Spain
-721;2020-05-15;24498;Castilla y Leon, Spain
-722;2020-05-16;24595;Castilla y Leon, Spain
-723;2020-05-17;24696;Castilla y Leon, Spain
-724;2020-05-18;24746;Castilla y Leon, Spain
-725;2020-05-19;24834;Castilla y Leon, Spain
-726;2020-05-20;24876;Castilla y Leon, Spain
-727;2020-05-21;24918;Castilla y Leon, Spain
-728;2020-02-21;0;Cataluña, Spain
-729;2020-02-22;0;Cataluña, Spain
-730;2020-02-23;0;Cataluña, Spain
-731;2020-02-24;0;Cataluña, Spain
-732;2020-02-25;0;Cataluña, Spain
-733;2020-02-26;1;Cataluña, Spain
-734;2020-02-27;2;Cataluña, Spain
-735;2020-02-28;3;Cataluña, Spain
-736;2020-02-29;5;Cataluña, Spain
-737;2020-03-01;6;Cataluña, Spain
-738;2020-03-02;15;Cataluña, Spain
-739;2020-03-03;15;Cataluña, Spain
-740;2020-03-04;15;Cataluña, Spain
-741;2020-03-05;24;Cataluña, Spain
-742;2020-03-06;24;Cataluña, Spain
-743;2020-03-07;24;Cataluña, Spain
-744;2020-03-08;49;Cataluña, Spain
-745;2020-03-09;59;Cataluña, Spain
-746;2020-03-10;82;Cataluña, Spain
-747;2020-03-11;123;Cataluña, Spain
-748;2020-03-12;202;Cataluña, Spain
-749;2020-03-13;349;Cataluña, Spain
-750;2020-03-14;558;Cataluña, Spain
-751;2020-03-15;742;Cataluña, Spain
-752;2020-03-16;1017;Cataluña, Spain
-753;2020-03-17;1414;Cataluña, Spain
-754;2020-03-18;1866;Cataluña, Spain
-755;2020-03-19;2702;Cataluña, Spain
-756;2020-03-20;3270;Cataluña, Spain
-757;2020-03-21;4203;Cataluña, Spain
-758;2020-03-22;5046;Cataluña, Spain
-759;2020-03-23;5747;Cataluña, Spain
-760;2020-03-24;7864;Cataluña, Spain
-761;2020-03-25;9937;Cataluña, Spain
-762;2020-03-26;11592;Cataluña, Spain
-763;2020-03-27;12940;Cataluña, Spain
-764;2020-03-28;14263;Cataluña, Spain
-765;2020-03-29;15025;Cataluña, Spain
-766;2020-03-30;16104;Cataluña, Spain
-767;2020-03-31;18520;Cataluña, Spain
-768;2020-04-01;19991;Cataluña, Spain
-769;2020-04-02;21804;Cataluña, Spain
-770;2020-04-03;23460;Cataluña, Spain
-771;2020-04-04;24734;Cataluña, Spain
-772;2020-04-05;26032;Cataluña, Spain
-773;2020-04-06;26824;Cataluña, Spain
-774;2020-04-07;28323;Cataluña, Spain
-775;2020-04-08;29647;Cataluña, Spain
-776;2020-04-09;31043;Cataluña, Spain
-777;2020-04-10;31824;Cataluña, Spain
-778;2020-04-11;32984;Cataluña, Spain
-779;2020-04-12;34027;Cataluña, Spain
-780;2020-04-13;34726;Cataluña, Spain
-781;2020-04-14;35197;Cataluña, Spain
-782;2020-04-15;36505;Cataluña, Spain
-783;2020-04-16;37354;Cataluña, Spain
-784;2020-04-17;38316;Cataluña, Spain
-785;2020-04-18;40095;Cataluña, Spain
-786;2020-04-19;40600;Cataluña, Spain
-787;2020-04-20;42703;Cataluña, Spain
-788;2020-04-21;44139;Cataluña, Spain
-789;2020-04-22;44829;Cataluña, Spain
-790;2020-04-23;45919;Cataluña, Spain
-791;2020-04-24;46571;Cataluña, Spain
-792;2020-04-25;47288;Cataluña, Spain
-793;2020-04-26;47838;Cataluña, Spain
-794;2020-04-27;48782;Cataluña, Spain
-795;2020-04-28;49185;Cataluña, Spain
-796;2020-04-29;49681;Cataluña, Spain
-797;2020-04-30;49943;Cataluña, Spain
-798;2020-05-01;50334;Cataluña, Spain
-799;2020-05-02;50877;Cataluña, Spain
-800;2020-05-03;51261;Cataluña, Spain
-801;2020-05-04;51393;Cataluña, Spain
-802;2020-05-05;51798;Cataluña, Spain
-803;2020-05-06;52090;Cataluña, Spain
-804;2020-05-07;52505;Cataluña, Spain
-805;2020-05-08;53209;Cataluña, Spain
-806;2020-05-09;53578;Cataluña, Spain
-807;2020-05-10;53805;Cataluña, Spain
-808;2020-05-11;56450;Cataluña, Spain
-809;2020-05-12;56787;Cataluña, Spain
-810;2020-05-13;56930;Cataluña, Spain
-811;2020-05-14;56956;Cataluña, Spain
-812;2020-05-15;57205;Cataluña, Spain
-813;2020-05-16;57328;Cataluña, Spain
-814;2020-05-17;57467;Cataluña, Spain
-815;2020-05-18;57564;Cataluña, Spain
-816;2020-05-19;57468;Cataluña, Spain
-817;2020-05-20;57531;Cataluña, Spain
-818;2020-05-21;57531;Cataluña, Spain
-819;2020-02-21;0;Ceuta, Spain
-820;2020-02-22;0;Ceuta, Spain
-821;2020-02-23;0;Ceuta, Spain
-822;2020-02-24;0;Ceuta, Spain
-823;2020-02-25;0;Ceuta, Spain
-824;2020-02-26;0;Ceuta, Spain
-825;2020-02-27;0;Ceuta, Spain
-826;2020-02-28;0;Ceuta, Spain
-827;2020-02-29;0;Ceuta, Spain
-828;2020-03-01;0;Ceuta, Spain
-829;2020-03-02;0;Ceuta, Spain
-830;2020-03-03;0;Ceuta, Spain
-831;2020-03-04;0;Ceuta, Spain
-832;2020-03-05;0;Ceuta, Spain
-833;2020-03-06;0;Ceuta, Spain
-834;2020-03-07;0;Ceuta, Spain
-835;2020-03-08;0;Ceuta, Spain
-836;2020-03-09;0;Ceuta, Spain
-837;2020-03-10;0;Ceuta, Spain
-838;2020-03-11;0;Ceuta, Spain
-839;2020-03-12;0;Ceuta, Spain
-840;2020-03-13;0;Ceuta, Spain
-841;2020-03-14;0;Ceuta, Spain
-842;2020-03-15;1;Ceuta, Spain
-843;2020-03-16;1;Ceuta, Spain
-844;2020-03-17;1;Ceuta, Spain
-845;2020-03-18;1;Ceuta, Spain
-846;2020-03-19;1;Ceuta, Spain
-847;2020-03-20;5;Ceuta, Spain
-848;2020-03-21;5;Ceuta, Spain
-849;2020-03-22;5;Ceuta, Spain
-850;2020-03-23;6;Ceuta, Spain
-851;2020-03-24;6;Ceuta, Spain
-852;2020-03-25;9;Ceuta, Spain
-853;2020-03-26;10;Ceuta, Spain
-854;2020-03-27;17;Ceuta, Spain
-855;2020-03-28;17;Ceuta, Spain
-856;2020-03-29;21;Ceuta, Spain
-857;2020-03-30;25;Ceuta, Spain
-858;2020-03-31;34;Ceuta, Spain
-859;2020-04-01;51;Ceuta, Spain
-860;2020-04-02;55;Ceuta, Spain
-861;2020-04-03;62;Ceuta, Spain
-862;2020-04-04;73;Ceuta, Spain
-863;2020-04-05;83;Ceuta, Spain
-864;2020-04-06;83;Ceuta, Spain
-865;2020-04-07;83;Ceuta, Spain
-866;2020-04-08;84;Ceuta, Spain
-867;2020-04-09;84;Ceuta, Spain
-868;2020-04-10;91;Ceuta, Spain
-869;2020-04-11;93;Ceuta, Spain
-870;2020-04-12;93;Ceuta, Spain
-871;2020-04-13;95;Ceuta, Spain
-872;2020-04-14;96;Ceuta, Spain
-873;2020-04-15;98;Ceuta, Spain
-874;2020-04-16;100;Ceuta, Spain
-875;2020-04-17;101;Ceuta, Spain
-876;2020-04-18;111;Ceuta, Spain
-877;2020-04-19;112;Ceuta, Spain
-878;2020-04-20;114;Ceuta, Spain
-879;2020-04-21;114;Ceuta, Spain
-880;2020-04-22;124;Ceuta, Spain
-881;2020-04-23;124;Ceuta, Spain
-882;2020-04-24;125;Ceuta, Spain
-883;2020-04-25;125;Ceuta, Spain
-884;2020-04-26;131;Ceuta, Spain
-885;2020-04-27;131;Ceuta, Spain
-886;2020-04-28;134;Ceuta, Spain
-887;2020-04-29;139;Ceuta, Spain
-888;2020-04-30;146;Ceuta, Spain
-889;2020-05-01;151;Ceuta, Spain
-890;2020-05-02;152;Ceuta, Spain
-891;2020-05-03;152;Ceuta, Spain
-892;2020-05-04;152;Ceuta, Spain
-893;2020-05-05;155;Ceuta, Spain
-894;2020-05-06;164;Ceuta, Spain
-895;2020-05-07;165;Ceuta, Spain
-896;2020-05-08;168;Ceuta, Spain
-897;2020-05-09;169;Ceuta, Spain
-898;2020-05-10;169;Ceuta, Spain
-899;2020-05-11;169;Ceuta, Spain
-900;2020-05-12;173;Ceuta, Spain
-901;2020-05-13;173;Ceuta, Spain
-902;2020-05-14;175;Ceuta, Spain
-903;2020-05-15;175;Ceuta, Spain
-904;2020-05-16;175;Ceuta, Spain
-905;2020-05-17;175;Ceuta, Spain
-906;2020-05-18;175;Ceuta, Spain
-907;2020-05-19;176;Ceuta, Spain
-908;2020-05-20;178;Ceuta, Spain
-909;2020-05-21;178;Ceuta, Spain
-910;2020-02-21;0;Valencia, Spain
-911;2020-02-22;0;Valencia, Spain
-912;2020-02-23;0;Valencia, Spain
-913;2020-02-24;0;Valencia, Spain
-914;2020-02-25;0;Valencia, Spain
-915;2020-02-26;1;Valencia, Spain
-916;2020-02-27;2;Valencia, Spain
-917;2020-02-28;8;Valencia, Spain
-918;2020-02-29;10;Valencia, Spain
-919;2020-03-01;15;Valencia, Spain
-920;2020-03-02;15;Valencia, Spain
-921;2020-03-03;15;Valencia, Spain
-922;2020-03-04;19;Valencia, Spain
-923;2020-03-05;19;Valencia, Spain
-924;2020-03-06;30;Valencia, Spain
-925;2020-03-07;30;Valencia, Spain
-926;2020-03-08;37;Valencia, Spain
-927;2020-03-09;37;Valencia, Spain
-928;2020-03-10;50;Valencia, Spain
-929;2020-03-11;65;Valencia, Spain
-930;2020-03-12;76;Valencia, Spain
-931;2020-03-13;94;Valencia, Spain
-932;2020-03-14;130;Valencia, Spain
-933;2020-03-15;409;Valencia, Spain
-934;2020-03-16;409;Valencia, Spain
-935;2020-03-17;541;Valencia, Spain
-936;2020-03-18;726;Valencia, Spain
-937;2020-03-19;921;Valencia, Spain
-938;2020-03-20;1105;Valencia, Spain
-939;2020-03-21;1363;Valencia, Spain
-940;2020-03-22;1604;Valencia, Spain
-941;2020-03-23;1901;Valencia, Spain
-942;2020-03-24;2167;Valencia, Spain
-943;2020-03-25;2616;Valencia, Spain
-944;2020-03-26;3200;Valencia, Spain
-945;2020-03-27;3532;Valencia, Spain
-946;2020-03-28;4034;Valencia, Spain
-947;2020-03-29;4784;Valencia, Spain
-948;2020-03-30;5110;Valencia, Spain
-949;2020-03-31;5508;Valencia, Spain
-950;2020-04-01;5922;Valencia, Spain
-951;2020-04-02;6308;Valencia, Spain
-952;2020-04-03;6624;Valencia, Spain
-953;2020-04-04;6901;Valencia, Spain
-954;2020-04-05;7184;Valencia, Spain
-955;2020-04-06;7334;Valencia, Spain
-956;2020-04-07;7443;Valencia, Spain
-957;2020-04-08;7655;Valencia, Spain
-958;2020-04-09;7964;Valencia, Spain
-959;2020-04-10;8331;Valencia, Spain
-960;2020-04-11;8578;Valencia, Spain
-961;2020-04-12;8841;Valencia, Spain
-962;2020-04-13;9060;Valencia, Spain
-963;2020-04-14;9213;Valencia, Spain
-964;2020-04-15;9424;Valencia, Spain
-965;2020-04-16;9615;Valencia, Spain
-966;2020-04-17;9783;Valencia, Spain
-967;2020-04-18;10117;Valencia, Spain
-968;2020-04-19;10250;Valencia, Spain
-969;2020-04-20;10339;Valencia, Spain
-970;2020-04-21;10399;Valencia, Spain
-971;2020-04-22;10571;Valencia, Spain
-972;2020-04-23;10735;Valencia, Spain
-973;2020-04-24;10906;Valencia, Spain
-974;2020-04-25;11123;Valencia, Spain
-975;2020-04-26;11372;Valencia, Spain
-976;2020-04-27;11412;Valencia, Spain
-977;2020-04-28;11658;Valencia, Spain
-978;2020-04-29;11816;Valencia, Spain
-979;2020-04-30;12058;Valencia, Spain
-980;2020-05-01;12209;Valencia, Spain
-981;2020-05-02;12655;Valencia, Spain
-982;2020-05-03;12813;Valencia, Spain
-983;2020-05-04;12958;Valencia, Spain
-984;2020-05-05;13000;Valencia, Spain
-985;2020-05-06;13186;Valencia, Spain
-986;2020-05-07;13413;Valencia, Spain
-987;2020-05-08;13613;Valencia, Spain
-988;2020-05-09;13775;Valencia, Spain
-989;2020-05-10;13897;Valencia, Spain
-990;2020-05-11;13928;Valencia, Spain
-991;2020-05-12;13990;Valencia, Spain
-992;2020-05-13;14101;Valencia, Spain
-993;2020-05-14;14202;Valencia, Spain
-994;2020-05-15;14438;Valencia, Spain
-995;2020-05-16;14571;Valencia, Spain
-996;2020-05-17;14701;Valencia, Spain
-997;2020-05-18;14736;Valencia, Spain
-998;2020-05-19;14737;Valencia, Spain
-999;2020-05-20;14759;Valencia, Spain
-1000;2020-05-21;14797;Valencia, Spain
-1001;2020-02-21;0;Extremadura, Spain
-1002;2020-02-22;0;Extremadura, Spain
-1003;2020-02-23;0;Extremadura, Spain
-1004;2020-02-24;0;Extremadura, Spain
-1005;2020-02-25;0;Extremadura, Spain
-1006;2020-02-26;0;Extremadura, Spain
-1007;2020-02-27;0;Extremadura, Spain
-1008;2020-02-28;0;Extremadura, Spain
-1009;2020-02-29;0;Extremadura, Spain
-1010;2020-03-01;4;Extremadura, Spain
-1011;2020-03-02;6;Extremadura, Spain
-1012;2020-03-03;6;Extremadura, Spain
-1013;2020-03-04;6;Extremadura, Spain
-1014;2020-03-05;6;Extremadura, Spain
-1015;2020-03-06;6;Extremadura, Spain
-1016;2020-03-07;6;Extremadura, Spain
-1017;2020-03-08;6;Extremadura, Spain
-1018;2020-03-09;7;Extremadura, Spain
-1019;2020-03-10;8;Extremadura, Spain
-1020;2020-03-11;9;Extremadura, Spain
-1021;2020-03-12;19;Extremadura, Spain
-1022;2020-03-13;39;Extremadura, Spain
-1023;2020-03-14;66;Extremadura, Spain
-1024;2020-03-15;95;Extremadura, Spain
-1025;2020-03-16;111;Extremadura, Spain
-1026;2020-03-17;153;Extremadura, Spain
-1027;2020-03-18;194;Extremadura, Spain
-1028;2020-03-19;241;Extremadura, Spain
-1029;2020-03-20;297;Extremadura, Spain
-1030;2020-03-21;354;Extremadura, Spain
-1031;2020-03-22;384;Extremadura, Spain
-1032;2020-03-23;493;Extremadura, Spain
-1033;2020-03-24;636;Extremadura, Spain
-1034;2020-03-25;742;Extremadura, Spain
-1035;2020-03-26;969;Extremadura, Spain
-1036;2020-03-27;1231;Extremadura, Spain
-1037;2020-03-28;1394;Extremadura, Spain
-1038;2020-03-29;1456;Extremadura, Spain
-1039;2020-03-30;1560;Extremadura, Spain
-1040;2020-03-31;1628;Extremadura, Spain
-1041;2020-04-01;1679;Extremadura, Spain
-1042;2020-04-02;1837;Extremadura, Spain
-1043;2020-04-03;1893;Extremadura, Spain
-1044;2020-04-04;1979;Extremadura, Spain
-1045;2020-04-05;2047;Extremadura, Spain
-1046;2020-04-06;2068;Extremadura, Spain
-1047;2020-04-07;2116;Extremadura, Spain
-1048;2020-04-08;2184;Extremadura, Spain
-1049;2020-04-09;2273;Extremadura, Spain
-1050;2020-04-10;2332;Extremadura, Spain
-1051;2020-04-11;2486;Extremadura, Spain
-1052;2020-04-12;2580;Extremadura, Spain
-1053;2020-04-13;2658;Extremadura, Spain
-1054;2020-04-14;2684;Extremadura, Spain
-1055;2020-04-15;2762;Extremadura, Spain
-1056;2020-04-16;2881;Extremadura, Spain
-1057;2020-04-17;3019;Extremadura, Spain
-1058;2020-04-18;3131;Extremadura, Spain
-1059;2020-04-19;3192;Extremadura, Spain
-1060;2020-04-20;3243;Extremadura, Spain
-1061;2020-04-21;3243;Extremadura, Spain
-1062;2020-04-22;3243;Extremadura, Spain
-1063;2020-04-23;3366;Extremadura, Spain
-1064;2020-04-24;3403;Extremadura, Spain
-1065;2020-04-25;3458;Extremadura, Spain
-1066;2020-04-26;3465;Extremadura, Spain
-1067;2020-04-27;3480;Extremadura, Spain
-1068;2020-04-28;3487;Extremadura, Spain
-1069;2020-04-29;3513;Extremadura, Spain
-1070;2020-04-30;3538;Extremadura, Spain
-1071;2020-05-01;3630;Extremadura, Spain
-1072;2020-05-02;3690;Extremadura, Spain
-1073;2020-05-03;3712;Extremadura, Spain
-1074;2020-05-04;3722;Extremadura, Spain
-1075;2020-05-05;3728;Extremadura, Spain
-1076;2020-05-06;3746;Extremadura, Spain
-1077;2020-05-07;3808;Extremadura, Spain
-1078;2020-05-08;3853;Extremadura, Spain
-1079;2020-05-09;3886;Extremadura, Spain
-1080;2020-05-10;3903;Extremadura, Spain
-1081;2020-05-11;3919;Extremadura, Spain
-1082;2020-05-12;3920;Extremadura, Spain
-1083;2020-05-13;3922;Extremadura, Spain
-1084;2020-05-14;3926;Extremadura, Spain
-1085;2020-05-15;3934;Extremadura, Spain
-1086;2020-05-16;3945;Extremadura, Spain
-1087;2020-05-17;3948;Extremadura, Spain
-1088;2020-05-18;3949;Extremadura, Spain
-1089;2020-05-19;4039;Extremadura, Spain
-1090;2020-05-20;4041;Extremadura, Spain
-1091;2020-05-21;4043;Extremadura, Spain
-1092;2020-02-21;0;Galicia, Spain
-1093;2020-02-22;0;Galicia, Spain
-1094;2020-02-23;0;Galicia, Spain
-1095;2020-02-24;0;Galicia, Spain
-1096;2020-02-25;0;Galicia, Spain
-1097;2020-02-26;0;Galicia, Spain
-1098;2020-02-27;0;Galicia, Spain
-1099;2020-02-28;0;Galicia, Spain
-1100;2020-02-29;0;Galicia, Spain
-1101;2020-03-01;0;Galicia, Spain
-1102;2020-03-02;0;Galicia, Spain
-1103;2020-03-03;0;Galicia, Spain
-1104;2020-03-04;1;Galicia, Spain
-1105;2020-03-05;1;Galicia, Spain
-1106;2020-03-06;3;Galicia, Spain
-1107;2020-03-07;3;Galicia, Spain
-1108;2020-03-08;5;Galicia, Spain
-1109;2020-03-09;6;Galicia, Spain
-1110;2020-03-10;22;Galicia, Spain
-1111;2020-03-11;35;Galicia, Spain
-1112;2020-03-12;35;Galicia, Spain
-1113;2020-03-13;85;Galicia, Spain
-1114;2020-03-14;115;Galicia, Spain
-1115;2020-03-15;195;Galicia, Spain
-1116;2020-03-16;245;Galicia, Spain
-1117;2020-03-17;292;Galicia, Spain
-1118;2020-03-18;341;Galicia, Spain
-1119;2020-03-19;453;Galicia, Spain
-1120;2020-03-20;578;Galicia, Spain
-1121;2020-03-21;739;Galicia, Spain
-1122;2020-03-22;915;Galicia, Spain
-1123;2020-03-23;1208;Galicia, Spain
-1124;2020-03-24;1415;Galicia, Spain
-1125;2020-03-25;1653;Galicia, Spain
-1126;2020-03-26;1915;Galicia, Spain
-1127;2020-03-27;2322;Galicia, Spain
-1128;2020-03-28;2772;Galicia, Spain
-1129;2020-03-29;3139;Galicia, Spain
-1130;2020-03-30;3723;Galicia, Spain
-1131;2020-03-31;4039;Galicia, Spain
-1132;2020-04-01;4432;Galicia, Spain
-1133;2020-04-02;4842;Galicia, Spain
-1134;2020-04-03;5219;Galicia, Spain
-1135;2020-04-04;5625;Galicia, Spain
-1136;2020-04-05;5944;Galicia, Spain
-1137;2020-04-06;6151;Galicia, Spain
-1138;2020-04-07;6331;Galicia, Spain
-1139;2020-04-08;6538;Galicia, Spain
-1140;2020-04-09;6758;Galicia, Spain
-1141;2020-04-10;6946;Galicia, Spain
-1142;2020-04-11;7176;Galicia, Spain
-1143;2020-04-12;7336;Galicia, Spain
-1144;2020-04-13;7494;Galicia, Spain
-1145;2020-04-14;7597;Galicia, Spain
-1146;2020-04-15;7708;Galicia, Spain
-1147;2020-04-16;7873;Galicia, Spain
-1148;2020-04-17;8013;Galicia, Spain
-1149;2020-04-18;8084;Galicia, Spain
-1150;2020-04-19;8185;Galicia, Spain
-1151;2020-04-20;8299;Galicia, Spain
-1152;2020-04-21;8468;Galicia, Spain
-1153;2020-04-22;8634;Galicia, Spain
-1154;2020-04-23;8805;Galicia, Spain
-1155;2020-04-24;8932;Galicia, Spain
-1156;2020-04-25;9116;Galicia, Spain
-1157;2020-04-26;9176;Galicia, Spain
-1158;2020-04-27;9238;Galicia, Spain
-1159;2020-04-28;9328;Galicia, Spain
-1160;2020-04-29;9484;Galicia, Spain
-1161;2020-04-30;9579;Galicia, Spain
-1162;2020-05-01;9617;Galicia, Spain
-1163;2020-05-02;9652;Galicia, Spain
-1164;2020-05-03;9685;Galicia, Spain
-1165;2020-05-04;9707;Galicia, Spain
-1166;2020-05-05;9783;Galicia, Spain
-1167;2020-05-06;9996;Galicia, Spain
-1168;2020-05-07;10077;Galicia, Spain
-1169;2020-05-08;10221;Galicia, Spain
-1170;2020-05-09;10322;Galicia, Spain
-1171;2020-05-10;10370;Galicia, Spain
-1172;2020-05-11;10388;Galicia, Spain
-1173;2020-05-12;10449;Galicia, Spain
-1174;2020-05-13;10495;Galicia, Spain
-1175;2020-05-14;10545;Galicia, Spain
-1176;2020-05-15;10605;Galicia, Spain
-1177;2020-05-16;10934;Galicia, Spain
-1178;2020-05-17;10960;Galicia, Spain
-1179;2020-05-18;10982;Galicia, Spain
-1180;2020-05-19;11024;Galicia, Spain
-1181;2020-05-20;11081;Galicia, Spain
-1182;2020-05-21;11103;Galicia, Spain
-1183;2020-02-21;1;Madrid, Spain
-1184;2020-02-22;1;Madrid, Spain
-1185;2020-02-23;1;Madrid, Spain
-1186;2020-02-24;1;Madrid, Spain
-1187;2020-02-25;1;Madrid, Spain
-1188;2020-02-26;2;Madrid, Spain
-1189;2020-02-27;6;Madrid, Spain
-1190;2020-02-28;10;Madrid, Spain
-1191;2020-02-29;20;Madrid, Spain
-1192;2020-03-01;27;Madrid, Spain
-1193;2020-03-02;53;Madrid, Spain
-1194;2020-03-03;96;Madrid, Spain
-1195;2020-03-04;142;Madrid, Spain
-1196;2020-03-05;199;Madrid, Spain
-1197;2020-03-06;311;Madrid, Spain
-1198;2020-03-07;515;Madrid, Spain
-1199;2020-03-08;738;Madrid, Spain
-1200;2020-03-09;1003;Madrid, Spain
-1201;2020-03-10;1508;Madrid, Spain
-1202;2020-03-11;2213;Madrid, Spain
-1203;2020-03-12;2943;Madrid, Spain
-1204;2020-03-13;3732;Madrid, Spain
-1205;2020-03-14;4672;Madrid, Spain
-1206;2020-03-15;5576;Madrid, Spain
-1207;2020-03-16;6392;Madrid, Spain
-1208;2020-03-17;7653;Madrid, Spain
-1209;2020-03-18;9601;Madrid, Spain
-1210;2020-03-19;11356;Madrid, Spain
-1211;2020-03-20;13399;Madrid, Spain
-1212;2020-03-21;15722;Madrid, Spain
-1213;2020-03-22;17397;Madrid, Spain
-1214;2020-03-23;18900;Madrid, Spain
-1215;2020-03-24;21569;Madrid, Spain
-1216;2020-03-25;24475;Madrid, Spain
-1217;2020-03-26;27422;Madrid, Spain
-1218;2020-03-27;30796;Madrid, Spain
-1219;2020-03-28;33162;Madrid, Spain
-1220;2020-03-29;34189;Madrid, Spain
-1221;2020-03-30;35061;Madrid, Spain
-1222;2020-03-31;37607;Madrid, Spain
-1223;2020-04-01;39409;Madrid, Spain
-1224;2020-04-02;41199;Madrid, Spain
-1225;2020-04-03;43038;Madrid, Spain
-1226;2020-04-04;44779;Madrid, Spain
-1227;2020-04-05;45671;Madrid, Spain
-1228;2020-04-06;46197;Madrid, Spain
-1229;2020-04-07;47763;Madrid, Spain
-1230;2020-04-08;49160;Madrid, Spain
-1231;2020-04-09;50580;Madrid, Spain
-1232;2020-04-10;51535;Madrid, Spain
-1233;2020-04-11;52400;Madrid, Spain
-1234;2020-04-12;52944;Madrid, Spain
-1235;2020-04-13;53285;Madrid, Spain
-1236;2020-04-14;54287;Madrid, Spain
-1237;2020-04-15;55398;Madrid, Spain
-1238;2020-04-16;56304;Madrid, Spain
-1239;2020-04-17;57157;Madrid, Spain
-1240;2020-04-18;57978;Madrid, Spain
-1241;2020-04-19;60941;Madrid, Spain
-1242;2020-04-20;61336;Madrid, Spain
-1243;2020-04-21;61972;Madrid, Spain
-1244;2020-04-22;62904;Madrid, Spain
-1245;2020-04-23;64050;Madrid, Spain
-1246;2020-04-24;64634;Madrid, Spain
-1247;2020-04-25;65310;Madrid, Spain
-1248;2020-04-26;65546;Madrid, Spain
-1249;2020-04-27;66007;Madrid, Spain
-1250;2020-04-28;66784;Madrid, Spain
-1251;2020-04-29;67460;Madrid, Spain
-1252;2020-04-30;67942;Madrid, Spain
-1253;2020-05-01;68356;Madrid, Spain
-1254;2020-05-02;68537;Madrid, Spain
-1255;2020-05-03;68654;Madrid, Spain
-1256;2020-05-04;68766;Madrid, Spain
-1257;2020-05-05;69178;Madrid, Spain
-1258;2020-05-06;69509;Madrid, Spain
-1259;2020-05-07;69885;Madrid, Spain
-1260;2020-05-08;70125;Madrid, Spain
-1261;2020-05-09;70407;Madrid, Spain
-1262;2020-05-10;70516;Madrid, Spain
-1263;2020-05-11;70570;Madrid, Spain
-1264;2020-05-12;70764;Madrid, Spain
-1265;2020-05-13;71064;Madrid, Spain
-1266;2020-05-14;71273;Madrid, Spain
-1267;2020-05-15;71616;Madrid, Spain
-1268;2020-05-16;71932;Madrid, Spain
-1269;2020-05-17;71956;Madrid, Spain
-1270;2020-05-18;71995;Madrid, Spain
-1271;2020-05-19;72121;Madrid, Spain
-1272;2020-05-20;72260;Madrid, Spain
-1273;2020-05-21;72342;Madrid, Spain
-1274;2020-02-21;0;Melilla, Spain
-1275;2020-02-22;0;Melilla, Spain
-1276;2020-02-23;0;Melilla, Spain
-1277;2020-02-24;0;Melilla, Spain
-1278;2020-02-25;0;Melilla, Spain
-1279;2020-02-26;0;Melilla, Spain
-1280;2020-02-27;0;Melilla, Spain
-1281;2020-02-28;0;Melilla, Spain
-1282;2020-02-29;0;Melilla, Spain
-1283;2020-03-01;0;Melilla, Spain
-1284;2020-03-02;0;Melilla, Spain
-1285;2020-03-03;0;Melilla, Spain
-1286;2020-03-04;0;Melilla, Spain
-1287;2020-03-05;0;Melilla, Spain
-1288;2020-03-06;0;Melilla, Spain
-1289;2020-03-07;0;Melilla, Spain
-1290;2020-03-08;0;Melilla, Spain
-1291;2020-03-09;0;Melilla, Spain
-1292;2020-03-10;0;Melilla, Spain
-1293;2020-03-11;0;Melilla, Spain
-1294;2020-03-12;0;Melilla, Spain
-1295;2020-03-13;2;Melilla, Spain
-1296;2020-03-14;3;Melilla, Spain
-1297;2020-03-15;8;Melilla, Spain
-1298;2020-03-16;8;Melilla, Spain
-1299;2020-03-17;17;Melilla, Spain
-1300;2020-03-18;20;Melilla, Spain
-1301;2020-03-19;23;Melilla, Spain
-1302;2020-03-20;24;Melilla, Spain
-1303;2020-03-21;25;Melilla, Spain
-1304;2020-03-22;25;Melilla, Spain
-1305;2020-03-23;28;Melilla, Spain
-1306;2020-03-24;28;Melilla, Spain
-1307;2020-03-25;38;Melilla, Spain
-1308;2020-03-26;39;Melilla, Spain
-1309;2020-03-27;42;Melilla, Spain
-1310;2020-03-28;45;Melilla, Spain
-1311;2020-03-29;48;Melilla, Spain
-1312;2020-03-30;51;Melilla, Spain
-1313;2020-03-31;54;Melilla, Spain
-1314;2020-04-01;62;Melilla, Spain
-1315;2020-04-02;62;Melilla, Spain
-1316;2020-04-03;70;Melilla, Spain
-1317;2020-04-04;79;Melilla, Spain
-1318;2020-04-05;83;Melilla, Spain
-1319;2020-04-06;86;Melilla, Spain
-1320;2020-04-07;92;Melilla, Spain
-1321;2020-04-08;93;Melilla, Spain
-1322;2020-04-09;93;Melilla, Spain
-1323;2020-04-10;95;Melilla, Spain
-1324;2020-04-11;98;Melilla, Spain
-1325;2020-04-12;98;Melilla, Spain
-1326;2020-04-13;101;Melilla, Spain
-1327;2020-04-14;101;Melilla, Spain
-1328;2020-04-15;102;Melilla, Spain
-1329;2020-04-16;103;Melilla, Spain
-1330;2020-04-17;104;Melilla, Spain
-1331;2020-04-18;104;Melilla, Spain
-1332;2020-04-19;107;Melilla, Spain
-1333;2020-04-20;109;Melilla, Spain
-1334;2020-04-21;110;Melilla, Spain
-1335;2020-04-22;111;Melilla, Spain
-1336;2020-04-23;113;Melilla, Spain
-1337;2020-04-24;116;Melilla, Spain
-1338;2020-04-25;118;Melilla, Spain
-1339;2020-04-26;121;Melilla, Spain
-1340;2020-04-27;121;Melilla, Spain
-1341;2020-04-28;125;Melilla, Spain
-1342;2020-04-29;125;Melilla, Spain
-1343;2020-04-30;125;Melilla, Spain
-1344;2020-05-01;126;Melilla, Spain
-1345;2020-05-02;126;Melilla, Spain
-1346;2020-05-03;129;Melilla, Spain
-1347;2020-05-04;131;Melilla, Spain
-1348;2020-05-05;131;Melilla, Spain
-1349;2020-05-06;131;Melilla, Spain
-1350;2020-05-07;132;Melilla, Spain
-1351;2020-05-08;132;Melilla, Spain
-1352;2020-05-09;132;Melilla, Spain
-1353;2020-05-10;132;Melilla, Spain
-1354;2020-05-11;132;Melilla, Spain
-1355;2020-05-12;132;Melilla, Spain
-1356;2020-05-13;132;Melilla, Spain
-1357;2020-05-14;132;Melilla, Spain
-1358;2020-05-15;132;Melilla, Spain
-1359;2020-05-16;132;Melilla, Spain
-1360;2020-05-17;134;Melilla, Spain
-1361;2020-05-18;134;Melilla, Spain
-1362;2020-05-19;134;Melilla, Spain
-1363;2020-05-20;134;Melilla, Spain
-1364;2020-05-21;134;Melilla, Spain
-1365;2020-02-21;0;Murcia, Spain
-1366;2020-02-22;0;Murcia, Spain
-1367;2020-02-23;0;Murcia, Spain
-1368;2020-02-24;0;Murcia, Spain
-1369;2020-02-25;0;Murcia, Spain
-1370;2020-02-26;0;Murcia, Spain
-1371;2020-02-27;0;Murcia, Spain
-1372;2020-02-28;0;Murcia, Spain
-1373;2020-02-29;0;Murcia, Spain
-1374;2020-03-01;0;Murcia, Spain
-1375;2020-03-02;0;Murcia, Spain
-1376;2020-03-03;0;Murcia, Spain
-1377;2020-03-04;0;Murcia, Spain
-1378;2020-03-05;0;Murcia, Spain
-1379;2020-03-06;0;Murcia, Spain
-1380;2020-03-07;0;Murcia, Spain
-1381;2020-03-08;1;Murcia, Spain
-1382;2020-03-09;4;Murcia, Spain
-1383;2020-03-10;9;Murcia, Spain
-1384;2020-03-11;11;Murcia, Spain
-1385;2020-03-12;26;Murcia, Spain
-1386;2020-03-13;35;Murcia, Spain
-1387;2020-03-14;47;Murcia, Spain
-1388;2020-03-15;71;Murcia, Spain
-1389;2020-03-16;77;Murcia, Spain
-1390;2020-03-17;97;Murcia, Spain
-1391;2020-03-18;122;Murcia, Spain
-1392;2020-03-19;167;Murcia, Spain
-1393;2020-03-20;204;Murcia, Spain
-1394;2020-03-21;240;Murcia, Spain
-1395;2020-03-22;296;Murcia, Spain
-1396;2020-03-23;345;Murcia, Spain
-1397;2020-03-24;385;Murcia, Spain
-1398;2020-03-25;477;Murcia, Spain
-1399;2020-03-26;596;Murcia, Spain
-1400;2020-03-27;714;Murcia, Spain
-1401;2020-03-28;802;Murcia, Spain
-1402;2020-03-29;872;Murcia, Spain
-1403;2020-03-30;939;Murcia, Spain
-1404;2020-03-31;974;Murcia, Spain
-1405;2020-04-01;1041;Murcia, Spain
-1406;2020-04-02;1084;Murcia, Spain
-1407;2020-04-03;1145;Murcia, Spain
-1408;2020-04-04;1188;Murcia, Spain
-1409;2020-04-05;1235;Murcia, Spain
-1410;2020-04-06;1259;Murcia, Spain
-1411;2020-04-07;1263;Murcia, Spain
-1412;2020-04-08;1305;Murcia, Spain
-1413;2020-04-09;1340;Murcia, Spain
-1414;2020-04-10;1367;Murcia, Spain
-1415;2020-04-11;1404;Murcia, Spain
-1416;2020-04-12;1436;Murcia, Spain
-1417;2020-04-13;1452;Murcia, Spain
-1418;2020-04-14;1479;Murcia, Spain
-1419;2020-04-15;1528;Murcia, Spain
-1420;2020-04-16;1590;Murcia, Spain
-1421;2020-04-17;1626;Murcia, Spain
-1422;2020-04-18;1647;Murcia, Spain
-1423;2020-04-19;1653;Murcia, Spain
-1424;2020-04-20;1659;Murcia, Spain
-1425;2020-04-21;1696;Murcia, Spain
-1426;2020-04-22;1717;Murcia, Spain
-1427;2020-04-23;1721;Murcia, Spain
-1428;2020-04-24;1741;Murcia, Spain
-1429;2020-04-25;1756;Murcia, Spain
-1430;2020-04-26;1771;Murcia, Spain
-1431;2020-04-27;1771;Murcia, Spain
-1432;2020-04-28;1793;Murcia, Spain
-1433;2020-04-29;1840;Murcia, Spain
-1434;2020-04-30;1894;Murcia, Spain
-1435;2020-05-01;1960;Murcia, Spain
-1436;2020-05-02;1966;Murcia, Spain
-1437;2020-05-03;1974;Murcia, Spain
-1438;2020-05-04;1974;Murcia, Spain
-1439;2020-05-05;2051;Murcia, Spain
-1440;2020-05-06;2133;Murcia, Spain
-1441;2020-05-07;2192;Murcia, Spain
-1442;2020-05-08;2252;Murcia, Spain
-1443;2020-05-09;2263;Murcia, Spain
-1444;2020-05-10;2329;Murcia, Spain
-1445;2020-05-11;2332;Murcia, Spain
-1446;2020-05-12;2333;Murcia, Spain
-1447;2020-05-13;2398;Murcia, Spain
-1448;2020-05-14;2437;Murcia, Spain
-1449;2020-05-15;2477;Murcia, Spain
-1450;2020-05-16;2546;Murcia, Spain
-1451;2020-05-17;2566;Murcia, Spain
-1452;2020-05-18;2595;Murcia, Spain
-1453;2020-05-19;2597;Murcia, Spain
-1454;2020-05-20;2599;Murcia, Spain
-1455;2020-05-21;2609;Murcia, Spain
-1456;2020-02-21;0;Navarra, Spain
-1457;2020-02-22;0;Navarra, Spain
-1458;2020-02-23;0;Navarra, Spain
-1459;2020-02-24;0;Navarra, Spain
-1460;2020-02-25;0;Navarra, Spain
-1461;2020-02-26;0;Navarra, Spain
-1462;2020-02-27;0;Navarra, Spain
-1463;2020-02-28;0;Navarra, Spain
-1464;2020-02-29;0;Navarra, Spain
-1465;2020-03-01;1;Navarra, Spain
-1466;2020-03-02;1;Navarra, Spain
-1467;2020-03-03;1;Navarra, Spain
-1468;2020-03-04;3;Navarra, Spain
-1469;2020-03-05;3;Navarra, Spain
-1470;2020-03-06;3;Navarra, Spain
-1471;2020-03-07;3;Navarra, Spain
-1472;2020-03-08;3;Navarra, Spain
-1473;2020-03-09;3;Navarra, Spain
-1474;2020-03-10;12;Navarra, Spain
-1475;2020-03-11;46;Navarra, Spain
-1476;2020-03-12;73;Navarra, Spain
-1477;2020-03-13;130;Navarra, Spain
-1478;2020-03-14;146;Navarra, Spain
-1479;2020-03-15;183;Navarra, Spain
-1480;2020-03-16;274;Navarra, Spain
-1481;2020-03-17;313;Navarra, Spain
-1482;2020-03-18;386;Navarra, Spain
-1483;2020-03-19;482;Navarra, Spain
-1484;2020-03-20;554;Navarra, Spain
-1485;2020-03-21;664;Navarra, Spain
-1486;2020-03-22;794;Navarra, Spain
-1487;2020-03-23;886;Navarra, Spain
-1488;2020-03-24;1014;Navarra, Spain
-1489;2020-03-25;1197;Navarra, Spain
-1490;2020-03-26;1411;Navarra, Spain
-1491;2020-03-27;1641;Navarra, Spain
-1492;2020-03-28;1829;Navarra, Spain
-1493;2020-03-29;2011;Navarra, Spain
-1494;2020-03-30;2146;Navarra, Spain
-1495;2020-03-31;2305;Navarra, Spain
-1496;2020-04-01;2497;Navarra, Spain
-1497;2020-04-02;2682;Navarra, Spain
-1498;2020-04-03;2836;Navarra, Spain
-1499;2020-04-04;2972;Navarra, Spain
-1500;2020-04-05;3073;Navarra, Spain
-1501;2020-04-06;3231;Navarra, Spain
-1502;2020-04-07;3355;Navarra, Spain
-1503;2020-04-08;3467;Navarra, Spain
-1504;2020-04-09;3575;Navarra, Spain
-1505;2020-04-10;3748;Navarra, Spain
-1506;2020-04-11;3817;Navarra, Spain
-1507;2020-04-12;3969;Navarra, Spain
-1508;2020-04-13;4092;Navarra, Spain
-1509;2020-04-14;4150;Navarra, Spain
-1510;2020-04-15;4246;Navarra, Spain
-1511;2020-04-16;4348;Navarra, Spain
-1512;2020-04-17;4433;Navarra, Spain
-1513;2020-04-18;4579;Navarra, Spain
-1514;2020-04-19;4656;Navarra, Spain
-1515;2020-04-20;4735;Navarra, Spain
-1516;2020-04-21;4831;Navarra, Spain
-1517;2020-04-22;4958;Navarra, Spain
-1518;2020-04-23;5063;Navarra, Spain
-1519;2020-04-24;5180;Navarra, Spain
-1520;2020-04-25;5274;Navarra, Spain
-1521;2020-04-26;5452;Navarra, Spain
-1522;2020-04-27;5486;Navarra, Spain
-1523;2020-04-28;5630;Navarra, Spain
-1524;2020-04-29;5884;Navarra, Spain
-1525;2020-04-30;6140;Navarra, Spain
-1526;2020-05-01;6337;Navarra, Spain
-1527;2020-05-02;6411;Navarra, Spain
-1528;2020-05-03;6427;Navarra, Spain
-1529;2020-05-04;6447;Navarra, Spain
-1530;2020-05-05;6561;Navarra, Spain
-1531;2020-05-06;6770;Navarra, Spain
-1532;2020-05-07;7010;Navarra, Spain
-1533;2020-05-08;7227;Navarra, Spain
-1534;2020-05-09;7442;Navarra, Spain
-1535;2020-05-10;7455;Navarra, Spain
-1536;2020-05-11;7486;Navarra, Spain
-1537;2020-05-12;7637;Navarra, Spain
-1538;2020-05-13;7752;Navarra, Spain
-1539;2020-05-14;7891;Navarra, Spain
-1540;2020-05-15;8082;Navarra, Spain
-1541;2020-05-16;8235;Navarra, Spain
-1542;2020-05-17;8293;Navarra, Spain
-1543;2020-05-18;8335;Navarra, Spain
-1544;2020-05-19;8340;Navarra, Spain
-1545;2020-05-20;8349;Navarra, Spain
-1546;2020-05-21;8352;Navarra, Spain
-1547;2020-02-21;0;País Vasco, Spain
-1548;2020-02-22;0;País Vasco, Spain
-1549;2020-02-23;0;País Vasco, Spain
-1550;2020-02-24;0;País Vasco, Spain
-1551;2020-02-25;0;País Vasco, Spain
-1552;2020-02-26;0;País Vasco, Spain
-1553;2020-02-27;0;País Vasco, Spain
-1554;2020-02-28;0;País Vasco, Spain
-1555;2020-02-29;2;País Vasco, Spain
-1556;2020-03-01;3;País Vasco, Spain
-1557;2020-03-02;9;País Vasco, Spain
-1558;2020-03-03;13;País Vasco, Spain
-1559;2020-03-04;17;País Vasco, Spain
-1560;2020-03-05;17;País Vasco, Spain
-1561;2020-03-06;45;País Vasco, Spain
-1562;2020-03-07;45;País Vasco, Spain
-1563;2020-03-08;70;País Vasco, Spain
-1564;2020-03-09;149;País Vasco, Spain
-1565;2020-03-10;195;País Vasco, Spain
-1566;2020-03-11;225;País Vasco, Spain
-1567;2020-03-12;346;País Vasco, Spain
-1568;2020-03-13;417;País Vasco, Spain
-1569;2020-03-14;521;País Vasco, Spain
-1570;2020-03-15;630;País Vasco, Spain
-1571;2020-03-16;630;País Vasco, Spain
-1572;2020-03-17;765;País Vasco, Spain
-1573;2020-03-18;973;País Vasco, Spain
-1574;2020-03-19;1190;País Vasco, Spain
-1575;2020-03-20;1465;País Vasco, Spain
-1576;2020-03-21;1725;País Vasco, Spain
-1577;2020-03-22;2097;País Vasco, Spain
-1578;2020-03-23;2421;País Vasco, Spain
-1579;2020-03-24;2728;País Vasco, Spain
-1580;2020-03-25;3271;País Vasco, Spain
-1581;2020-03-26;3946;País Vasco, Spain
-1582;2020-03-27;4601;País Vasco, Spain
-1583;2020-03-28;5136;País Vasco, Spain
-1584;2020-03-29;5740;País Vasco, Spain
-1585;2020-03-30;6057;País Vasco, Spain
-1586;2020-03-31;6320;País Vasco, Spain
-1587;2020-04-01;6838;País Vasco, Spain
-1588;2020-04-02;7317;País Vasco, Spain
-1589;2020-04-03;7827;País Vasco, Spain
-1590;2020-04-04;8187;País Vasco, Spain
-1591;2020-04-05;8628;País Vasco, Spain
-1592;2020-04-06;8810;País Vasco, Spain
-1593;2020-04-07;9021;País Vasco, Spain
-1594;2020-04-08;9452;País Vasco, Spain
-1595;2020-04-09;9806;País Vasco, Spain
-1596;2020-04-10;10103;País Vasco, Spain
-1597;2020-04-11;10515;País Vasco, Spain
-1598;2020-04-12;10772;País Vasco, Spain
-1599;2020-04-13;11018;País Vasco, Spain
-1600;2020-04-14;11226;País Vasco, Spain
-1601;2020-04-15;11475;País Vasco, Spain
-1602;2020-04-16;11790;País Vasco, Spain
-1603;2020-04-17;12089;País Vasco, Spain
-1604;2020-04-18;12355;País Vasco, Spain
-1605;2020-04-19;12569;País Vasco, Spain
-1606;2020-04-20;12628;País Vasco, Spain
-1607;2020-04-21;12810;País Vasco, Spain
-1608;2020-04-22;13044;País Vasco, Spain
-1609;2020-04-23;13436;País Vasco, Spain
-1610;2020-04-24;13780;País Vasco, Spain
-1611;2020-04-25;14132;País Vasco, Spain
-1612;2020-04-26;14315;País Vasco, Spain
-1613;2020-04-27;14412;País Vasco, Spain
-1614;2020-04-28;14804;País Vasco, Spain
-1615;2020-04-29;15138;País Vasco, Spain
-1616;2020-04-30;15519;País Vasco, Spain
-1617;2020-05-01;15969;País Vasco, Spain
-1618;2020-05-02;16131;País Vasco, Spain
-1619;2020-05-03;16203;País Vasco, Spain
-1620;2020-05-04;16250;País Vasco, Spain
-1621;2020-05-05;16448;País Vasco, Spain
-1622;2020-05-06;16692;País Vasco, Spain
-1623;2020-05-07;16972;País Vasco, Spain
-1624;2020-05-08;17289;País Vasco, Spain
-1625;2020-05-09;17603;País Vasco, Spain
-1626;2020-05-10;17714;País Vasco, Spain
-1627;2020-05-11;17745;País Vasco, Spain
-1628;2020-05-12;17895;País Vasco, Spain
-1629;2020-05-13;18141;País Vasco, Spain
-1630;2020-05-14;18184;País Vasco, Spain
-1631;2020-05-15;18213;País Vasco, Spain
-1632;2020-05-16;18564;País Vasco, Spain
-1633;2020-05-17;18690;País Vasco, Spain
-1634;2020-05-18;18729;País Vasco, Spain
-1635;2020-05-19;18744;País Vasco, Spain
-1636;2020-05-20;18770;País Vasco, Spain
-1637;2020-05-21;18779;País Vasco, Spain
-1638;2020-02-21;0;La Rioja, Spain
-1639;2020-02-22;0;La Rioja, Spain
-1640;2020-02-23;0;La Rioja, Spain
-1641;2020-02-24;0;La Rioja, Spain
-1642;2020-02-25;0;La Rioja, Spain
-1643;2020-02-26;0;La Rioja, Spain
-1644;2020-02-27;0;La Rioja, Spain
-1645;2020-02-28;0;La Rioja, Spain
-1646;2020-02-29;0;La Rioja, Spain
-1647;2020-03-01;0;La Rioja, Spain
-1648;2020-03-02;1;La Rioja, Spain
-1649;2020-03-03;2;La Rioja, Spain
-1650;2020-03-04;7;La Rioja, Spain
-1651;2020-03-05;17;La Rioja, Spain
-1652;2020-03-06;29;La Rioja, Spain
-1653;2020-03-07;47;La Rioja, Spain
-1654;2020-03-08;70;La Rioja, Spain
-1655;2020-03-09;102;La Rioja, Spain
-1656;2020-03-10;155;La Rioja, Spain
-1657;2020-03-11;185;La Rioja, Spain
-1658;2020-03-12;220;La Rioja, Spain
-1659;2020-03-13;259;La Rioja, Spain
-1660;2020-03-14;292;La Rioja, Spain
-1661;2020-03-15;300;La Rioja, Spain
-1662;2020-03-16;312;La Rioja, Spain
-1663;2020-03-17;355;La Rioja, Spain
-1664;2020-03-18;419;La Rioja, Spain
-1665;2020-03-19;468;La Rioja, Spain
-1666;2020-03-20;497;La Rioja, Spain
-1667;2020-03-21;564;La Rioja, Spain
-1668;2020-03-22;654;La Rioja, Spain
-1669;2020-03-23;747;La Rioja, Spain
-1670;2020-03-24;802;La Rioja, Spain
-1671;2020-03-25;928;La Rioja, Spain
-1672;2020-03-26;995;La Rioja, Spain
-1673;2020-03-27;1236;La Rioja, Spain
-1674;2020-03-28;1436;La Rioja, Spain
-1675;2020-03-29;1629;La Rioja, Spain
-1676;2020-03-30;1733;La Rioja, Spain
-1677;2020-03-31;1810;La Rioja, Spain
-1678;2020-04-01;1960;La Rioja, Spain
-1679;2020-04-02;2083;La Rioja, Spain
-1680;2020-04-03;2224;La Rioja, Spain
-1681;2020-04-04;2405;La Rioja, Spain
-1682;2020-04-05;2592;La Rioja, Spain
-1683;2020-04-06;2719;La Rioja, Spain
-1684;2020-04-07;2846;La Rioja, Spain
-1685;2020-04-08;2951;La Rioja, Spain
-1686;2020-04-09;3026;La Rioja, Spain
-1687;2020-04-10;3076;La Rioja, Spain
-1688;2020-04-11;3496;La Rioja, Spain
-1689;2020-04-12;3596;La Rioja, Spain
-1690;2020-04-13;3675;La Rioja, Spain
-1691;2020-04-14;3749;La Rioja, Spain
-1692;2020-04-15;3831;La Rioja, Spain
-1693;2020-04-16;3916;La Rioja, Spain
-1694;2020-04-17;4098;La Rioja, Spain
-1695;2020-04-18;4250;La Rioja, Spain
-1696;2020-04-19;4330;La Rioja, Spain
-1697;2020-04-20;4371;La Rioja, Spain
-1698;2020-04-21;4483;La Rioja, Spain
-1699;2020-04-22;4586;La Rioja, Spain
-1700;2020-04-23;4727;La Rioja, Spain
-1701;2020-04-24;4865;La Rioja, Spain
-1702;2020-04-25;4946;La Rioja, Spain
-1703;2020-04-26;4998;La Rioja, Spain
-1704;2020-04-27;5041;La Rioja, Spain
-1705;2020-04-28;5097;La Rioja, Spain
-1706;2020-04-29;5173;La Rioja, Spain
-1707;2020-04-30;5206;La Rioja, Spain
-1708;2020-05-01;5226;La Rioja, Spain
-1709;2020-05-02;5239;La Rioja, Spain
-1710;2020-05-03;5247;La Rioja, Spain
-1711;2020-05-04;5258;La Rioja, Spain
-1712;2020-05-05;5270;La Rioja, Spain
-1713;2020-05-06;5322;La Rioja, Spain
-1714;2020-05-07;5330;La Rioja, Spain
-1715;2020-05-08;5355;La Rioja, Spain
-1716;2020-05-09;5365;La Rioja, Spain
-1717;2020-05-10;5378;La Rioja, Spain
-1718;2020-05-11;5382;La Rioja, Spain
-1719;2020-05-12;5392;La Rioja, Spain
-1720;2020-05-13;5397;La Rioja, Spain
-1721;2020-05-14;5405;La Rioja, Spain
-1722;2020-05-15;5409;La Rioja, Spain
-1723;2020-05-16;5413;La Rioja, Spain
-1724;2020-05-17;5417;La Rioja, Spain
-1725;2020-05-18;5417;La Rioja, Spain
-1726;2020-05-19;5422;La Rioja, Spain
-1727;2020-05-20;5428;La Rioja, Spain
-1728;2020-05-21;5428;La Rioja, Spain
+;fecha;total_casos;Localizacion;Provincia
+0;2020-02-21;0;Andalucia, Spain;Andalucia
+1;2020-02-22;0;Andalucia, Spain;Andalucia
+2;2020-02-23;0;Andalucia, Spain;Andalucia
+3;2020-02-24;0;Andalucia, Spain;Andalucia
+4;2020-02-25;0;Andalucia, Spain;Andalucia
+5;2020-02-26;0;Andalucia, Spain;Andalucia
+6;2020-02-27;1;Andalucia, Spain;Andalucia
+7;2020-02-28;6;Andalucia, Spain;Andalucia
+8;2020-02-29;8;Andalucia, Spain;Andalucia
+9;2020-03-01;12;Andalucia, Spain;Andalucia
+10;2020-03-02;12;Andalucia, Spain;Andalucia
+11;2020-03-03;12;Andalucia, Spain;Andalucia
+12;2020-03-04;12;Andalucia, Spain;Andalucia
+13;2020-03-05;12;Andalucia, Spain;Andalucia
+14;2020-03-06;21;Andalucia, Spain;Andalucia
+15;2020-03-07;27;Andalucia, Spain;Andalucia
+16;2020-03-08;34;Andalucia, Spain;Andalucia
+17;2020-03-09;54;Andalucia, Spain;Andalucia
+18;2020-03-10;71;Andalucia, Spain;Andalucia
+19;2020-03-11;90;Andalucia, Spain;Andalucia
+20;2020-03-12;115;Andalucia, Spain;Andalucia
+21;2020-03-13;219;Andalucia, Spain;Andalucia
+22;2020-03-14;269;Andalucia, Spain;Andalucia
+23;2020-03-15;437;Andalucia, Spain;Andalucia
+24;2020-03-16;554;Andalucia, Spain;Andalucia
+25;2020-03-17;683;Andalucia, Spain;Andalucia
+26;2020-03-18;859;Andalucia, Spain;Andalucia
+27;2020-03-19;1008;Andalucia, Spain;Andalucia
+28;2020-03-20;1287;Andalucia, Spain;Andalucia
+29;2020-03-21;1515;Andalucia, Spain;Andalucia
+30;2020-03-22;1725;Andalucia, Spain;Andalucia
+31;2020-03-23;1961;Andalucia, Spain;Andalucia
+32;2020-03-24;2470;Andalucia, Spain;Andalucia
+33;2020-03-25;3008;Andalucia, Spain;Andalucia
+34;2020-03-26;3404;Andalucia, Spain;Andalucia
+35;2020-03-27;3790;Andalucia, Spain;Andalucia
+36;2020-03-28;4271;Andalucia, Spain;Andalucia
+37;2020-03-29;4676;Andalucia, Spain;Andalucia
+38;2020-03-30;5398;Andalucia, Spain;Andalucia
+39;2020-03-31;5809;Andalucia, Spain;Andalucia
+40;2020-04-01;6379;Andalucia, Spain;Andalucia
+41;2020-04-02;6957;Andalucia, Spain;Andalucia
+42;2020-04-03;7353;Andalucia, Spain;Andalucia
+43;2020-04-04;7847;Andalucia, Spain;Andalucia
+44;2020-04-05;8279;Andalucia, Spain;Andalucia
+45;2020-04-06;8559;Andalucia, Spain;Andalucia
+46;2020-04-07;8743;Andalucia, Spain;Andalucia
+47;2020-04-08;8973;Andalucia, Spain;Andalucia
+48;2020-04-09;9234;Andalucia, Spain;Andalucia
+49;2020-04-10;9482;Andalucia, Spain;Andalucia
+50;2020-04-11;9682;Andalucia, Spain;Andalucia
+51;2020-04-12;9976;Andalucia, Spain;Andalucia
+52;2020-04-13;10062;Andalucia, Spain;Andalucia
+53;2020-04-14;10283;Andalucia, Spain;Andalucia
+54;2020-04-15;10561;Andalucia, Spain;Andalucia
+55;2020-04-16;10773;Andalucia, Spain;Andalucia
+56;2020-04-17;11018;Andalucia, Spain;Andalucia
+57;2020-04-18;11168;Andalucia, Spain;Andalucia
+58;2020-04-19;11389;Andalucia, Spain;Andalucia
+59;2020-04-20;11518;Andalucia, Spain;Andalucia
+60;2020-04-21;11648;Andalucia, Spain;Andalucia
+61;2020-04-22;11879;Andalucia, Spain;Andalucia
+62;2020-04-23;12195;Andalucia, Spain;Andalucia
+63;2020-04-24;12449;Andalucia, Spain;Andalucia
+64;2020-04-25;12774;Andalucia, Spain;Andalucia
+65;2020-04-26;12972;Andalucia, Spain;Andalucia
+66;2020-04-27;13108;Andalucia, Spain;Andalucia
+67;2020-04-28;13195;Andalucia, Spain;Andalucia
+68;2020-04-29;13445;Andalucia, Spain;Andalucia
+69;2020-04-30;13624;Andalucia, Spain;Andalucia
+70;2020-05-01;13881;Andalucia, Spain;Andalucia
+71;2020-05-02;14128;Andalucia, Spain;Andalucia
+72;2020-05-03;14251;Andalucia, Spain;Andalucia
+73;2020-05-04;14311;Andalucia, Spain;Andalucia
+74;2020-05-05;14351;Andalucia, Spain;Andalucia
+75;2020-05-06;14593;Andalucia, Spain;Andalucia
+76;2020-05-07;14824;Andalucia, Spain;Andalucia
+77;2020-05-08;15002;Andalucia, Spain;Andalucia
+78;2020-05-09;15180;Andalucia, Spain;Andalucia
+79;2020-05-10;15355;Andalucia, Spain;Andalucia
+80;2020-05-11;15422;Andalucia, Spain;Andalucia
+81;2020-05-12;15522;Andalucia, Spain;Andalucia
+82;2020-05-13;15629;Andalucia, Spain;Andalucia
+83;2020-05-14;15823;Andalucia, Spain;Andalucia
+84;2020-05-15;16068;Andalucia, Spain;Andalucia
+85;2020-05-16;16263;Andalucia, Spain;Andalucia
+86;2020-05-17;16432;Andalucia, Spain;Andalucia
+87;2020-05-18;16457;Andalucia, Spain;Andalucia
+88;2020-05-19;16488;Andalucia, Spain;Andalucia
+89;2020-05-20;16501;Andalucia, Spain;Andalucia
+90;2020-05-21;16546;Andalucia, Spain;Andalucia
+91;2020-02-21;0;Aragon, Spain;Aragon
+92;2020-02-22;0;Aragon, Spain;Aragon
+93;2020-02-23;0;Aragon, Spain;Aragon
+94;2020-02-24;0;Aragon, Spain;Aragon
+95;2020-02-25;0;Aragon, Spain;Aragon
+96;2020-02-26;0;Aragon, Spain;Aragon
+97;2020-02-27;0;Aragon, Spain;Aragon
+98;2020-02-28;0;Aragon, Spain;Aragon
+99;2020-02-29;0;Aragon, Spain;Aragon
+100;2020-03-01;0;Aragon, Spain;Aragon
+101;2020-03-02;0;Aragon, Spain;Aragon
+102;2020-03-03;0;Aragon, Spain;Aragon
+103;2020-03-04;0;Aragon, Spain;Aragon
+104;2020-03-05;1;Aragon, Spain;Aragon
+105;2020-03-06;1;Aragon, Spain;Aragon
+106;2020-03-07;5;Aragon, Spain;Aragon
+107;2020-03-08;5;Aragon, Spain;Aragon
+108;2020-03-09;7;Aragon, Spain;Aragon
+109;2020-03-10;30;Aragon, Spain;Aragon
+110;2020-03-11;38;Aragon, Spain;Aragon
+111;2020-03-12;45;Aragon, Spain;Aragon
+112;2020-03-13;64;Aragon, Spain;Aragon
+113;2020-03-14;80;Aragon, Spain;Aragon
+114;2020-03-15;121;Aragon, Spain;Aragon
+115;2020-03-16;147;Aragon, Spain;Aragon
+116;2020-03-17;207;Aragon, Spain;Aragon
+117;2020-03-18;226;Aragon, Spain;Aragon
+118;2020-03-19;281;Aragon, Spain;Aragon
+119;2020-03-20;360;Aragon, Spain;Aragon
+120;2020-03-21;424;Aragon, Spain;Aragon
+121;2020-03-22;532;Aragon, Spain;Aragon
+122;2020-03-23;638;Aragon, Spain;Aragon
+123;2020-03-24;758;Aragon, Spain;Aragon
+124;2020-03-25;907;Aragon, Spain;Aragon
+125;2020-03-26;1116;Aragon, Spain;Aragon
+126;2020-03-27;1338;Aragon, Spain;Aragon
+127;2020-03-28;1592;Aragon, Spain;Aragon
+128;2020-03-29;1858;Aragon, Spain;Aragon
+129;2020-03-30;2078;Aragon, Spain;Aragon
+130;2020-03-31;2272;Aragon, Spain;Aragon
+131;2020-04-01;2491;Aragon, Spain;Aragon
+132;2020-04-02;2700;Aragon, Spain;Aragon
+133;2020-04-03;2889;Aragon, Spain;Aragon
+134;2020-04-04;3078;Aragon, Spain;Aragon
+135;2020-04-05;3232;Aragon, Spain;Aragon
+136;2020-04-06;3347;Aragon, Spain;Aragon
+137;2020-04-07;3449;Aragon, Spain;Aragon
+138;2020-04-08;3549;Aragon, Spain;Aragon
+139;2020-04-09;3685;Aragon, Spain;Aragon
+140;2020-04-10;3831;Aragon, Spain;Aragon
+141;2020-04-11;3998;Aragon, Spain;Aragon
+142;2020-04-12;4125;Aragon, Spain;Aragon
+143;2020-04-13;4248;Aragon, Spain;Aragon
+144;2020-04-14;4332;Aragon, Spain;Aragon
+145;2020-04-15;4450;Aragon, Spain;Aragon
+146;2020-04-16;4566;Aragon, Spain;Aragon
+147;2020-04-17;4664;Aragon, Spain;Aragon
+148;2020-04-18;4761;Aragon, Spain;Aragon
+149;2020-04-19;4831;Aragon, Spain;Aragon
+150;2020-04-20;4886;Aragon, Spain;Aragon
+151;2020-04-21;4938;Aragon, Spain;Aragon
+152;2020-04-22;5054;Aragon, Spain;Aragon
+153;2020-04-23;5237;Aragon, Spain;Aragon
+154;2020-04-24;5295;Aragon, Spain;Aragon
+155;2020-04-25;5382;Aragon, Spain;Aragon
+156;2020-04-26;5456;Aragon, Spain;Aragon
+157;2020-04-27;5504;Aragon, Spain;Aragon
+158;2020-04-28;5557;Aragon, Spain;Aragon
+159;2020-04-29;5652;Aragon, Spain;Aragon
+160;2020-04-30;5971;Aragon, Spain;Aragon
+161;2020-05-01;6103;Aragon, Spain;Aragon
+162;2020-05-02;6164;Aragon, Spain;Aragon
+163;2020-05-03;6208;Aragon, Spain;Aragon
+164;2020-05-04;6239;Aragon, Spain;Aragon
+165;2020-05-05;6282;Aragon, Spain;Aragon
+166;2020-05-06;6382;Aragon, Spain;Aragon
+167;2020-05-07;6516;Aragon, Spain;Aragon
+168;2020-05-08;6575;Aragon, Spain;Aragon
+169;2020-05-09;6656;Aragon, Spain;Aragon
+170;2020-05-10;6702;Aragon, Spain;Aragon
+171;2020-05-11;6731;Aragon, Spain;Aragon
+172;2020-05-12;6797;Aragon, Spain;Aragon
+173;2020-05-13;6856;Aragon, Spain;Aragon
+174;2020-05-14;6943;Aragon, Spain;Aragon
+175;2020-05-15;7015;Aragon, Spain;Aragon
+176;2020-05-16;7125;Aragon, Spain;Aragon
+177;2020-05-17;7177;Aragon, Spain;Aragon
+178;2020-05-18;7201;Aragon, Spain;Aragon
+179;2020-05-19;7271;Aragon, Spain;Aragon
+180;2020-05-20;7302;Aragon, Spain;Aragon
+181;2020-05-21;7339;Aragon, Spain;Aragon
+182;2020-02-21;0;Asturias, Spain;Asturias
+183;2020-02-22;0;Asturias, Spain;Asturias
+184;2020-02-23;0;Asturias, Spain;Asturias
+185;2020-02-24;0;Asturias, Spain;Asturias
+186;2020-02-25;0;Asturias, Spain;Asturias
+187;2020-02-26;0;Asturias, Spain;Asturias
+188;2020-02-27;0;Asturias, Spain;Asturias
+189;2020-02-28;0;Asturias, Spain;Asturias
+190;2020-02-29;0;Asturias, Spain;Asturias
+191;2020-03-01;1;Asturias, Spain;Asturias
+192;2020-03-02;1;Asturias, Spain;Asturias
+193;2020-03-03;1;Asturias, Spain;Asturias
+194;2020-03-04;2;Asturias, Spain;Asturias
+195;2020-03-05;4;Asturias, Spain;Asturias
+196;2020-03-06;4;Asturias, Spain;Asturias
+197;2020-03-07;7;Asturias, Spain;Asturias
+198;2020-03-08;8;Asturias, Spain;Asturias
+199;2020-03-09;10;Asturias, Spain;Asturias
+200;2020-03-10;15;Asturias, Spain;Asturias
+201;2020-03-11;32;Asturias, Spain;Asturias
+202;2020-03-12;37;Asturias, Spain;Asturias
+203;2020-03-13;40;Asturias, Spain;Asturias
+204;2020-03-14;86;Asturias, Spain;Asturias
+205;2020-03-15;123;Asturias, Spain;Asturias
+206;2020-03-16;160;Asturias, Spain;Asturias
+207;2020-03-17;224;Asturias, Spain;Asturias
+208;2020-03-18;269;Asturias, Spain;Asturias
+209;2020-03-19;310;Asturias, Spain;Asturias
+210;2020-03-20;429;Asturias, Spain;Asturias
+211;2020-03-21;524;Asturias, Spain;Asturias
+212;2020-03-22;569;Asturias, Spain;Asturias
+213;2020-03-23;621;Asturias, Spain;Asturias
+214;2020-03-24;754;Asturias, Spain;Asturias
+215;2020-03-25;812;Asturias, Spain;Asturias
+216;2020-03-26;891;Asturias, Spain;Asturias
+217;2020-03-27;960;Asturias, Spain;Asturias
+218;2020-03-28;1037;Asturias, Spain;Asturias
+219;2020-03-29;1143;Asturias, Spain;Asturias
+220;2020-03-30;1206;Asturias, Spain;Asturias
+221;2020-03-31;1295;Asturias, Spain;Asturias
+222;2020-04-01;1367;Asturias, Spain;Asturias
+223;2020-04-02;1435;Asturias, Spain;Asturias
+224;2020-04-03;1504;Asturias, Spain;Asturias
+225;2020-04-04;1585;Asturias, Spain;Asturias
+226;2020-04-05;1640;Asturias, Spain;Asturias
+227;2020-04-06;1695;Asturias, Spain;Asturias
+228;2020-04-07;1718;Asturias, Spain;Asturias
+229;2020-04-08;1751;Asturias, Spain;Asturias
+230;2020-04-09;1831;Asturias, Spain;Asturias
+231;2020-04-10;1889;Asturias, Spain;Asturias
+232;2020-04-11;1943;Asturias, Spain;Asturias
+233;2020-04-12;2030;Asturias, Spain;Asturias
+234;2020-04-13;2084;Asturias, Spain;Asturias
+235;2020-04-14;2119;Asturias, Spain;Asturias
+236;2020-04-15;2194;Asturias, Spain;Asturias
+237;2020-04-16;2247;Asturias, Spain;Asturias
+238;2020-04-17;2319;Asturias, Spain;Asturias
+239;2020-04-18;2366;Asturias, Spain;Asturias
+240;2020-04-19;2391;Asturias, Spain;Asturias
+241;2020-04-20;2407;Asturias, Spain;Asturias
+242;2020-04-21;2449;Asturias, Spain;Asturias
+243;2020-04-22;2507;Asturias, Spain;Asturias
+244;2020-04-23;2559;Asturias, Spain;Asturias
+245;2020-04-24;2599;Asturias, Spain;Asturias
+246;2020-04-25;2642;Asturias, Spain;Asturias
+247;2020-04-26;2702;Asturias, Spain;Asturias
+248;2020-04-27;2735;Asturias, Spain;Asturias
+249;2020-04-28;2806;Asturias, Spain;Asturias
+250;2020-04-29;2871;Asturias, Spain;Asturias
+251;2020-04-30;2922;Asturias, Spain;Asturias
+252;2020-05-01;2973;Asturias, Spain;Asturias
+253;2020-05-02;2997;Asturias, Spain;Asturias
+254;2020-05-03;3019;Asturias, Spain;Asturias
+255;2020-05-04;3031;Asturias, Spain;Asturias
+256;2020-05-05;3059;Asturias, Spain;Asturias
+257;2020-05-06;3090;Asturias, Spain;Asturias
+258;2020-05-07;3103;Asturias, Spain;Asturias
+259;2020-05-08;3159;Asturias, Spain;Asturias
+260;2020-05-09;3185;Asturias, Spain;Asturias
+261;2020-05-10;3200;Asturias, Spain;Asturias
+262;2020-05-11;3216;Asturias, Spain;Asturias
+263;2020-05-12;3227;Asturias, Spain;Asturias
+264;2020-05-13;3252;Asturias, Spain;Asturias
+265;2020-05-14;3267;Asturias, Spain;Asturias
+266;2020-05-15;3300;Asturias, Spain;Asturias
+267;2020-05-16;3327;Asturias, Spain;Asturias
+268;2020-05-17;3344;Asturias, Spain;Asturias
+269;2020-05-18;3355;Asturias, Spain;Asturias
+270;2020-05-19;3358;Asturias, Spain;Asturias
+271;2020-05-20;3359;Asturias, Spain;Asturias
+272;2020-05-21;3359;Asturias, Spain;Asturias
+273;2020-02-21;1;Baleares, Spain;Baleares
+274;2020-02-22;1;Baleares, Spain;Baleares
+275;2020-02-23;1;Baleares, Spain;Baleares
+276;2020-02-24;1;Baleares, Spain;Baleares
+277;2020-02-25;1;Baleares, Spain;Baleares
+278;2020-02-26;1;Baleares, Spain;Baleares
+279;2020-02-27;1;Baleares, Spain;Baleares
+280;2020-02-28;1;Baleares, Spain;Baleares
+281;2020-02-29;2;Baleares, Spain;Baleares
+282;2020-03-01;2;Baleares, Spain;Baleares
+283;2020-03-02;2;Baleares, Spain;Baleares
+284;2020-03-03;2;Baleares, Spain;Baleares
+285;2020-03-04;5;Baleares, Spain;Baleares
+286;2020-03-05;6;Baleares, Spain;Baleares
+287;2020-03-06;6;Baleares, Spain;Baleares
+288;2020-03-07;6;Baleares, Spain;Baleares
+289;2020-03-08;8;Baleares, Spain;Baleares
+290;2020-03-09;11;Baleares, Spain;Baleares
+291;2020-03-10;13;Baleares, Spain;Baleares
+292;2020-03-11;16;Baleares, Spain;Baleares
+293;2020-03-12;22;Baleares, Spain;Baleares
+294;2020-03-13;28;Baleares, Spain;Baleares
+295;2020-03-14;28;Baleares, Spain;Baleares
+296;2020-03-15;42;Baleares, Spain;Baleares
+297;2020-03-16;73;Baleares, Spain;Baleares
+298;2020-03-17;92;Baleares, Spain;Baleares
+299;2020-03-18;112;Baleares, Spain;Baleares
+300;2020-03-19;169;Baleares, Spain;Baleares
+301;2020-03-20;203;Baleares, Spain;Baleares
+302;2020-03-21;246;Baleares, Spain;Baleares
+303;2020-03-22;331;Baleares, Spain;Baleares
+304;2020-03-23;400;Baleares, Spain;Baleares
+305;2020-03-24;478;Baleares, Spain;Baleares
+306;2020-03-25;562;Baleares, Spain;Baleares
+307;2020-03-26;660;Baleares, Spain;Baleares
+308;2020-03-27;755;Baleares, Spain;Baleares
+309;2020-03-28;862;Baleares, Spain;Baleares
+310;2020-03-29;958;Baleares, Spain;Baleares
+311;2020-03-30;1000;Baleares, Spain;Baleares
+312;2020-03-31;1069;Baleares, Spain;Baleares
+313;2020-04-01;1131;Baleares, Spain;Baleares
+314;2020-04-02;1204;Baleares, Spain;Baleares
+315;2020-04-03;1257;Baleares, Spain;Baleares
+316;2020-04-04;1271;Baleares, Spain;Baleares
+317;2020-04-05;1293;Baleares, Spain;Baleares
+318;2020-04-06;1320;Baleares, Spain;Baleares
+319;2020-04-07;1369;Baleares, Spain;Baleares
+320;2020-04-08;1412;Baleares, Spain;Baleares
+321;2020-04-09;1448;Baleares, Spain;Baleares
+322;2020-04-10;1488;Baleares, Spain;Baleares
+323;2020-04-11;1507;Baleares, Spain;Baleares
+324;2020-04-12;1534;Baleares, Spain;Baleares
+325;2020-04-13;1550;Baleares, Spain;Baleares
+326;2020-04-14;1571;Baleares, Spain;Baleares
+327;2020-04-15;1605;Baleares, Spain;Baleares
+328;2020-04-16;1636;Baleares, Spain;Baleares
+329;2020-04-17;1667;Baleares, Spain;Baleares
+330;2020-04-18;1747;Baleares, Spain;Baleares
+331;2020-04-19;1772;Baleares, Spain;Baleares
+332;2020-04-20;1787;Baleares, Spain;Baleares
+333;2020-04-21;1807;Baleares, Spain;Baleares
+334;2020-04-22;1834;Baleares, Spain;Baleares
+335;2020-04-23;1859;Baleares, Spain;Baleares
+336;2020-04-24;1876;Baleares, Spain;Baleares
+337;2020-04-25;1905;Baleares, Spain;Baleares
+338;2020-04-26;1915;Baleares, Spain;Baleares
+339;2020-04-27;1920;Baleares, Spain;Baleares
+340;2020-04-28;1938;Baleares, Spain;Baleares
+341;2020-04-29;1948;Baleares, Spain;Baleares
+342;2020-04-30;1953;Baleares, Spain;Baleares
+343;2020-05-01;1968;Baleares, Spain;Baleares
+344;2020-05-02;1980;Baleares, Spain;Baleares
+345;2020-05-03;1986;Baleares, Spain;Baleares
+346;2020-05-04;1987;Baleares, Spain;Baleares
+347;2020-05-05;1993;Baleares, Spain;Baleares
+348;2020-05-06;2009;Baleares, Spain;Baleares
+349;2020-05-07;2019;Baleares, Spain;Baleares
+350;2020-05-08;2025;Baleares, Spain;Baleares
+351;2020-05-09;2038;Baleares, Spain;Baleares
+352;2020-05-10;2051;Baleares, Spain;Baleares
+353;2020-05-11;2054;Baleares, Spain;Baleares
+354;2020-05-12;2054;Baleares, Spain;Baleares
+355;2020-05-13;2059;Baleares, Spain;Baleares
+356;2020-05-14;2060;Baleares, Spain;Baleares
+357;2020-05-15;2069;Baleares, Spain;Baleares
+358;2020-05-16;2085;Baleares, Spain;Baleares
+359;2020-05-17;2094;Baleares, Spain;Baleares
+360;2020-05-18;2096;Baleares, Spain;Baleares
+361;2020-05-19;2109;Baleares, Spain;Baleares
+362;2020-05-20;2122;Baleares, Spain;Baleares
+363;2020-05-21;2131;Baleares, Spain;Baleares
+364;2020-02-21;1;Canarias, Spain;Canarias
+365;2020-02-22;1;Canarias, Spain;Canarias
+366;2020-02-23;1;Canarias, Spain;Canarias
+367;2020-02-24;1;Canarias, Spain;Canarias
+368;2020-02-25;2;Canarias, Spain;Canarias
+369;2020-02-26;5;Canarias, Spain;Canarias
+370;2020-02-27;6;Canarias, Spain;Canarias
+371;2020-02-28;6;Canarias, Spain;Canarias
+372;2020-02-29;6;Canarias, Spain;Canarias
+373;2020-03-01;7;Canarias, Spain;Canarias
+374;2020-03-02;7;Canarias, Spain;Canarias
+375;2020-03-03;7;Canarias, Spain;Canarias
+376;2020-03-04;7;Canarias, Spain;Canarias
+377;2020-03-05;8;Canarias, Spain;Canarias
+378;2020-03-06;11;Canarias, Spain;Canarias
+379;2020-03-07;11;Canarias, Spain;Canarias
+380;2020-03-08;17;Canarias, Spain;Canarias
+381;2020-03-09;22;Canarias, Spain;Canarias
+382;2020-03-10;25;Canarias, Spain;Canarias
+383;2020-03-11;37;Canarias, Spain;Canarias
+384;2020-03-12;51;Canarias, Spain;Canarias
+385;2020-03-13;70;Canarias, Spain;Canarias
+386;2020-03-14;90;Canarias, Spain;Canarias
+387;2020-03-15;109;Canarias, Spain;Canarias
+388;2020-03-16;119;Canarias, Spain;Canarias
+389;2020-03-17;148;Canarias, Spain;Canarias
+390;2020-03-18;181;Canarias, Spain;Canarias
+391;2020-03-19;220;Canarias, Spain;Canarias
+392;2020-03-20;287;Canarias, Spain;Canarias
+393;2020-03-21;348;Canarias, Spain;Canarias
+394;2020-03-22;414;Canarias, Spain;Canarias
+395;2020-03-23;481;Canarias, Spain;Canarias
+396;2020-03-24;557;Canarias, Spain;Canarias
+397;2020-03-25;657;Canarias, Spain;Canarias
+398;2020-03-26;784;Canarias, Spain;Canarias
+399;2020-03-27;878;Canarias, Spain;Canarias
+400;2020-03-28;1025;Canarias, Spain;Canarias
+401;2020-03-29;1125;Canarias, Spain;Canarias
+402;2020-03-30;1204;Canarias, Spain;Canarias
+403;2020-03-31;1262;Canarias, Spain;Canarias
+404;2020-04-01;1380;Canarias, Spain;Canarias
+405;2020-04-02;1444;Canarias, Spain;Canarias
+406;2020-04-03;1490;Canarias, Spain;Canarias
+407;2020-04-04;1564;Canarias, Spain;Canarias
+408;2020-04-05;1622;Canarias, Spain;Canarias
+409;2020-04-06;1649;Canarias, Spain;Canarias
+410;2020-04-07;1725;Canarias, Spain;Canarias
+411;2020-04-08;1762;Canarias, Spain;Canarias
+412;2020-04-09;1834;Canarias, Spain;Canarias
+413;2020-04-10;1858;Canarias, Spain;Canarias
+414;2020-04-11;1887;Canarias, Spain;Canarias
+415;2020-04-12;1918;Canarias, Spain;Canarias
+416;2020-04-13;1944;Canarias, Spain;Canarias
+417;2020-04-14;1958;Canarias, Spain;Canarias
+418;2020-04-15;1975;Canarias, Spain;Canarias
+419;2020-04-16;1988;Canarias, Spain;Canarias
+420;2020-04-17;2009;Canarias, Spain;Canarias
+421;2020-04-18;2035;Canarias, Spain;Canarias
+422;2020-04-19;2047;Canarias, Spain;Canarias
+423;2020-04-20;2067;Canarias, Spain;Canarias
+424;2020-04-21;2085;Canarias, Spain;Canarias
+425;2020-04-22;2094;Canarias, Spain;Canarias
+426;2020-04-23;2113;Canarias, Spain;Canarias
+427;2020-04-24;2140;Canarias, Spain;Canarias
+428;2020-04-25;2155;Canarias, Spain;Canarias
+429;2020-04-26;2167;Canarias, Spain;Canarias
+430;2020-04-27;2178;Canarias, Spain;Canarias
+431;2020-04-28;2187;Canarias, Spain;Canarias
+432;2020-04-29;2202;Canarias, Spain;Canarias
+433;2020-04-30;2205;Canarias, Spain;Canarias
+434;2020-05-01;2206;Canarias, Spain;Canarias
+435;2020-05-02;2212;Canarias, Spain;Canarias
+436;2020-05-03;2221;Canarias, Spain;Canarias
+437;2020-05-04;2225;Canarias, Spain;Canarias
+438;2020-05-05;2231;Canarias, Spain;Canarias
+439;2020-05-06;2231;Canarias, Spain;Canarias
+440;2020-05-07;2235;Canarias, Spain;Canarias
+441;2020-05-08;2240;Canarias, Spain;Canarias
+442;2020-05-09;2250;Canarias, Spain;Canarias
+443;2020-05-10;2258;Canarias, Spain;Canarias
+444;2020-05-11;2260;Canarias, Spain;Canarias
+445;2020-05-12;2268;Canarias, Spain;Canarias
+446;2020-05-13;2271;Canarias, Spain;Canarias
+447;2020-05-14;2275;Canarias, Spain;Canarias
+448;2020-05-15;2280;Canarias, Spain;Canarias
+449;2020-05-16;2284;Canarias, Spain;Canarias
+450;2020-05-17;2289;Canarias, Spain;Canarias
+451;2020-05-18;2294;Canarias, Spain;Canarias
+452;2020-05-19;2294;Canarias, Spain;Canarias
+453;2020-05-20;2300;Canarias, Spain;Canarias
+454;2020-05-21;2307;Canarias, Spain;Canarias
+455;2020-02-21;0;Cantabria, Spain;Cantabria
+456;2020-02-22;0;Cantabria, Spain;Cantabria
+457;2020-02-23;0;Cantabria, Spain;Cantabria
+458;2020-02-24;0;Cantabria, Spain;Cantabria
+459;2020-02-25;0;Cantabria, Spain;Cantabria
+460;2020-02-26;0;Cantabria, Spain;Cantabria
+461;2020-02-27;0;Cantabria, Spain;Cantabria
+462;2020-02-28;0;Cantabria, Spain;Cantabria
+463;2020-02-29;0;Cantabria, Spain;Cantabria
+464;2020-03-01;1;Cantabria, Spain;Cantabria
+465;2020-03-02;10;Cantabria, Spain;Cantabria
+466;2020-03-03;10;Cantabria, Spain;Cantabria
+467;2020-03-04;10;Cantabria, Spain;Cantabria
+468;2020-03-05;10;Cantabria, Spain;Cantabria
+469;2020-03-06;10;Cantabria, Spain;Cantabria
+470;2020-03-07;10;Cantabria, Spain;Cantabria
+471;2020-03-08;12;Cantabria, Spain;Cantabria
+472;2020-03-09;12;Cantabria, Spain;Cantabria
+473;2020-03-10;12;Cantabria, Spain;Cantabria
+474;2020-03-11;12;Cantabria, Spain;Cantabria
+475;2020-03-12;16;Cantabria, Spain;Cantabria
+476;2020-03-13;29;Cantabria, Spain;Cantabria
+477;2020-03-14;31;Cantabria, Spain;Cantabria
+478;2020-03-15;51;Cantabria, Spain;Cantabria
+479;2020-03-16;58;Cantabria, Spain;Cantabria
+480;2020-03-17;58;Cantabria, Spain;Cantabria
+481;2020-03-18;68;Cantabria, Spain;Cantabria
+482;2020-03-19;83;Cantabria, Spain;Cantabria
+483;2020-03-20;144;Cantabria, Spain;Cantabria
+484;2020-03-21;215;Cantabria, Spain;Cantabria
+485;2020-03-22;282;Cantabria, Spain;Cantabria
+486;2020-03-23;347;Cantabria, Spain;Cantabria
+487;2020-03-24;425;Cantabria, Spain;Cantabria
+488;2020-03-25;510;Cantabria, Spain;Cantabria
+489;2020-03-26;671;Cantabria, Spain;Cantabria
+490;2020-03-27;810;Cantabria, Spain;Cantabria
+491;2020-03-28;937;Cantabria, Spain;Cantabria
+492;2020-03-29;1023;Cantabria, Spain;Cantabria
+493;2020-03-30;1100;Cantabria, Spain;Cantabria
+494;2020-03-31;1171;Cantabria, Spain;Cantabria
+495;2020-04-01;1213;Cantabria, Spain;Cantabria
+496;2020-04-02;1268;Cantabria, Spain;Cantabria
+497;2020-04-03;1321;Cantabria, Spain;Cantabria
+498;2020-04-04;1384;Cantabria, Spain;Cantabria
+499;2020-04-05;1441;Cantabria, Spain;Cantabria
+500;2020-04-06;1483;Cantabria, Spain;Cantabria
+501;2020-04-07;1501;Cantabria, Spain;Cantabria
+502;2020-04-08;1572;Cantabria, Spain;Cantabria
+503;2020-04-09;1619;Cantabria, Spain;Cantabria
+504;2020-04-10;1659;Cantabria, Spain;Cantabria
+505;2020-04-11;1719;Cantabria, Spain;Cantabria
+506;2020-04-12;1752;Cantabria, Spain;Cantabria
+507;2020-04-13;1777;Cantabria, Spain;Cantabria
+508;2020-04-14;1796;Cantabria, Spain;Cantabria
+509;2020-04-15;1823;Cantabria, Spain;Cantabria
+510;2020-04-16;1845;Cantabria, Spain;Cantabria
+511;2020-04-17;1884;Cantabria, Spain;Cantabria
+512;2020-04-18;1990;Cantabria, Spain;Cantabria
+513;2020-04-19;2050;Cantabria, Spain;Cantabria
+514;2020-04-20;2083;Cantabria, Spain;Cantabria
+515;2020-04-21;2108;Cantabria, Spain;Cantabria
+516;2020-04-22;2160;Cantabria, Spain;Cantabria
+517;2020-04-23;2206;Cantabria, Spain;Cantabria
+518;2020-04-24;2273;Cantabria, Spain;Cantabria
+519;2020-04-25;2315;Cantabria, Spain;Cantabria
+520;2020-04-26;2330;Cantabria, Spain;Cantabria
+521;2020-04-27;2350;Cantabria, Spain;Cantabria
+522;2020-04-28;2386;Cantabria, Spain;Cantabria
+523;2020-04-29;2439;Cantabria, Spain;Cantabria
+524;2020-04-30;2505;Cantabria, Spain;Cantabria
+525;2020-05-01;2547;Cantabria, Spain;Cantabria
+526;2020-05-02;2577;Cantabria, Spain;Cantabria
+527;2020-05-03;2589;Cantabria, Spain;Cantabria
+528;2020-05-04;2596;Cantabria, Spain;Cantabria
+529;2020-05-05;2607;Cantabria, Spain;Cantabria
+530;2020-05-06;2626;Cantabria, Spain;Cantabria
+531;2020-05-07;2642;Cantabria, Spain;Cantabria
+532;2020-05-08;2665;Cantabria, Spain;Cantabria
+533;2020-05-09;2681;Cantabria, Spain;Cantabria
+534;2020-05-10;2684;Cantabria, Spain;Cantabria
+535;2020-05-11;2685;Cantabria, Spain;Cantabria
+536;2020-05-12;2691;Cantabria, Spain;Cantabria
+537;2020-05-13;2733;Cantabria, Spain;Cantabria
+538;2020-05-14;2739;Cantabria, Spain;Cantabria
+539;2020-05-15;2761;Cantabria, Spain;Cantabria
+540;2020-05-16;2770;Cantabria, Spain;Cantabria
+541;2020-05-17;2773;Cantabria, Spain;Cantabria
+542;2020-05-18;2774;Cantabria, Spain;Cantabria
+543;2020-05-19;2782;Cantabria, Spain;Cantabria
+544;2020-05-20;2787;Cantabria, Spain;Cantabria
+545;2020-05-21;2798;Cantabria, Spain;Cantabria
+546;2020-02-21;0;Castilla La Mancha, Spain;Castilla La Mancha
+547;2020-02-22;0;Castilla La Mancha, Spain;Castilla La Mancha
+548;2020-02-23;0;Castilla La Mancha, Spain;Castilla La Mancha
+549;2020-02-24;0;Castilla La Mancha, Spain;Castilla La Mancha
+550;2020-02-25;0;Castilla La Mancha, Spain;Castilla La Mancha
+551;2020-02-26;0;Castilla La Mancha, Spain;Castilla La Mancha
+552;2020-02-27;0;Castilla La Mancha, Spain;Castilla La Mancha
+553;2020-02-28;0;Castilla La Mancha, Spain;Castilla La Mancha
+554;2020-02-29;0;Castilla La Mancha, Spain;Castilla La Mancha
+555;2020-03-01;1;Castilla La Mancha, Spain;Castilla La Mancha
+556;2020-03-02;3;Castilla La Mancha, Spain;Castilla La Mancha
+557;2020-03-03;7;Castilla La Mancha, Spain;Castilla La Mancha
+558;2020-03-04;12;Castilla La Mancha, Spain;Castilla La Mancha
+559;2020-03-05;13;Castilla La Mancha, Spain;Castilla La Mancha
+560;2020-03-06;15;Castilla La Mancha, Spain;Castilla La Mancha
+561;2020-03-07;15;Castilla La Mancha, Spain;Castilla La Mancha
+562;2020-03-08;15;Castilla La Mancha, Spain;Castilla La Mancha
+563;2020-03-09;26;Castilla La Mancha, Spain;Castilla La Mancha
+564;2020-03-10;39;Castilla La Mancha, Spain;Castilla La Mancha
+565;2020-03-11;71;Castilla La Mancha, Spain;Castilla La Mancha
+566;2020-03-12;115;Castilla La Mancha, Spain;Castilla La Mancha
+567;2020-03-13;194;Castilla La Mancha, Spain;Castilla La Mancha
+568;2020-03-14;289;Castilla La Mancha, Spain;Castilla La Mancha
+569;2020-03-15;401;Castilla La Mancha, Spain;Castilla La Mancha
+570;2020-03-16;567;Castilla La Mancha, Spain;Castilla La Mancha
+571;2020-03-17;567;Castilla La Mancha, Spain;Castilla La Mancha
+572;2020-03-18;675;Castilla La Mancha, Spain;Castilla La Mancha
+573;2020-03-19;801;Castilla La Mancha, Spain;Castilla La Mancha
+574;2020-03-20;1044;Castilla La Mancha, Spain;Castilla La Mancha
+575;2020-03-21;1423;Castilla La Mancha, Spain;Castilla La Mancha
+576;2020-03-22;1819;Castilla La Mancha, Spain;Castilla La Mancha
+577;2020-03-23;2078;Castilla La Mancha, Spain;Castilla La Mancha
+578;2020-03-24;2465;Castilla La Mancha, Spain;Castilla La Mancha
+579;2020-03-25;2780;Castilla La Mancha, Spain;Castilla La Mancha
+580;2020-03-26;3383;Castilla La Mancha, Spain;Castilla La Mancha
+581;2020-03-27;3934;Castilla La Mancha, Spain;Castilla La Mancha
+582;2020-03-28;4512;Castilla La Mancha, Spain;Castilla La Mancha
+583;2020-03-29;5246;Castilla La Mancha, Spain;Castilla La Mancha
+584;2020-03-30;5858;Castilla La Mancha, Spain;Castilla La Mancha
+585;2020-03-31;6424;Castilla La Mancha, Spain;Castilla La Mancha
+586;2020-04-01;7047;Castilla La Mancha, Spain;Castilla La Mancha
+587;2020-04-02;7682;Castilla La Mancha, Spain;Castilla La Mancha
+588;2020-04-03;8523;Castilla La Mancha, Spain;Castilla La Mancha
+589;2020-04-04;9324;Castilla La Mancha, Spain;Castilla La Mancha
+590;2020-04-05;10031;Castilla La Mancha, Spain;Castilla La Mancha
+591;2020-04-06;10602;Castilla La Mancha, Spain;Castilla La Mancha
+592;2020-04-07;11077;Castilla La Mancha, Spain;Castilla La Mancha
+593;2020-04-08;11788;Castilla La Mancha, Spain;Castilla La Mancha
+594;2020-04-09;12489;Castilla La Mancha, Spain;Castilla La Mancha
+595;2020-04-10;13063;Castilla La Mancha, Spain;Castilla La Mancha
+596;2020-04-11;13456;Castilla La Mancha, Spain;Castilla La Mancha
+597;2020-04-12;13698;Castilla La Mancha, Spain;Castilla La Mancha
+598;2020-04-13;14054;Castilla La Mancha, Spain;Castilla La Mancha
+599;2020-04-14;14329;Castilla La Mancha, Spain;Castilla La Mancha
+600;2020-04-15;14680;Castilla La Mancha, Spain;Castilla La Mancha
+601;2020-04-16;15151;Castilla La Mancha, Spain;Castilla La Mancha
+602;2020-04-17;15997;Castilla La Mancha, Spain;Castilla La Mancha
+603;2020-04-18;16349;Castilla La Mancha, Spain;Castilla La Mancha
+604;2020-04-19;16625;Castilla La Mancha, Spain;Castilla La Mancha
+605;2020-04-20;16796;Castilla La Mancha, Spain;Castilla La Mancha
+606;2020-04-21;17045;Castilla La Mancha, Spain;Castilla La Mancha
+607;2020-04-22;17321;Castilla La Mancha, Spain;Castilla La Mancha
+608;2020-04-23;17557;Castilla La Mancha, Spain;Castilla La Mancha
+609;2020-04-24;18053;Castilla La Mancha, Spain;Castilla La Mancha
+610;2020-04-25;18525;Castilla La Mancha, Spain;Castilla La Mancha
+611;2020-04-26;18995;Castilla La Mancha, Spain;Castilla La Mancha
+612;2020-04-27;19286;Castilla La Mancha, Spain;Castilla La Mancha
+613;2020-04-28;19518;Castilla La Mancha, Spain;Castilla La Mancha
+614;2020-04-29;19795;Castilla La Mancha, Spain;Castilla La Mancha
+615;2020-04-30;20071;Castilla La Mancha, Spain;Castilla La Mancha
+616;2020-05-01;20516;Castilla La Mancha, Spain;Castilla La Mancha
+617;2020-05-02;21023;Castilla La Mancha, Spain;Castilla La Mancha
+618;2020-05-03;21290;Castilla La Mancha, Spain;Castilla La Mancha
+619;2020-05-04;21511;Castilla La Mancha, Spain;Castilla La Mancha
+620;2020-05-05;21656;Castilla La Mancha, Spain;Castilla La Mancha
+621;2020-05-06;22166;Castilla La Mancha, Spain;Castilla La Mancha
+622;2020-05-07;22567;Castilla La Mancha, Spain;Castilla La Mancha
+623;2020-05-08;22908;Castilla La Mancha, Spain;Castilla La Mancha
+624;2020-05-09;23293;Castilla La Mancha, Spain;Castilla La Mancha
+625;2020-05-10;23662;Castilla La Mancha, Spain;Castilla La Mancha
+626;2020-05-11;23869;Castilla La Mancha, Spain;Castilla La Mancha
+627;2020-05-12;24051;Castilla La Mancha, Spain;Castilla La Mancha
+628;2020-05-13;24185;Castilla La Mancha, Spain;Castilla La Mancha
+629;2020-05-14;24331;Castilla La Mancha, Spain;Castilla La Mancha
+630;2020-05-15;24527;Castilla La Mancha, Spain;Castilla La Mancha
+631;2020-05-16;24776;Castilla La Mancha, Spain;Castilla La Mancha
+632;2020-05-17;24908;Castilla La Mancha, Spain;Castilla La Mancha
+633;2020-05-18;25014;Castilla La Mancha, Spain;Castilla La Mancha
+634;2020-05-19;25074;Castilla La Mancha, Spain;Castilla La Mancha
+635;2020-05-20;25285;Castilla La Mancha, Spain;Castilla La Mancha
+636;2020-05-21;25423;Castilla La Mancha, Spain;Castilla La Mancha
+637;2020-02-21;0;Castilla y Leon, Spain;Castilla y Leon
+638;2020-02-22;0;Castilla y Leon, Spain;Castilla y Leon
+639;2020-02-23;0;Castilla y Leon, Spain;Castilla y Leon
+640;2020-02-24;0;Castilla y Leon, Spain;Castilla y Leon
+641;2020-02-25;0;Castilla y Leon, Spain;Castilla y Leon
+642;2020-02-26;0;Castilla y Leon, Spain;Castilla y Leon
+643;2020-02-27;0;Castilla y Leon, Spain;Castilla y Leon
+644;2020-02-28;2;Castilla y Leon, Spain;Castilla y Leon
+645;2020-02-29;2;Castilla y Leon, Spain;Castilla y Leon
+646;2020-03-01;3;Castilla y Leon, Spain;Castilla y Leon
+647;2020-03-02;3;Castilla y Leon, Spain;Castilla y Leon
+648;2020-03-03;8;Castilla y Leon, Spain;Castilla y Leon
+649;2020-03-04;11;Castilla y Leon, Spain;Castilla y Leon
+650;2020-03-05;11;Castilla y Leon, Spain;Castilla y Leon
+651;2020-03-06;14;Castilla y Leon, Spain;Castilla y Leon
+652;2020-03-07;14;Castilla y Leon, Spain;Castilla y Leon
+653;2020-03-08;22;Castilla y Leon, Spain;Castilla y Leon
+654;2020-03-09;23;Castilla y Leon, Spain;Castilla y Leon
+655;2020-03-10;56;Castilla y Leon, Spain;Castilla y Leon
+656;2020-03-11;71;Castilla y Leon, Spain;Castilla y Leon
+657;2020-03-12;92;Castilla y Leon, Spain;Castilla y Leon
+658;2020-03-13;169;Castilla y Leon, Spain;Castilla y Leon
+659;2020-03-14;223;Castilla y Leon, Spain;Castilla y Leon
+660;2020-03-15;292;Castilla y Leon, Spain;Castilla y Leon
+661;2020-03-16;334;Castilla y Leon, Spain;Castilla y Leon
+662;2020-03-17;431;Castilla y Leon, Spain;Castilla y Leon
+663;2020-03-18;668;Castilla y Leon, Spain;Castilla y Leon
+664;2020-03-19;868;Castilla y Leon, Spain;Castilla y Leon
+665;2020-03-20;1147;Castilla y Leon, Spain;Castilla y Leon
+666;2020-03-21;1466;Castilla y Leon, Spain;Castilla y Leon
+667;2020-03-22;1744;Castilla y Leon, Spain;Castilla y Leon
+668;2020-03-23;2055;Castilla y Leon, Spain;Castilla y Leon
+669;2020-03-24;2460;Castilla y Leon, Spain;Castilla y Leon
+670;2020-03-25;2940;Castilla y Leon, Spain;Castilla y Leon
+671;2020-03-26;3488;Castilla y Leon, Spain;Castilla y Leon
+672;2020-03-27;4132;Castilla y Leon, Spain;Castilla y Leon
+673;2020-03-28;4791;Castilla y Leon, Spain;Castilla y Leon
+674;2020-03-29;5414;Castilla y Leon, Spain;Castilla y Leon
+675;2020-03-30;5801;Castilla y Leon, Spain;Castilla y Leon
+676;2020-03-31;6211;Castilla y Leon, Spain;Castilla y Leon
+677;2020-04-01;6847;Castilla y Leon, Spain;Castilla y Leon
+678;2020-04-02;7355;Castilla y Leon, Spain;Castilla y Leon
+679;2020-04-03;7875;Castilla y Leon, Spain;Castilla y Leon
+680;2020-04-04;8332;Castilla y Leon, Spain;Castilla y Leon
+681;2020-04-05;8749;Castilla y Leon, Spain;Castilla y Leon
+682;2020-04-06;9116;Castilla y Leon, Spain;Castilla y Leon
+683;2020-04-07;9581;Castilla y Leon, Spain;Castilla y Leon
+684;2020-04-08;10058;Castilla y Leon, Spain;Castilla y Leon
+685;2020-04-09;10518;Castilla y Leon, Spain;Castilla y Leon
+686;2020-04-10;11102;Castilla y Leon, Spain;Castilla y Leon
+687;2020-04-11;11543;Castilla y Leon, Spain;Castilla y Leon
+688;2020-04-12;12118;Castilla y Leon, Spain;Castilla y Leon
+689;2020-04-13;12628;Castilla y Leon, Spain;Castilla y Leon
+690;2020-04-14;13180;Castilla y Leon, Spain;Castilla y Leon
+691;2020-04-15;13697;Castilla y Leon, Spain;Castilla y Leon
+692;2020-04-16;14380;Castilla y Leon, Spain;Castilla y Leon
+693;2020-04-17;14903;Castilla y Leon, Spain;Castilla y Leon
+694;2020-04-18;15293;Castilla y Leon, Spain;Castilla y Leon
+695;2020-04-19;15621;Castilla y Leon, Spain;Castilla y Leon
+696;2020-04-20;15857;Castilla y Leon, Spain;Castilla y Leon
+697;2020-04-21;16259;Castilla y Leon, Spain;Castilla y Leon
+698;2020-04-22;16839;Castilla y Leon, Spain;Castilla y Leon
+699;2020-04-23;17402;Castilla y Leon, Spain;Castilla y Leon
+700;2020-04-24;17776;Castilla y Leon, Spain;Castilla y Leon
+701;2020-04-25;18259;Castilla y Leon, Spain;Castilla y Leon
+702;2020-04-26;18684;Castilla y Leon, Spain;Castilla y Leon
+703;2020-04-27;19028;Castilla y Leon, Spain;Castilla y Leon
+704;2020-04-28;19372;Castilla y Leon, Spain;Castilla y Leon
+705;2020-04-29;19851;Castilla y Leon, Spain;Castilla y Leon
+706;2020-04-30;20312;Castilla y Leon, Spain;Castilla y Leon
+707;2020-05-01;20739;Castilla y Leon, Spain;Castilla y Leon
+708;2020-05-02;20999;Castilla y Leon, Spain;Castilla y Leon
+709;2020-05-03;21229;Castilla y Leon, Spain;Castilla y Leon
+710;2020-05-04;21379;Castilla y Leon, Spain;Castilla y Leon
+711;2020-05-05;21719;Castilla y Leon, Spain;Castilla y Leon
+712;2020-05-06;22156;Castilla y Leon, Spain;Castilla y Leon
+713;2020-05-07;22537;Castilla y Leon, Spain;Castilla y Leon
+714;2020-05-08;22926;Castilla y Leon, Spain;Castilla y Leon
+715;2020-05-09;23452;Castilla y Leon, Spain;Castilla y Leon
+716;2020-05-10;23821;Castilla y Leon, Spain;Castilla y Leon
+717;2020-05-11;23991;Castilla y Leon, Spain;Castilla y Leon
+718;2020-05-12;24170;Castilla y Leon, Spain;Castilla y Leon
+719;2020-05-13;24262;Castilla y Leon, Spain;Castilla y Leon
+720;2020-05-14;24379;Castilla y Leon, Spain;Castilla y Leon
+721;2020-05-15;24498;Castilla y Leon, Spain;Castilla y Leon
+722;2020-05-16;24595;Castilla y Leon, Spain;Castilla y Leon
+723;2020-05-17;24696;Castilla y Leon, Spain;Castilla y Leon
+724;2020-05-18;24746;Castilla y Leon, Spain;Castilla y Leon
+725;2020-05-19;24834;Castilla y Leon, Spain;Castilla y Leon
+726;2020-05-20;24876;Castilla y Leon, Spain;Castilla y Leon
+727;2020-05-21;24918;Castilla y Leon, Spain;Castilla y Leon
+728;2020-02-21;0;Cataluña, Spain;Cataluña
+729;2020-02-22;0;Cataluña, Spain;Cataluña
+730;2020-02-23;0;Cataluña, Spain;Cataluña
+731;2020-02-24;0;Cataluña, Spain;Cataluña
+732;2020-02-25;0;Cataluña, Spain;Cataluña
+733;2020-02-26;1;Cataluña, Spain;Cataluña
+734;2020-02-27;2;Cataluña, Spain;Cataluña
+735;2020-02-28;3;Cataluña, Spain;Cataluña
+736;2020-02-29;5;Cataluña, Spain;Cataluña
+737;2020-03-01;6;Cataluña, Spain;Cataluña
+738;2020-03-02;15;Cataluña, Spain;Cataluña
+739;2020-03-03;15;Cataluña, Spain;Cataluña
+740;2020-03-04;15;Cataluña, Spain;Cataluña
+741;2020-03-05;24;Cataluña, Spain;Cataluña
+742;2020-03-06;24;Cataluña, Spain;Cataluña
+743;2020-03-07;24;Cataluña, Spain;Cataluña
+744;2020-03-08;49;Cataluña, Spain;Cataluña
+745;2020-03-09;59;Cataluña, Spain;Cataluña
+746;2020-03-10;82;Cataluña, Spain;Cataluña
+747;2020-03-11;123;Cataluña, Spain;Cataluña
+748;2020-03-12;202;Cataluña, Spain;Cataluña
+749;2020-03-13;349;Cataluña, Spain;Cataluña
+750;2020-03-14;558;Cataluña, Spain;Cataluña
+751;2020-03-15;742;Cataluña, Spain;Cataluña
+752;2020-03-16;1017;Cataluña, Spain;Cataluña
+753;2020-03-17;1414;Cataluña, Spain;Cataluña
+754;2020-03-18;1866;Cataluña, Spain;Cataluña
+755;2020-03-19;2702;Cataluña, Spain;Cataluña
+756;2020-03-20;3270;Cataluña, Spain;Cataluña
+757;2020-03-21;4203;Cataluña, Spain;Cataluña
+758;2020-03-22;5046;Cataluña, Spain;Cataluña
+759;2020-03-23;5747;Cataluña, Spain;Cataluña
+760;2020-03-24;7864;Cataluña, Spain;Cataluña
+761;2020-03-25;9937;Cataluña, Spain;Cataluña
+762;2020-03-26;11592;Cataluña, Spain;Cataluña
+763;2020-03-27;12940;Cataluña, Spain;Cataluña
+764;2020-03-28;14263;Cataluña, Spain;Cataluña
+765;2020-03-29;15025;Cataluña, Spain;Cataluña
+766;2020-03-30;16104;Cataluña, Spain;Cataluña
+767;2020-03-31;18520;Cataluña, Spain;Cataluña
+768;2020-04-01;19991;Cataluña, Spain;Cataluña
+769;2020-04-02;21804;Cataluña, Spain;Cataluña
+770;2020-04-03;23460;Cataluña, Spain;Cataluña
+771;2020-04-04;24734;Cataluña, Spain;Cataluña
+772;2020-04-05;26032;Cataluña, Spain;Cataluña
+773;2020-04-06;26824;Cataluña, Spain;Cataluña
+774;2020-04-07;28323;Cataluña, Spain;Cataluña
+775;2020-04-08;29647;Cataluña, Spain;Cataluña
+776;2020-04-09;31043;Cataluña, Spain;Cataluña
+777;2020-04-10;31824;Cataluña, Spain;Cataluña
+778;2020-04-11;32984;Cataluña, Spain;Cataluña
+779;2020-04-12;34027;Cataluña, Spain;Cataluña
+780;2020-04-13;34726;Cataluña, Spain;Cataluña
+781;2020-04-14;35197;Cataluña, Spain;Cataluña
+782;2020-04-15;36505;Cataluña, Spain;Cataluña
+783;2020-04-16;37354;Cataluña, Spain;Cataluña
+784;2020-04-17;38316;Cataluña, Spain;Cataluña
+785;2020-04-18;40095;Cataluña, Spain;Cataluña
+786;2020-04-19;40600;Cataluña, Spain;Cataluña
+787;2020-04-20;42703;Cataluña, Spain;Cataluña
+788;2020-04-21;44139;Cataluña, Spain;Cataluña
+789;2020-04-22;44829;Cataluña, Spain;Cataluña
+790;2020-04-23;45919;Cataluña, Spain;Cataluña
+791;2020-04-24;46571;Cataluña, Spain;Cataluña
+792;2020-04-25;47288;Cataluña, Spain;Cataluña
+793;2020-04-26;47838;Cataluña, Spain;Cataluña
+794;2020-04-27;48782;Cataluña, Spain;Cataluña
+795;2020-04-28;49185;Cataluña, Spain;Cataluña
+796;2020-04-29;49681;Cataluña, Spain;Cataluña
+797;2020-04-30;49943;Cataluña, Spain;Cataluña
+798;2020-05-01;50334;Cataluña, Spain;Cataluña
+799;2020-05-02;50877;Cataluña, Spain;Cataluña
+800;2020-05-03;51261;Cataluña, Spain;Cataluña
+801;2020-05-04;51393;Cataluña, Spain;Cataluña
+802;2020-05-05;51798;Cataluña, Spain;Cataluña
+803;2020-05-06;52090;Cataluña, Spain;Cataluña
+804;2020-05-07;52505;Cataluña, Spain;Cataluña
+805;2020-05-08;53209;Cataluña, Spain;Cataluña
+806;2020-05-09;53578;Cataluña, Spain;Cataluña
+807;2020-05-10;53805;Cataluña, Spain;Cataluña
+808;2020-05-11;56450;Cataluña, Spain;Cataluña
+809;2020-05-12;56787;Cataluña, Spain;Cataluña
+810;2020-05-13;56930;Cataluña, Spain;Cataluña
+811;2020-05-14;56956;Cataluña, Spain;Cataluña
+812;2020-05-15;57205;Cataluña, Spain;Cataluña
+813;2020-05-16;57328;Cataluña, Spain;Cataluña
+814;2020-05-17;57467;Cataluña, Spain;Cataluña
+815;2020-05-18;57564;Cataluña, Spain;Cataluña
+816;2020-05-19;57468;Cataluña, Spain;Cataluña
+817;2020-05-20;57531;Cataluña, Spain;Cataluña
+818;2020-05-21;57531;Cataluña, Spain;Cataluña
+819;2020-02-21;0;Ceuta, Spain;Ceuta
+820;2020-02-22;0;Ceuta, Spain;Ceuta
+821;2020-02-23;0;Ceuta, Spain;Ceuta
+822;2020-02-24;0;Ceuta, Spain;Ceuta
+823;2020-02-25;0;Ceuta, Spain;Ceuta
+824;2020-02-26;0;Ceuta, Spain;Ceuta
+825;2020-02-27;0;Ceuta, Spain;Ceuta
+826;2020-02-28;0;Ceuta, Spain;Ceuta
+827;2020-02-29;0;Ceuta, Spain;Ceuta
+828;2020-03-01;0;Ceuta, Spain;Ceuta
+829;2020-03-02;0;Ceuta, Spain;Ceuta
+830;2020-03-03;0;Ceuta, Spain;Ceuta
+831;2020-03-04;0;Ceuta, Spain;Ceuta
+832;2020-03-05;0;Ceuta, Spain;Ceuta
+833;2020-03-06;0;Ceuta, Spain;Ceuta
+834;2020-03-07;0;Ceuta, Spain;Ceuta
+835;2020-03-08;0;Ceuta, Spain;Ceuta
+836;2020-03-09;0;Ceuta, Spain;Ceuta
+837;2020-03-10;0;Ceuta, Spain;Ceuta
+838;2020-03-11;0;Ceuta, Spain;Ceuta
+839;2020-03-12;0;Ceuta, Spain;Ceuta
+840;2020-03-13;0;Ceuta, Spain;Ceuta
+841;2020-03-14;0;Ceuta, Spain;Ceuta
+842;2020-03-15;1;Ceuta, Spain;Ceuta
+843;2020-03-16;1;Ceuta, Spain;Ceuta
+844;2020-03-17;1;Ceuta, Spain;Ceuta
+845;2020-03-18;1;Ceuta, Spain;Ceuta
+846;2020-03-19;1;Ceuta, Spain;Ceuta
+847;2020-03-20;5;Ceuta, Spain;Ceuta
+848;2020-03-21;5;Ceuta, Spain;Ceuta
+849;2020-03-22;5;Ceuta, Spain;Ceuta
+850;2020-03-23;6;Ceuta, Spain;Ceuta
+851;2020-03-24;6;Ceuta, Spain;Ceuta
+852;2020-03-25;9;Ceuta, Spain;Ceuta
+853;2020-03-26;10;Ceuta, Spain;Ceuta
+854;2020-03-27;17;Ceuta, Spain;Ceuta
+855;2020-03-28;17;Ceuta, Spain;Ceuta
+856;2020-03-29;21;Ceuta, Spain;Ceuta
+857;2020-03-30;25;Ceuta, Spain;Ceuta
+858;2020-03-31;34;Ceuta, Spain;Ceuta
+859;2020-04-01;51;Ceuta, Spain;Ceuta
+860;2020-04-02;55;Ceuta, Spain;Ceuta
+861;2020-04-03;62;Ceuta, Spain;Ceuta
+862;2020-04-04;73;Ceuta, Spain;Ceuta
+863;2020-04-05;83;Ceuta, Spain;Ceuta
+864;2020-04-06;83;Ceuta, Spain;Ceuta
+865;2020-04-07;83;Ceuta, Spain;Ceuta
+866;2020-04-08;84;Ceuta, Spain;Ceuta
+867;2020-04-09;84;Ceuta, Spain;Ceuta
+868;2020-04-10;91;Ceuta, Spain;Ceuta
+869;2020-04-11;93;Ceuta, Spain;Ceuta
+870;2020-04-12;93;Ceuta, Spain;Ceuta
+871;2020-04-13;95;Ceuta, Spain;Ceuta
+872;2020-04-14;96;Ceuta, Spain;Ceuta
+873;2020-04-15;98;Ceuta, Spain;Ceuta
+874;2020-04-16;100;Ceuta, Spain;Ceuta
+875;2020-04-17;101;Ceuta, Spain;Ceuta
+876;2020-04-18;111;Ceuta, Spain;Ceuta
+877;2020-04-19;112;Ceuta, Spain;Ceuta
+878;2020-04-20;114;Ceuta, Spain;Ceuta
+879;2020-04-21;114;Ceuta, Spain;Ceuta
+880;2020-04-22;124;Ceuta, Spain;Ceuta
+881;2020-04-23;124;Ceuta, Spain;Ceuta
+882;2020-04-24;125;Ceuta, Spain;Ceuta
+883;2020-04-25;125;Ceuta, Spain;Ceuta
+884;2020-04-26;131;Ceuta, Spain;Ceuta
+885;2020-04-27;131;Ceuta, Spain;Ceuta
+886;2020-04-28;134;Ceuta, Spain;Ceuta
+887;2020-04-29;139;Ceuta, Spain;Ceuta
+888;2020-04-30;146;Ceuta, Spain;Ceuta
+889;2020-05-01;151;Ceuta, Spain;Ceuta
+890;2020-05-02;152;Ceuta, Spain;Ceuta
+891;2020-05-03;152;Ceuta, Spain;Ceuta
+892;2020-05-04;152;Ceuta, Spain;Ceuta
+893;2020-05-05;155;Ceuta, Spain;Ceuta
+894;2020-05-06;164;Ceuta, Spain;Ceuta
+895;2020-05-07;165;Ceuta, Spain;Ceuta
+896;2020-05-08;168;Ceuta, Spain;Ceuta
+897;2020-05-09;169;Ceuta, Spain;Ceuta
+898;2020-05-10;169;Ceuta, Spain;Ceuta
+899;2020-05-11;169;Ceuta, Spain;Ceuta
+900;2020-05-12;173;Ceuta, Spain;Ceuta
+901;2020-05-13;173;Ceuta, Spain;Ceuta
+902;2020-05-14;175;Ceuta, Spain;Ceuta
+903;2020-05-15;175;Ceuta, Spain;Ceuta
+904;2020-05-16;175;Ceuta, Spain;Ceuta
+905;2020-05-17;175;Ceuta, Spain;Ceuta
+906;2020-05-18;175;Ceuta, Spain;Ceuta
+907;2020-05-19;176;Ceuta, Spain;Ceuta
+908;2020-05-20;178;Ceuta, Spain;Ceuta
+909;2020-05-21;178;Ceuta, Spain;Ceuta
+910;2020-02-21;0;Valencia, Spain;Valencia
+911;2020-02-22;0;Valencia, Spain;Valencia
+912;2020-02-23;0;Valencia, Spain;Valencia
+913;2020-02-24;0;Valencia, Spain;Valencia
+914;2020-02-25;0;Valencia, Spain;Valencia
+915;2020-02-26;1;Valencia, Spain;Valencia
+916;2020-02-27;2;Valencia, Spain;Valencia
+917;2020-02-28;8;Valencia, Spain;Valencia
+918;2020-02-29;10;Valencia, Spain;Valencia
+919;2020-03-01;15;Valencia, Spain;Valencia
+920;2020-03-02;15;Valencia, Spain;Valencia
+921;2020-03-03;15;Valencia, Spain;Valencia
+922;2020-03-04;19;Valencia, Spain;Valencia
+923;2020-03-05;19;Valencia, Spain;Valencia
+924;2020-03-06;30;Valencia, Spain;Valencia
+925;2020-03-07;30;Valencia, Spain;Valencia
+926;2020-03-08;37;Valencia, Spain;Valencia
+927;2020-03-09;37;Valencia, Spain;Valencia
+928;2020-03-10;50;Valencia, Spain;Valencia
+929;2020-03-11;65;Valencia, Spain;Valencia
+930;2020-03-12;76;Valencia, Spain;Valencia
+931;2020-03-13;94;Valencia, Spain;Valencia
+932;2020-03-14;130;Valencia, Spain;Valencia
+933;2020-03-15;409;Valencia, Spain;Valencia
+934;2020-03-16;409;Valencia, Spain;Valencia
+935;2020-03-17;541;Valencia, Spain;Valencia
+936;2020-03-18;726;Valencia, Spain;Valencia
+937;2020-03-19;921;Valencia, Spain;Valencia
+938;2020-03-20;1105;Valencia, Spain;Valencia
+939;2020-03-21;1363;Valencia, Spain;Valencia
+940;2020-03-22;1604;Valencia, Spain;Valencia
+941;2020-03-23;1901;Valencia, Spain;Valencia
+942;2020-03-24;2167;Valencia, Spain;Valencia
+943;2020-03-25;2616;Valencia, Spain;Valencia
+944;2020-03-26;3200;Valencia, Spain;Valencia
+945;2020-03-27;3532;Valencia, Spain;Valencia
+946;2020-03-28;4034;Valencia, Spain;Valencia
+947;2020-03-29;4784;Valencia, Spain;Valencia
+948;2020-03-30;5110;Valencia, Spain;Valencia
+949;2020-03-31;5508;Valencia, Spain;Valencia
+950;2020-04-01;5922;Valencia, Spain;Valencia
+951;2020-04-02;6308;Valencia, Spain;Valencia
+952;2020-04-03;6624;Valencia, Spain;Valencia
+953;2020-04-04;6901;Valencia, Spain;Valencia
+954;2020-04-05;7184;Valencia, Spain;Valencia
+955;2020-04-06;7334;Valencia, Spain;Valencia
+956;2020-04-07;7443;Valencia, Spain;Valencia
+957;2020-04-08;7655;Valencia, Spain;Valencia
+958;2020-04-09;7964;Valencia, Spain;Valencia
+959;2020-04-10;8331;Valencia, Spain;Valencia
+960;2020-04-11;8578;Valencia, Spain;Valencia
+961;2020-04-12;8841;Valencia, Spain;Valencia
+962;2020-04-13;9060;Valencia, Spain;Valencia
+963;2020-04-14;9213;Valencia, Spain;Valencia
+964;2020-04-15;9424;Valencia, Spain;Valencia
+965;2020-04-16;9615;Valencia, Spain;Valencia
+966;2020-04-17;9783;Valencia, Spain;Valencia
+967;2020-04-18;10117;Valencia, Spain;Valencia
+968;2020-04-19;10250;Valencia, Spain;Valencia
+969;2020-04-20;10339;Valencia, Spain;Valencia
+970;2020-04-21;10399;Valencia, Spain;Valencia
+971;2020-04-22;10571;Valencia, Spain;Valencia
+972;2020-04-23;10735;Valencia, Spain;Valencia
+973;2020-04-24;10906;Valencia, Spain;Valencia
+974;2020-04-25;11123;Valencia, Spain;Valencia
+975;2020-04-26;11372;Valencia, Spain;Valencia
+976;2020-04-27;11412;Valencia, Spain;Valencia
+977;2020-04-28;11658;Valencia, Spain;Valencia
+978;2020-04-29;11816;Valencia, Spain;Valencia
+979;2020-04-30;12058;Valencia, Spain;Valencia
+980;2020-05-01;12209;Valencia, Spain;Valencia
+981;2020-05-02;12655;Valencia, Spain;Valencia
+982;2020-05-03;12813;Valencia, Spain;Valencia
+983;2020-05-04;12958;Valencia, Spain;Valencia
+984;2020-05-05;13000;Valencia, Spain;Valencia
+985;2020-05-06;13186;Valencia, Spain;Valencia
+986;2020-05-07;13413;Valencia, Spain;Valencia
+987;2020-05-08;13613;Valencia, Spain;Valencia
+988;2020-05-09;13775;Valencia, Spain;Valencia
+989;2020-05-10;13897;Valencia, Spain;Valencia
+990;2020-05-11;13928;Valencia, Spain;Valencia
+991;2020-05-12;13990;Valencia, Spain;Valencia
+992;2020-05-13;14101;Valencia, Spain;Valencia
+993;2020-05-14;14202;Valencia, Spain;Valencia
+994;2020-05-15;14438;Valencia, Spain;Valencia
+995;2020-05-16;14571;Valencia, Spain;Valencia
+996;2020-05-17;14701;Valencia, Spain;Valencia
+997;2020-05-18;14736;Valencia, Spain;Valencia
+998;2020-05-19;14737;Valencia, Spain;Valencia
+999;2020-05-20;14759;Valencia, Spain;Valencia
+1000;2020-05-21;14797;Valencia, Spain;Valencia
+1001;2020-02-21;0;Extremadura, Spain;Extremadura
+1002;2020-02-22;0;Extremadura, Spain;Extremadura
+1003;2020-02-23;0;Extremadura, Spain;Extremadura
+1004;2020-02-24;0;Extremadura, Spain;Extremadura
+1005;2020-02-25;0;Extremadura, Spain;Extremadura
+1006;2020-02-26;0;Extremadura, Spain;Extremadura
+1007;2020-02-27;0;Extremadura, Spain;Extremadura
+1008;2020-02-28;0;Extremadura, Spain;Extremadura
+1009;2020-02-29;0;Extremadura, Spain;Extremadura
+1010;2020-03-01;4;Extremadura, Spain;Extremadura
+1011;2020-03-02;6;Extremadura, Spain;Extremadura
+1012;2020-03-03;6;Extremadura, Spain;Extremadura
+1013;2020-03-04;6;Extremadura, Spain;Extremadura
+1014;2020-03-05;6;Extremadura, Spain;Extremadura
+1015;2020-03-06;6;Extremadura, Spain;Extremadura
+1016;2020-03-07;6;Extremadura, Spain;Extremadura
+1017;2020-03-08;6;Extremadura, Spain;Extremadura
+1018;2020-03-09;7;Extremadura, Spain;Extremadura
+1019;2020-03-10;8;Extremadura, Spain;Extremadura
+1020;2020-03-11;9;Extremadura, Spain;Extremadura
+1021;2020-03-12;19;Extremadura, Spain;Extremadura
+1022;2020-03-13;39;Extremadura, Spain;Extremadura
+1023;2020-03-14;66;Extremadura, Spain;Extremadura
+1024;2020-03-15;95;Extremadura, Spain;Extremadura
+1025;2020-03-16;111;Extremadura, Spain;Extremadura
+1026;2020-03-17;153;Extremadura, Spain;Extremadura
+1027;2020-03-18;194;Extremadura, Spain;Extremadura
+1028;2020-03-19;241;Extremadura, Spain;Extremadura
+1029;2020-03-20;297;Extremadura, Spain;Extremadura
+1030;2020-03-21;354;Extremadura, Spain;Extremadura
+1031;2020-03-22;384;Extremadura, Spain;Extremadura
+1032;2020-03-23;493;Extremadura, Spain;Extremadura
+1033;2020-03-24;636;Extremadura, Spain;Extremadura
+1034;2020-03-25;742;Extremadura, Spain;Extremadura
+1035;2020-03-26;969;Extremadura, Spain;Extremadura
+1036;2020-03-27;1231;Extremadura, Spain;Extremadura
+1037;2020-03-28;1394;Extremadura, Spain;Extremadura
+1038;2020-03-29;1456;Extremadura, Spain;Extremadura
+1039;2020-03-30;1560;Extremadura, Spain;Extremadura
+1040;2020-03-31;1628;Extremadura, Spain;Extremadura
+1041;2020-04-01;1679;Extremadura, Spain;Extremadura
+1042;2020-04-02;1837;Extremadura, Spain;Extremadura
+1043;2020-04-03;1893;Extremadura, Spain;Extremadura
+1044;2020-04-04;1979;Extremadura, Spain;Extremadura
+1045;2020-04-05;2047;Extremadura, Spain;Extremadura
+1046;2020-04-06;2068;Extremadura, Spain;Extremadura
+1047;2020-04-07;2116;Extremadura, Spain;Extremadura
+1048;2020-04-08;2184;Extremadura, Spain;Extremadura
+1049;2020-04-09;2273;Extremadura, Spain;Extremadura
+1050;2020-04-10;2332;Extremadura, Spain;Extremadura
+1051;2020-04-11;2486;Extremadura, Spain;Extremadura
+1052;2020-04-12;2580;Extremadura, Spain;Extremadura
+1053;2020-04-13;2658;Extremadura, Spain;Extremadura
+1054;2020-04-14;2684;Extremadura, Spain;Extremadura
+1055;2020-04-15;2762;Extremadura, Spain;Extremadura
+1056;2020-04-16;2881;Extremadura, Spain;Extremadura
+1057;2020-04-17;3019;Extremadura, Spain;Extremadura
+1058;2020-04-18;3131;Extremadura, Spain;Extremadura
+1059;2020-04-19;3192;Extremadura, Spain;Extremadura
+1060;2020-04-20;3243;Extremadura, Spain;Extremadura
+1061;2020-04-21;3243;Extremadura, Spain;Extremadura
+1062;2020-04-22;3243;Extremadura, Spain;Extremadura
+1063;2020-04-23;3366;Extremadura, Spain;Extremadura
+1064;2020-04-24;3403;Extremadura, Spain;Extremadura
+1065;2020-04-25;3458;Extremadura, Spain;Extremadura
+1066;2020-04-26;3465;Extremadura, Spain;Extremadura
+1067;2020-04-27;3480;Extremadura, Spain;Extremadura
+1068;2020-04-28;3487;Extremadura, Spain;Extremadura
+1069;2020-04-29;3513;Extremadura, Spain;Extremadura
+1070;2020-04-30;3538;Extremadura, Spain;Extremadura
+1071;2020-05-01;3630;Extremadura, Spain;Extremadura
+1072;2020-05-02;3690;Extremadura, Spain;Extremadura
+1073;2020-05-03;3712;Extremadura, Spain;Extremadura
+1074;2020-05-04;3722;Extremadura, Spain;Extremadura
+1075;2020-05-05;3728;Extremadura, Spain;Extremadura
+1076;2020-05-06;3746;Extremadura, Spain;Extremadura
+1077;2020-05-07;3808;Extremadura, Spain;Extremadura
+1078;2020-05-08;3853;Extremadura, Spain;Extremadura
+1079;2020-05-09;3886;Extremadura, Spain;Extremadura
+1080;2020-05-10;3903;Extremadura, Spain;Extremadura
+1081;2020-05-11;3919;Extremadura, Spain;Extremadura
+1082;2020-05-12;3920;Extremadura, Spain;Extremadura
+1083;2020-05-13;3922;Extremadura, Spain;Extremadura
+1084;2020-05-14;3926;Extremadura, Spain;Extremadura
+1085;2020-05-15;3934;Extremadura, Spain;Extremadura
+1086;2020-05-16;3945;Extremadura, Spain;Extremadura
+1087;2020-05-17;3948;Extremadura, Spain;Extremadura
+1088;2020-05-18;3949;Extremadura, Spain;Extremadura
+1089;2020-05-19;4039;Extremadura, Spain;Extremadura
+1090;2020-05-20;4041;Extremadura, Spain;Extremadura
+1091;2020-05-21;4043;Extremadura, Spain;Extremadura
+1092;2020-02-21;0;Galicia, Spain;Galicia
+1093;2020-02-22;0;Galicia, Spain;Galicia
+1094;2020-02-23;0;Galicia, Spain;Galicia
+1095;2020-02-24;0;Galicia, Spain;Galicia
+1096;2020-02-25;0;Galicia, Spain;Galicia
+1097;2020-02-26;0;Galicia, Spain;Galicia
+1098;2020-02-27;0;Galicia, Spain;Galicia
+1099;2020-02-28;0;Galicia, Spain;Galicia
+1100;2020-02-29;0;Galicia, Spain;Galicia
+1101;2020-03-01;0;Galicia, Spain;Galicia
+1102;2020-03-02;0;Galicia, Spain;Galicia
+1103;2020-03-03;0;Galicia, Spain;Galicia
+1104;2020-03-04;1;Galicia, Spain;Galicia
+1105;2020-03-05;1;Galicia, Spain;Galicia
+1106;2020-03-06;3;Galicia, Spain;Galicia
+1107;2020-03-07;3;Galicia, Spain;Galicia
+1108;2020-03-08;5;Galicia, Spain;Galicia
+1109;2020-03-09;6;Galicia, Spain;Galicia
+1110;2020-03-10;22;Galicia, Spain;Galicia
+1111;2020-03-11;35;Galicia, Spain;Galicia
+1112;2020-03-12;35;Galicia, Spain;Galicia
+1113;2020-03-13;85;Galicia, Spain;Galicia
+1114;2020-03-14;115;Galicia, Spain;Galicia
+1115;2020-03-15;195;Galicia, Spain;Galicia
+1116;2020-03-16;245;Galicia, Spain;Galicia
+1117;2020-03-17;292;Galicia, Spain;Galicia
+1118;2020-03-18;341;Galicia, Spain;Galicia
+1119;2020-03-19;453;Galicia, Spain;Galicia
+1120;2020-03-20;578;Galicia, Spain;Galicia
+1121;2020-03-21;739;Galicia, Spain;Galicia
+1122;2020-03-22;915;Galicia, Spain;Galicia
+1123;2020-03-23;1208;Galicia, Spain;Galicia
+1124;2020-03-24;1415;Galicia, Spain;Galicia
+1125;2020-03-25;1653;Galicia, Spain;Galicia
+1126;2020-03-26;1915;Galicia, Spain;Galicia
+1127;2020-03-27;2322;Galicia, Spain;Galicia
+1128;2020-03-28;2772;Galicia, Spain;Galicia
+1129;2020-03-29;3139;Galicia, Spain;Galicia
+1130;2020-03-30;3723;Galicia, Spain;Galicia
+1131;2020-03-31;4039;Galicia, Spain;Galicia
+1132;2020-04-01;4432;Galicia, Spain;Galicia
+1133;2020-04-02;4842;Galicia, Spain;Galicia
+1134;2020-04-03;5219;Galicia, Spain;Galicia
+1135;2020-04-04;5625;Galicia, Spain;Galicia
+1136;2020-04-05;5944;Galicia, Spain;Galicia
+1137;2020-04-06;6151;Galicia, Spain;Galicia
+1138;2020-04-07;6331;Galicia, Spain;Galicia
+1139;2020-04-08;6538;Galicia, Spain;Galicia
+1140;2020-04-09;6758;Galicia, Spain;Galicia
+1141;2020-04-10;6946;Galicia, Spain;Galicia
+1142;2020-04-11;7176;Galicia, Spain;Galicia
+1143;2020-04-12;7336;Galicia, Spain;Galicia
+1144;2020-04-13;7494;Galicia, Spain;Galicia
+1145;2020-04-14;7597;Galicia, Spain;Galicia
+1146;2020-04-15;7708;Galicia, Spain;Galicia
+1147;2020-04-16;7873;Galicia, Spain;Galicia
+1148;2020-04-17;8013;Galicia, Spain;Galicia
+1149;2020-04-18;8084;Galicia, Spain;Galicia
+1150;2020-04-19;8185;Galicia, Spain;Galicia
+1151;2020-04-20;8299;Galicia, Spain;Galicia
+1152;2020-04-21;8468;Galicia, Spain;Galicia
+1153;2020-04-22;8634;Galicia, Spain;Galicia
+1154;2020-04-23;8805;Galicia, Spain;Galicia
+1155;2020-04-24;8932;Galicia, Spain;Galicia
+1156;2020-04-25;9116;Galicia, Spain;Galicia
+1157;2020-04-26;9176;Galicia, Spain;Galicia
+1158;2020-04-27;9238;Galicia, Spain;Galicia
+1159;2020-04-28;9328;Galicia, Spain;Galicia
+1160;2020-04-29;9484;Galicia, Spain;Galicia
+1161;2020-04-30;9579;Galicia, Spain;Galicia
+1162;2020-05-01;9617;Galicia, Spain;Galicia
+1163;2020-05-02;9652;Galicia, Spain;Galicia
+1164;2020-05-03;9685;Galicia, Spain;Galicia
+1165;2020-05-04;9707;Galicia, Spain;Galicia
+1166;2020-05-05;9783;Galicia, Spain;Galicia
+1167;2020-05-06;9996;Galicia, Spain;Galicia
+1168;2020-05-07;10077;Galicia, Spain;Galicia
+1169;2020-05-08;10221;Galicia, Spain;Galicia
+1170;2020-05-09;10322;Galicia, Spain;Galicia
+1171;2020-05-10;10370;Galicia, Spain;Galicia
+1172;2020-05-11;10388;Galicia, Spain;Galicia
+1173;2020-05-12;10449;Galicia, Spain;Galicia
+1174;2020-05-13;10495;Galicia, Spain;Galicia
+1175;2020-05-14;10545;Galicia, Spain;Galicia
+1176;2020-05-15;10605;Galicia, Spain;Galicia
+1177;2020-05-16;10934;Galicia, Spain;Galicia
+1178;2020-05-17;10960;Galicia, Spain;Galicia
+1179;2020-05-18;10982;Galicia, Spain;Galicia
+1180;2020-05-19;11024;Galicia, Spain;Galicia
+1181;2020-05-20;11081;Galicia, Spain;Galicia
+1182;2020-05-21;11103;Galicia, Spain;Galicia
+1183;2020-02-21;1;Madrid, Spain;Madrid
+1184;2020-02-22;1;Madrid, Spain;Madrid
+1185;2020-02-23;1;Madrid, Spain;Madrid
+1186;2020-02-24;1;Madrid, Spain;Madrid
+1187;2020-02-25;1;Madrid, Spain;Madrid
+1188;2020-02-26;2;Madrid, Spain;Madrid
+1189;2020-02-27;6;Madrid, Spain;Madrid
+1190;2020-02-28;10;Madrid, Spain;Madrid
+1191;2020-02-29;20;Madrid, Spain;Madrid
+1192;2020-03-01;27;Madrid, Spain;Madrid
+1193;2020-03-02;53;Madrid, Spain;Madrid
+1194;2020-03-03;96;Madrid, Spain;Madrid
+1195;2020-03-04;142;Madrid, Spain;Madrid
+1196;2020-03-05;199;Madrid, Spain;Madrid
+1197;2020-03-06;311;Madrid, Spain;Madrid
+1198;2020-03-07;515;Madrid, Spain;Madrid
+1199;2020-03-08;738;Madrid, Spain;Madrid
+1200;2020-03-09;1003;Madrid, Spain;Madrid
+1201;2020-03-10;1508;Madrid, Spain;Madrid
+1202;2020-03-11;2213;Madrid, Spain;Madrid
+1203;2020-03-12;2943;Madrid, Spain;Madrid
+1204;2020-03-13;3732;Madrid, Spain;Madrid
+1205;2020-03-14;4672;Madrid, Spain;Madrid
+1206;2020-03-15;5576;Madrid, Spain;Madrid
+1207;2020-03-16;6392;Madrid, Spain;Madrid
+1208;2020-03-17;7653;Madrid, Spain;Madrid
+1209;2020-03-18;9601;Madrid, Spain;Madrid
+1210;2020-03-19;11356;Madrid, Spain;Madrid
+1211;2020-03-20;13399;Madrid, Spain;Madrid
+1212;2020-03-21;15722;Madrid, Spain;Madrid
+1213;2020-03-22;17397;Madrid, Spain;Madrid
+1214;2020-03-23;18900;Madrid, Spain;Madrid
+1215;2020-03-24;21569;Madrid, Spain;Madrid
+1216;2020-03-25;24475;Madrid, Spain;Madrid
+1217;2020-03-26;27422;Madrid, Spain;Madrid
+1218;2020-03-27;30796;Madrid, Spain;Madrid
+1219;2020-03-28;33162;Madrid, Spain;Madrid
+1220;2020-03-29;34189;Madrid, Spain;Madrid
+1221;2020-03-30;35061;Madrid, Spain;Madrid
+1222;2020-03-31;37607;Madrid, Spain;Madrid
+1223;2020-04-01;39409;Madrid, Spain;Madrid
+1224;2020-04-02;41199;Madrid, Spain;Madrid
+1225;2020-04-03;43038;Madrid, Spain;Madrid
+1226;2020-04-04;44779;Madrid, Spain;Madrid
+1227;2020-04-05;45671;Madrid, Spain;Madrid
+1228;2020-04-06;46197;Madrid, Spain;Madrid
+1229;2020-04-07;47763;Madrid, Spain;Madrid
+1230;2020-04-08;49160;Madrid, Spain;Madrid
+1231;2020-04-09;50580;Madrid, Spain;Madrid
+1232;2020-04-10;51535;Madrid, Spain;Madrid
+1233;2020-04-11;52400;Madrid, Spain;Madrid
+1234;2020-04-12;52944;Madrid, Spain;Madrid
+1235;2020-04-13;53285;Madrid, Spain;Madrid
+1236;2020-04-14;54287;Madrid, Spain;Madrid
+1237;2020-04-15;55398;Madrid, Spain;Madrid
+1238;2020-04-16;56304;Madrid, Spain;Madrid
+1239;2020-04-17;57157;Madrid, Spain;Madrid
+1240;2020-04-18;57978;Madrid, Spain;Madrid
+1241;2020-04-19;60941;Madrid, Spain;Madrid
+1242;2020-04-20;61336;Madrid, Spain;Madrid
+1243;2020-04-21;61972;Madrid, Spain;Madrid
+1244;2020-04-22;62904;Madrid, Spain;Madrid
+1245;2020-04-23;64050;Madrid, Spain;Madrid
+1246;2020-04-24;64634;Madrid, Spain;Madrid
+1247;2020-04-25;65310;Madrid, Spain;Madrid
+1248;2020-04-26;65546;Madrid, Spain;Madrid
+1249;2020-04-27;66007;Madrid, Spain;Madrid
+1250;2020-04-28;66784;Madrid, Spain;Madrid
+1251;2020-04-29;67460;Madrid, Spain;Madrid
+1252;2020-04-30;67942;Madrid, Spain;Madrid
+1253;2020-05-01;68356;Madrid, Spain;Madrid
+1254;2020-05-02;68537;Madrid, Spain;Madrid
+1255;2020-05-03;68654;Madrid, Spain;Madrid
+1256;2020-05-04;68766;Madrid, Spain;Madrid
+1257;2020-05-05;69178;Madrid, Spain;Madrid
+1258;2020-05-06;69509;Madrid, Spain;Madrid
+1259;2020-05-07;69885;Madrid, Spain;Madrid
+1260;2020-05-08;70125;Madrid, Spain;Madrid
+1261;2020-05-09;70407;Madrid, Spain;Madrid
+1262;2020-05-10;70516;Madrid, Spain;Madrid
+1263;2020-05-11;70570;Madrid, Spain;Madrid
+1264;2020-05-12;70764;Madrid, Spain;Madrid
+1265;2020-05-13;71064;Madrid, Spain;Madrid
+1266;2020-05-14;71273;Madrid, Spain;Madrid
+1267;2020-05-15;71616;Madrid, Spain;Madrid
+1268;2020-05-16;71932;Madrid, Spain;Madrid
+1269;2020-05-17;71956;Madrid, Spain;Madrid
+1270;2020-05-18;71995;Madrid, Spain;Madrid
+1271;2020-05-19;72121;Madrid, Spain;Madrid
+1272;2020-05-20;72260;Madrid, Spain;Madrid
+1273;2020-05-21;72342;Madrid, Spain;Madrid
+1274;2020-02-21;0;Melilla, Spain;Melilla
+1275;2020-02-22;0;Melilla, Spain;Melilla
+1276;2020-02-23;0;Melilla, Spain;Melilla
+1277;2020-02-24;0;Melilla, Spain;Melilla
+1278;2020-02-25;0;Melilla, Spain;Melilla
+1279;2020-02-26;0;Melilla, Spain;Melilla
+1280;2020-02-27;0;Melilla, Spain;Melilla
+1281;2020-02-28;0;Melilla, Spain;Melilla
+1282;2020-02-29;0;Melilla, Spain;Melilla
+1283;2020-03-01;0;Melilla, Spain;Melilla
+1284;2020-03-02;0;Melilla, Spain;Melilla
+1285;2020-03-03;0;Melilla, Spain;Melilla
+1286;2020-03-04;0;Melilla, Spain;Melilla
+1287;2020-03-05;0;Melilla, Spain;Melilla
+1288;2020-03-06;0;Melilla, Spain;Melilla
+1289;2020-03-07;0;Melilla, Spain;Melilla
+1290;2020-03-08;0;Melilla, Spain;Melilla
+1291;2020-03-09;0;Melilla, Spain;Melilla
+1292;2020-03-10;0;Melilla, Spain;Melilla
+1293;2020-03-11;0;Melilla, Spain;Melilla
+1294;2020-03-12;0;Melilla, Spain;Melilla
+1295;2020-03-13;2;Melilla, Spain;Melilla
+1296;2020-03-14;3;Melilla, Spain;Melilla
+1297;2020-03-15;8;Melilla, Spain;Melilla
+1298;2020-03-16;8;Melilla, Spain;Melilla
+1299;2020-03-17;17;Melilla, Spain;Melilla
+1300;2020-03-18;20;Melilla, Spain;Melilla
+1301;2020-03-19;23;Melilla, Spain;Melilla
+1302;2020-03-20;24;Melilla, Spain;Melilla
+1303;2020-03-21;25;Melilla, Spain;Melilla
+1304;2020-03-22;25;Melilla, Spain;Melilla
+1305;2020-03-23;28;Melilla, Spain;Melilla
+1306;2020-03-24;28;Melilla, Spain;Melilla
+1307;2020-03-25;38;Melilla, Spain;Melilla
+1308;2020-03-26;39;Melilla, Spain;Melilla
+1309;2020-03-27;42;Melilla, Spain;Melilla
+1310;2020-03-28;45;Melilla, Spain;Melilla
+1311;2020-03-29;48;Melilla, Spain;Melilla
+1312;2020-03-30;51;Melilla, Spain;Melilla
+1313;2020-03-31;54;Melilla, Spain;Melilla
+1314;2020-04-01;62;Melilla, Spain;Melilla
+1315;2020-04-02;62;Melilla, Spain;Melilla
+1316;2020-04-03;70;Melilla, Spain;Melilla
+1317;2020-04-04;79;Melilla, Spain;Melilla
+1318;2020-04-05;83;Melilla, Spain;Melilla
+1319;2020-04-06;86;Melilla, Spain;Melilla
+1320;2020-04-07;92;Melilla, Spain;Melilla
+1321;2020-04-08;93;Melilla, Spain;Melilla
+1322;2020-04-09;93;Melilla, Spain;Melilla
+1323;2020-04-10;95;Melilla, Spain;Melilla
+1324;2020-04-11;98;Melilla, Spain;Melilla
+1325;2020-04-12;98;Melilla, Spain;Melilla
+1326;2020-04-13;101;Melilla, Spain;Melilla
+1327;2020-04-14;101;Melilla, Spain;Melilla
+1328;2020-04-15;102;Melilla, Spain;Melilla
+1329;2020-04-16;103;Melilla, Spain;Melilla
+1330;2020-04-17;104;Melilla, Spain;Melilla
+1331;2020-04-18;104;Melilla, Spain;Melilla
+1332;2020-04-19;107;Melilla, Spain;Melilla
+1333;2020-04-20;109;Melilla, Spain;Melilla
+1334;2020-04-21;110;Melilla, Spain;Melilla
+1335;2020-04-22;111;Melilla, Spain;Melilla
+1336;2020-04-23;113;Melilla, Spain;Melilla
+1337;2020-04-24;116;Melilla, Spain;Melilla
+1338;2020-04-25;118;Melilla, Spain;Melilla
+1339;2020-04-26;121;Melilla, Spain;Melilla
+1340;2020-04-27;121;Melilla, Spain;Melilla
+1341;2020-04-28;125;Melilla, Spain;Melilla
+1342;2020-04-29;125;Melilla, Spain;Melilla
+1343;2020-04-30;125;Melilla, Spain;Melilla
+1344;2020-05-01;126;Melilla, Spain;Melilla
+1345;2020-05-02;126;Melilla, Spain;Melilla
+1346;2020-05-03;129;Melilla, Spain;Melilla
+1347;2020-05-04;131;Melilla, Spain;Melilla
+1348;2020-05-05;131;Melilla, Spain;Melilla
+1349;2020-05-06;131;Melilla, Spain;Melilla
+1350;2020-05-07;132;Melilla, Spain;Melilla
+1351;2020-05-08;132;Melilla, Spain;Melilla
+1352;2020-05-09;132;Melilla, Spain;Melilla
+1353;2020-05-10;132;Melilla, Spain;Melilla
+1354;2020-05-11;132;Melilla, Spain;Melilla
+1355;2020-05-12;132;Melilla, Spain;Melilla
+1356;2020-05-13;132;Melilla, Spain;Melilla
+1357;2020-05-14;132;Melilla, Spain;Melilla
+1358;2020-05-15;132;Melilla, Spain;Melilla
+1359;2020-05-16;132;Melilla, Spain;Melilla
+1360;2020-05-17;134;Melilla, Spain;Melilla
+1361;2020-05-18;134;Melilla, Spain;Melilla
+1362;2020-05-19;134;Melilla, Spain;Melilla
+1363;2020-05-20;134;Melilla, Spain;Melilla
+1364;2020-05-21;134;Melilla, Spain;Melilla
+1365;2020-02-21;0;Murcia, Spain;Murcia
+1366;2020-02-22;0;Murcia, Spain;Murcia
+1367;2020-02-23;0;Murcia, Spain;Murcia
+1368;2020-02-24;0;Murcia, Spain;Murcia
+1369;2020-02-25;0;Murcia, Spain;Murcia
+1370;2020-02-26;0;Murcia, Spain;Murcia
+1371;2020-02-27;0;Murcia, Spain;Murcia
+1372;2020-02-28;0;Murcia, Spain;Murcia
+1373;2020-02-29;0;Murcia, Spain;Murcia
+1374;2020-03-01;0;Murcia, Spain;Murcia
+1375;2020-03-02;0;Murcia, Spain;Murcia
+1376;2020-03-03;0;Murcia, Spain;Murcia
+1377;2020-03-04;0;Murcia, Spain;Murcia
+1378;2020-03-05;0;Murcia, Spain;Murcia
+1379;2020-03-06;0;Murcia, Spain;Murcia
+1380;2020-03-07;0;Murcia, Spain;Murcia
+1381;2020-03-08;1;Murcia, Spain;Murcia
+1382;2020-03-09;4;Murcia, Spain;Murcia
+1383;2020-03-10;9;Murcia, Spain;Murcia
+1384;2020-03-11;11;Murcia, Spain;Murcia
+1385;2020-03-12;26;Murcia, Spain;Murcia
+1386;2020-03-13;35;Murcia, Spain;Murcia
+1387;2020-03-14;47;Murcia, Spain;Murcia
+1388;2020-03-15;71;Murcia, Spain;Murcia
+1389;2020-03-16;77;Murcia, Spain;Murcia
+1390;2020-03-17;97;Murcia, Spain;Murcia
+1391;2020-03-18;122;Murcia, Spain;Murcia
+1392;2020-03-19;167;Murcia, Spain;Murcia
+1393;2020-03-20;204;Murcia, Spain;Murcia
+1394;2020-03-21;240;Murcia, Spain;Murcia
+1395;2020-03-22;296;Murcia, Spain;Murcia
+1396;2020-03-23;345;Murcia, Spain;Murcia
+1397;2020-03-24;385;Murcia, Spain;Murcia
+1398;2020-03-25;477;Murcia, Spain;Murcia
+1399;2020-03-26;596;Murcia, Spain;Murcia
+1400;2020-03-27;714;Murcia, Spain;Murcia
+1401;2020-03-28;802;Murcia, Spain;Murcia
+1402;2020-03-29;872;Murcia, Spain;Murcia
+1403;2020-03-30;939;Murcia, Spain;Murcia
+1404;2020-03-31;974;Murcia, Spain;Murcia
+1405;2020-04-01;1041;Murcia, Spain;Murcia
+1406;2020-04-02;1084;Murcia, Spain;Murcia
+1407;2020-04-03;1145;Murcia, Spain;Murcia
+1408;2020-04-04;1188;Murcia, Spain;Murcia
+1409;2020-04-05;1235;Murcia, Spain;Murcia
+1410;2020-04-06;1259;Murcia, Spain;Murcia
+1411;2020-04-07;1263;Murcia, Spain;Murcia
+1412;2020-04-08;1305;Murcia, Spain;Murcia
+1413;2020-04-09;1340;Murcia, Spain;Murcia
+1414;2020-04-10;1367;Murcia, Spain;Murcia
+1415;2020-04-11;1404;Murcia, Spain;Murcia
+1416;2020-04-12;1436;Murcia, Spain;Murcia
+1417;2020-04-13;1452;Murcia, Spain;Murcia
+1418;2020-04-14;1479;Murcia, Spain;Murcia
+1419;2020-04-15;1528;Murcia, Spain;Murcia
+1420;2020-04-16;1590;Murcia, Spain;Murcia
+1421;2020-04-17;1626;Murcia, Spain;Murcia
+1422;2020-04-18;1647;Murcia, Spain;Murcia
+1423;2020-04-19;1653;Murcia, Spain;Murcia
+1424;2020-04-20;1659;Murcia, Spain;Murcia
+1425;2020-04-21;1696;Murcia, Spain;Murcia
+1426;2020-04-22;1717;Murcia, Spain;Murcia
+1427;2020-04-23;1721;Murcia, Spain;Murcia
+1428;2020-04-24;1741;Murcia, Spain;Murcia
+1429;2020-04-25;1756;Murcia, Spain;Murcia
+1430;2020-04-26;1771;Murcia, Spain;Murcia
+1431;2020-04-27;1771;Murcia, Spain;Murcia
+1432;2020-04-28;1793;Murcia, Spain;Murcia
+1433;2020-04-29;1840;Murcia, Spain;Murcia
+1434;2020-04-30;1894;Murcia, Spain;Murcia
+1435;2020-05-01;1960;Murcia, Spain;Murcia
+1436;2020-05-02;1966;Murcia, Spain;Murcia
+1437;2020-05-03;1974;Murcia, Spain;Murcia
+1438;2020-05-04;1974;Murcia, Spain;Murcia
+1439;2020-05-05;2051;Murcia, Spain;Murcia
+1440;2020-05-06;2133;Murcia, Spain;Murcia
+1441;2020-05-07;2192;Murcia, Spain;Murcia
+1442;2020-05-08;2252;Murcia, Spain;Murcia
+1443;2020-05-09;2263;Murcia, Spain;Murcia
+1444;2020-05-10;2329;Murcia, Spain;Murcia
+1445;2020-05-11;2332;Murcia, Spain;Murcia
+1446;2020-05-12;2333;Murcia, Spain;Murcia
+1447;2020-05-13;2398;Murcia, Spain;Murcia
+1448;2020-05-14;2437;Murcia, Spain;Murcia
+1449;2020-05-15;2477;Murcia, Spain;Murcia
+1450;2020-05-16;2546;Murcia, Spain;Murcia
+1451;2020-05-17;2566;Murcia, Spain;Murcia
+1452;2020-05-18;2595;Murcia, Spain;Murcia
+1453;2020-05-19;2597;Murcia, Spain;Murcia
+1454;2020-05-20;2599;Murcia, Spain;Murcia
+1455;2020-05-21;2609;Murcia, Spain;Murcia
+1456;2020-02-21;0;Navarra, Spain;Navarra
+1457;2020-02-22;0;Navarra, Spain;Navarra
+1458;2020-02-23;0;Navarra, Spain;Navarra
+1459;2020-02-24;0;Navarra, Spain;Navarra
+1460;2020-02-25;0;Navarra, Spain;Navarra
+1461;2020-02-26;0;Navarra, Spain;Navarra
+1462;2020-02-27;0;Navarra, Spain;Navarra
+1463;2020-02-28;0;Navarra, Spain;Navarra
+1464;2020-02-29;0;Navarra, Spain;Navarra
+1465;2020-03-01;1;Navarra, Spain;Navarra
+1466;2020-03-02;1;Navarra, Spain;Navarra
+1467;2020-03-03;1;Navarra, Spain;Navarra
+1468;2020-03-04;3;Navarra, Spain;Navarra
+1469;2020-03-05;3;Navarra, Spain;Navarra
+1470;2020-03-06;3;Navarra, Spain;Navarra
+1471;2020-03-07;3;Navarra, Spain;Navarra
+1472;2020-03-08;3;Navarra, Spain;Navarra
+1473;2020-03-09;3;Navarra, Spain;Navarra
+1474;2020-03-10;12;Navarra, Spain;Navarra
+1475;2020-03-11;46;Navarra, Spain;Navarra
+1476;2020-03-12;73;Navarra, Spain;Navarra
+1477;2020-03-13;130;Navarra, Spain;Navarra
+1478;2020-03-14;146;Navarra, Spain;Navarra
+1479;2020-03-15;183;Navarra, Spain;Navarra
+1480;2020-03-16;274;Navarra, Spain;Navarra
+1481;2020-03-17;313;Navarra, Spain;Navarra
+1482;2020-03-18;386;Navarra, Spain;Navarra
+1483;2020-03-19;482;Navarra, Spain;Navarra
+1484;2020-03-20;554;Navarra, Spain;Navarra
+1485;2020-03-21;664;Navarra, Spain;Navarra
+1486;2020-03-22;794;Navarra, Spain;Navarra
+1487;2020-03-23;886;Navarra, Spain;Navarra
+1488;2020-03-24;1014;Navarra, Spain;Navarra
+1489;2020-03-25;1197;Navarra, Spain;Navarra
+1490;2020-03-26;1411;Navarra, Spain;Navarra
+1491;2020-03-27;1641;Navarra, Spain;Navarra
+1492;2020-03-28;1829;Navarra, Spain;Navarra
+1493;2020-03-29;2011;Navarra, Spain;Navarra
+1494;2020-03-30;2146;Navarra, Spain;Navarra
+1495;2020-03-31;2305;Navarra, Spain;Navarra
+1496;2020-04-01;2497;Navarra, Spain;Navarra
+1497;2020-04-02;2682;Navarra, Spain;Navarra
+1498;2020-04-03;2836;Navarra, Spain;Navarra
+1499;2020-04-04;2972;Navarra, Spain;Navarra
+1500;2020-04-05;3073;Navarra, Spain;Navarra
+1501;2020-04-06;3231;Navarra, Spain;Navarra
+1502;2020-04-07;3355;Navarra, Spain;Navarra
+1503;2020-04-08;3467;Navarra, Spain;Navarra
+1504;2020-04-09;3575;Navarra, Spain;Navarra
+1505;2020-04-10;3748;Navarra, Spain;Navarra
+1506;2020-04-11;3817;Navarra, Spain;Navarra
+1507;2020-04-12;3969;Navarra, Spain;Navarra
+1508;2020-04-13;4092;Navarra, Spain;Navarra
+1509;2020-04-14;4150;Navarra, Spain;Navarra
+1510;2020-04-15;4246;Navarra, Spain;Navarra
+1511;2020-04-16;4348;Navarra, Spain;Navarra
+1512;2020-04-17;4433;Navarra, Spain;Navarra
+1513;2020-04-18;4579;Navarra, Spain;Navarra
+1514;2020-04-19;4656;Navarra, Spain;Navarra
+1515;2020-04-20;4735;Navarra, Spain;Navarra
+1516;2020-04-21;4831;Navarra, Spain;Navarra
+1517;2020-04-22;4958;Navarra, Spain;Navarra
+1518;2020-04-23;5063;Navarra, Spain;Navarra
+1519;2020-04-24;5180;Navarra, Spain;Navarra
+1520;2020-04-25;5274;Navarra, Spain;Navarra
+1521;2020-04-26;5452;Navarra, Spain;Navarra
+1522;2020-04-27;5486;Navarra, Spain;Navarra
+1523;2020-04-28;5630;Navarra, Spain;Navarra
+1524;2020-04-29;5884;Navarra, Spain;Navarra
+1525;2020-04-30;6140;Navarra, Spain;Navarra
+1526;2020-05-01;6337;Navarra, Spain;Navarra
+1527;2020-05-02;6411;Navarra, Spain;Navarra
+1528;2020-05-03;6427;Navarra, Spain;Navarra
+1529;2020-05-04;6447;Navarra, Spain;Navarra
+1530;2020-05-05;6561;Navarra, Spain;Navarra
+1531;2020-05-06;6770;Navarra, Spain;Navarra
+1532;2020-05-07;7010;Navarra, Spain;Navarra
+1533;2020-05-08;7227;Navarra, Spain;Navarra
+1534;2020-05-09;7442;Navarra, Spain;Navarra
+1535;2020-05-10;7455;Navarra, Spain;Navarra
+1536;2020-05-11;7486;Navarra, Spain;Navarra
+1537;2020-05-12;7637;Navarra, Spain;Navarra
+1538;2020-05-13;7752;Navarra, Spain;Navarra
+1539;2020-05-14;7891;Navarra, Spain;Navarra
+1540;2020-05-15;8082;Navarra, Spain;Navarra
+1541;2020-05-16;8235;Navarra, Spain;Navarra
+1542;2020-05-17;8293;Navarra, Spain;Navarra
+1543;2020-05-18;8335;Navarra, Spain;Navarra
+1544;2020-05-19;8340;Navarra, Spain;Navarra
+1545;2020-05-20;8349;Navarra, Spain;Navarra
+1546;2020-05-21;8352;Navarra, Spain;Navarra
+1547;2020-02-21;0;País Vasco, Spain;País Vasco
+1548;2020-02-22;0;País Vasco, Spain;País Vasco
+1549;2020-02-23;0;País Vasco, Spain;País Vasco
+1550;2020-02-24;0;País Vasco, Spain;País Vasco
+1551;2020-02-25;0;País Vasco, Spain;País Vasco
+1552;2020-02-26;0;País Vasco, Spain;País Vasco
+1553;2020-02-27;0;País Vasco, Spain;País Vasco
+1554;2020-02-28;0;País Vasco, Spain;País Vasco
+1555;2020-02-29;2;País Vasco, Spain;País Vasco
+1556;2020-03-01;3;País Vasco, Spain;País Vasco
+1557;2020-03-02;9;País Vasco, Spain;País Vasco
+1558;2020-03-03;13;País Vasco, Spain;País Vasco
+1559;2020-03-04;17;País Vasco, Spain;País Vasco
+1560;2020-03-05;17;País Vasco, Spain;País Vasco
+1561;2020-03-06;45;País Vasco, Spain;País Vasco
+1562;2020-03-07;45;País Vasco, Spain;País Vasco
+1563;2020-03-08;70;País Vasco, Spain;País Vasco
+1564;2020-03-09;149;País Vasco, Spain;País Vasco
+1565;2020-03-10;195;País Vasco, Spain;País Vasco
+1566;2020-03-11;225;País Vasco, Spain;País Vasco
+1567;2020-03-12;346;País Vasco, Spain;País Vasco
+1568;2020-03-13;417;País Vasco, Spain;País Vasco
+1569;2020-03-14;521;País Vasco, Spain;País Vasco
+1570;2020-03-15;630;País Vasco, Spain;País Vasco
+1571;2020-03-16;630;País Vasco, Spain;País Vasco
+1572;2020-03-17;765;País Vasco, Spain;País Vasco
+1573;2020-03-18;973;País Vasco, Spain;País Vasco
+1574;2020-03-19;1190;País Vasco, Spain;País Vasco
+1575;2020-03-20;1465;País Vasco, Spain;País Vasco
+1576;2020-03-21;1725;País Vasco, Spain;País Vasco
+1577;2020-03-22;2097;País Vasco, Spain;País Vasco
+1578;2020-03-23;2421;País Vasco, Spain;País Vasco
+1579;2020-03-24;2728;País Vasco, Spain;País Vasco
+1580;2020-03-25;3271;País Vasco, Spain;País Vasco
+1581;2020-03-26;3946;País Vasco, Spain;País Vasco
+1582;2020-03-27;4601;País Vasco, Spain;País Vasco
+1583;2020-03-28;5136;País Vasco, Spain;País Vasco
+1584;2020-03-29;5740;País Vasco, Spain;País Vasco
+1585;2020-03-30;6057;País Vasco, Spain;País Vasco
+1586;2020-03-31;6320;País Vasco, Spain;País Vasco
+1587;2020-04-01;6838;País Vasco, Spain;País Vasco
+1588;2020-04-02;7317;País Vasco, Spain;País Vasco
+1589;2020-04-03;7827;País Vasco, Spain;País Vasco
+1590;2020-04-04;8187;País Vasco, Spain;País Vasco
+1591;2020-04-05;8628;País Vasco, Spain;País Vasco
+1592;2020-04-06;8810;País Vasco, Spain;País Vasco
+1593;2020-04-07;9021;País Vasco, Spain;País Vasco
+1594;2020-04-08;9452;País Vasco, Spain;País Vasco
+1595;2020-04-09;9806;País Vasco, Spain;País Vasco
+1596;2020-04-10;10103;País Vasco, Spain;País Vasco
+1597;2020-04-11;10515;País Vasco, Spain;País Vasco
+1598;2020-04-12;10772;País Vasco, Spain;País Vasco
+1599;2020-04-13;11018;País Vasco, Spain;País Vasco
+1600;2020-04-14;11226;País Vasco, Spain;País Vasco
+1601;2020-04-15;11475;País Vasco, Spain;País Vasco
+1602;2020-04-16;11790;País Vasco, Spain;País Vasco
+1603;2020-04-17;12089;País Vasco, Spain;País Vasco
+1604;2020-04-18;12355;País Vasco, Spain;País Vasco
+1605;2020-04-19;12569;País Vasco, Spain;País Vasco
+1606;2020-04-20;12628;País Vasco, Spain;País Vasco
+1607;2020-04-21;12810;País Vasco, Spain;País Vasco
+1608;2020-04-22;13044;País Vasco, Spain;País Vasco
+1609;2020-04-23;13436;País Vasco, Spain;País Vasco
+1610;2020-04-24;13780;País Vasco, Spain;País Vasco
+1611;2020-04-25;14132;País Vasco, Spain;País Vasco
+1612;2020-04-26;14315;País Vasco, Spain;País Vasco
+1613;2020-04-27;14412;País Vasco, Spain;País Vasco
+1614;2020-04-28;14804;País Vasco, Spain;País Vasco
+1615;2020-04-29;15138;País Vasco, Spain;País Vasco
+1616;2020-04-30;15519;País Vasco, Spain;País Vasco
+1617;2020-05-01;15969;País Vasco, Spain;País Vasco
+1618;2020-05-02;16131;País Vasco, Spain;País Vasco
+1619;2020-05-03;16203;País Vasco, Spain;País Vasco
+1620;2020-05-04;16250;País Vasco, Spain;País Vasco
+1621;2020-05-05;16448;País Vasco, Spain;País Vasco
+1622;2020-05-06;16692;País Vasco, Spain;País Vasco
+1623;2020-05-07;16972;País Vasco, Spain;País Vasco
+1624;2020-05-08;17289;País Vasco, Spain;País Vasco
+1625;2020-05-09;17603;País Vasco, Spain;País Vasco
+1626;2020-05-10;17714;País Vasco, Spain;País Vasco
+1627;2020-05-11;17745;País Vasco, Spain;País Vasco
+1628;2020-05-12;17895;País Vasco, Spain;País Vasco
+1629;2020-05-13;18141;País Vasco, Spain;País Vasco
+1630;2020-05-14;18184;País Vasco, Spain;País Vasco
+1631;2020-05-15;18213;País Vasco, Spain;País Vasco
+1632;2020-05-16;18564;País Vasco, Spain;País Vasco
+1633;2020-05-17;18690;País Vasco, Spain;País Vasco
+1634;2020-05-18;18729;País Vasco, Spain;País Vasco
+1635;2020-05-19;18744;País Vasco, Spain;País Vasco
+1636;2020-05-20;18770;País Vasco, Spain;País Vasco
+1637;2020-05-21;18779;País Vasco, Spain;País Vasco
+1638;2020-02-21;0;La Rioja, Spain;La Rioja
+1639;2020-02-22;0;La Rioja, Spain;La Rioja
+1640;2020-02-23;0;La Rioja, Spain;La Rioja
+1641;2020-02-24;0;La Rioja, Spain;La Rioja
+1642;2020-02-25;0;La Rioja, Spain;La Rioja
+1643;2020-02-26;0;La Rioja, Spain;La Rioja
+1644;2020-02-27;0;La Rioja, Spain;La Rioja
+1645;2020-02-28;0;La Rioja, Spain;La Rioja
+1646;2020-02-29;0;La Rioja, Spain;La Rioja
+1647;2020-03-01;0;La Rioja, Spain;La Rioja
+1648;2020-03-02;1;La Rioja, Spain;La Rioja
+1649;2020-03-03;2;La Rioja, Spain;La Rioja
+1650;2020-03-04;7;La Rioja, Spain;La Rioja
+1651;2020-03-05;17;La Rioja, Spain;La Rioja
+1652;2020-03-06;29;La Rioja, Spain;La Rioja
+1653;2020-03-07;47;La Rioja, Spain;La Rioja
+1654;2020-03-08;70;La Rioja, Spain;La Rioja
+1655;2020-03-09;102;La Rioja, Spain;La Rioja
+1656;2020-03-10;155;La Rioja, Spain;La Rioja
+1657;2020-03-11;185;La Rioja, Spain;La Rioja
+1658;2020-03-12;220;La Rioja, Spain;La Rioja
+1659;2020-03-13;259;La Rioja, Spain;La Rioja
+1660;2020-03-14;292;La Rioja, Spain;La Rioja
+1661;2020-03-15;300;La Rioja, Spain;La Rioja
+1662;2020-03-16;312;La Rioja, Spain;La Rioja
+1663;2020-03-17;355;La Rioja, Spain;La Rioja
+1664;2020-03-18;419;La Rioja, Spain;La Rioja
+1665;2020-03-19;468;La Rioja, Spain;La Rioja
+1666;2020-03-20;497;La Rioja, Spain;La Rioja
+1667;2020-03-21;564;La Rioja, Spain;La Rioja
+1668;2020-03-22;654;La Rioja, Spain;La Rioja
+1669;2020-03-23;747;La Rioja, Spain;La Rioja
+1670;2020-03-24;802;La Rioja, Spain;La Rioja
+1671;2020-03-25;928;La Rioja, Spain;La Rioja
+1672;2020-03-26;995;La Rioja, Spain;La Rioja
+1673;2020-03-27;1236;La Rioja, Spain;La Rioja
+1674;2020-03-28;1436;La Rioja, Spain;La Rioja
+1675;2020-03-29;1629;La Rioja, Spain;La Rioja
+1676;2020-03-30;1733;La Rioja, Spain;La Rioja
+1677;2020-03-31;1810;La Rioja, Spain;La Rioja
+1678;2020-04-01;1960;La Rioja, Spain;La Rioja
+1679;2020-04-02;2083;La Rioja, Spain;La Rioja
+1680;2020-04-03;2224;La Rioja, Spain;La Rioja
+1681;2020-04-04;2405;La Rioja, Spain;La Rioja
+1682;2020-04-05;2592;La Rioja, Spain;La Rioja
+1683;2020-04-06;2719;La Rioja, Spain;La Rioja
+1684;2020-04-07;2846;La Rioja, Spain;La Rioja
+1685;2020-04-08;2951;La Rioja, Spain;La Rioja
+1686;2020-04-09;3026;La Rioja, Spain;La Rioja
+1687;2020-04-10;3076;La Rioja, Spain;La Rioja
+1688;2020-04-11;3496;La Rioja, Spain;La Rioja
+1689;2020-04-12;3596;La Rioja, Spain;La Rioja
+1690;2020-04-13;3675;La Rioja, Spain;La Rioja
+1691;2020-04-14;3749;La Rioja, Spain;La Rioja
+1692;2020-04-15;3831;La Rioja, Spain;La Rioja
+1693;2020-04-16;3916;La Rioja, Spain;La Rioja
+1694;2020-04-17;4098;La Rioja, Spain;La Rioja
+1695;2020-04-18;4250;La Rioja, Spain;La Rioja
+1696;2020-04-19;4330;La Rioja, Spain;La Rioja
+1697;2020-04-20;4371;La Rioja, Spain;La Rioja
+1698;2020-04-21;4483;La Rioja, Spain;La Rioja
+1699;2020-04-22;4586;La Rioja, Spain;La Rioja
+1700;2020-04-23;4727;La Rioja, Spain;La Rioja
+1701;2020-04-24;4865;La Rioja, Spain;La Rioja
+1702;2020-04-25;4946;La Rioja, Spain;La Rioja
+1703;2020-04-26;4998;La Rioja, Spain;La Rioja
+1704;2020-04-27;5041;La Rioja, Spain;La Rioja
+1705;2020-04-28;5097;La Rioja, Spain;La Rioja
+1706;2020-04-29;5173;La Rioja, Spain;La Rioja
+1707;2020-04-30;5206;La Rioja, Spain;La Rioja
+1708;2020-05-01;5226;La Rioja, Spain;La Rioja
+1709;2020-05-02;5239;La Rioja, Spain;La Rioja
+1710;2020-05-03;5247;La Rioja, Spain;La Rioja
+1711;2020-05-04;5258;La Rioja, Spain;La Rioja
+1712;2020-05-05;5270;La Rioja, Spain;La Rioja
+1713;2020-05-06;5322;La Rioja, Spain;La Rioja
+1714;2020-05-07;5330;La Rioja, Spain;La Rioja
+1715;2020-05-08;5355;La Rioja, Spain;La Rioja
+1716;2020-05-09;5365;La Rioja, Spain;La Rioja
+1717;2020-05-10;5378;La Rioja, Spain;La Rioja
+1718;2020-05-11;5382;La Rioja, Spain;La Rioja
+1719;2020-05-12;5392;La Rioja, Spain;La Rioja
+1720;2020-05-13;5397;La Rioja, Spain;La Rioja
+1721;2020-05-14;5405;La Rioja, Spain;La Rioja
+1722;2020-05-15;5409;La Rioja, Spain;La Rioja
+1723;2020-05-16;5413;La Rioja, Spain;La Rioja
+1724;2020-05-17;5417;La Rioja, Spain;La Rioja
+1725;2020-05-18;5417;La Rioja, Spain;La Rioja
+1726;2020-05-19;5422;La Rioja, Spain;La Rioja
+1727;2020-05-20;5428;La Rioja, Spain;La Rioja
+1728;2020-05-21;5428;La Rioja, Spain;La Rioja
